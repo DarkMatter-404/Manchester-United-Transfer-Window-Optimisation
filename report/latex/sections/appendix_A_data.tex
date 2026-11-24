@@ -1,0 +1,88 @@
+\section{Data, inputs and scoring}\label{app:data}
+% =====================================================================
+
+Table~\ref{tab:assumptions} summarises the inputs of the base case, their type and the runs that test them.
+
+\begin{apptable}
+\captionof{table}{Main inputs of the base case and the runs that test them.}\label{tab:assumptions}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.22\linewidth} >{\raggedright\arraybackslash}p{0.33\linewidth} >{\raggedright\arraybackslash}p{0.15\linewidth} >{\raggedright\arraybackslash}p{0.24\linewidth}@{}}
+\toprule
+Input & Base value & Type & Tested by \\
+\midrule
+Match, transfer and valuation records & 2023/24 and 2024/25, to 31 May 2025 & Observed & n/a \\
+Purchase fees & 1.1 $\times$ value, with mark-ups & Estimate & Multiplier 0.9, 1.5; club rules removed \\
+Sale receipts & 0.9 $\times$ value & Estimate & 0.7 and 1.0 \\
+Wages & United: 2025/26 table (approximation); candidates: bands & Estimate & $\pm$10\%; protected limit; bands for United \\
+Net allowance $B$ & \pounds 250m & Policy choice & \pounds 0m to \pounds 300m \\
+Wage allowance $W$ & \pounds 148m a year & Policy choice & \pounds 133.38m to \pounds 183m; removed \\
+Fee ceiling; arrivals and sales & \pounds 75m; at most 6 each & Policy choice & \pounds 100m; 4, 5 and 7 arrivals \\
+Senior and non-home-grown places & 25 and 17 & League rule & 16 and 18 non-home-grown \\
+Cover per role & GK 2--3, CB 5--7, WB 4--5, CM 4--5, AM 4--6, ST 2--3 & Policy choice & n/a \\
+Two-year rule & Spell begun before 1 June 2023 & Policy choice & Rule removed \\
+Score and depth weights & Table~\ref{tab:weights}; $\mu = 0.3$ & Judgement & $\mu$ = 0, 0.2, 0.4; value removed \\
+Injury, development & Not quantified & Simplification & n/a \\
+Deal completion & At the modelled terms & Simplification & Alternatives \\
+\bottomrule
+\end{tabular}
+\end{apptable}
+
+\subsection{Candidates and existing players}
+
+Tables~\ref{tab:funnel} and~\ref{tab:existing} give the candidate filters and the 24 existing players. Left out are four expiring contracts (Christian Eriksen, Victor Lindelöf, Jonny Evans, Tom Heaton), four loans (Marcus Rashford, Antony, Tyrell Malacia, Jadon Sancho), Diego León and Dermot Mee. Alejandro Garnacho's wage is the 2024/25 figure, entered by hand.
+
+\begin{apptable}
+\captionof{table}{Candidate filters, applied in order.}\label{tab:funnel}
+\tablefile{app_funnel}
+\end{apptable}
+
+{\setstretch{1}\tablefile{app_existing}}
+
+\subsection{Fees and wages}
+
+Table~\ref{tab:wagebands} gives the candidate wage bands, chosen by the reference fee under the base rule, and Table~\ref{tab:signingterms} applies the fee and wage rules to the six purchases.
+
+\begin{apptable}
+\captionof{table}{Weekly wage bands for candidates by reference fee (team assumption, not observed pay).}\label{tab:wagebands}
+\begin{tabular}{@{}l r r@{}}
+\toprule
+Reference fee under the base rule & Weekly wage (\pounds) & Annual wage (\pounds m) \\
+\midrule
+\pounds 70m or more & 250,000 & 13.00 \\
+\pounds 50m to under \pounds 70m & 200,000 & 10.40 \\
+\pounds 35m to under \pounds 50m & 150,000 & 7.80 \\
+\pounds 20m to under \pounds 35m & 110,000 & 5.72 \\
+\pounds 10m to under \pounds 20m & 75,000 & 3.90 \\
+Under \pounds 10m & 45,000 & 2.34 \\
+\bottomrule
+\end{tabular}
+\end{apptable}
+
+\begin{apptable}
+\captionof{table}{How the fees and wages of the six purchases were set (money in \pounds m).}\label{tab:signingterms}
+\tablefile{app_signing_terms}
+\end{apptable}
+
+The 1.3 multiplier is a judgement informed by descriptive evidence, not an estimated causal premium. Among transfers between clubs of the five leagues dated 1 June 2021 to 31 May 2025, for players aged 26 or under with recorded fee and value of at least 5 million euros (rows missing either drop out), English players sold by Premier League clubs went for a median of 1.27 times the value stored with the transfer (50 transfers), against 1.06 for all others (493); non-English players sold by Premier League clubs went for 1.22 (95), so nationality is not separated from the selling league. A re-run on 19 November 2026 gave the same figures. The rival-club mark-ups are team judgement.
+
+\subsection{Construction of the quality proxy}\label{app:score}
+
+For player $p$ and season $s$, $w_s$ is 0.3 for 2023/24 and 0.7 for 2024/25, divided by the sum of the weights of the seasons the player has; $m_s$ is league minutes for all clubs, $M_s$ the league matches of the main club, $g_s + a_s$ goals plus assists, $n_s$ starts, $c_s$ goals conceded in those starts and $P_s$ the main club's league points per match. Then
+\begin{align*}
+\text{playing time} &= \textstyle\sum_s w_s m_s / (90 M_s), & \text{team level} &= \textstyle\sum_s w_s P_s, \\
+\text{attacking output} &= 90 \textstyle\sum_s w_s (g_s + a_s) \big/ \textstyle\sum_s w_s m_s, & \text{defensive output} &= \textstyle\sum_s w_s c_s \big/ \textstyle\sum_s w_s n_s,
+\end{align*}
+and market value is the latest valuation on or before the cutoff. Each component becomes a percentile by \eqref{eq:percentile}, with defensive output multiplied by $-1$ first. Output is ranked only among players with at least 900 weighted minutes (ten weighted starts for CB and GK); the others receive 50. The score is $q_{pg} = \sum_c \theta_{gc} \pi_{pgc}$. Tables~\ref{tab:scoreseasons} and~\ref{tab:scoreparts} work through one attacking and one defensive example. Percentiles are stored to one decimal place, so the rounded contributions can differ from the stored score by 0.01.
+
+\begin{apptable}
+\captionof{table}{Season records behind the two worked examples.}\label{tab:scoreseasons}
+\tablefile{app_score_seasons}
+\end{apptable}
+
+\begin{apptable}
+\captionof{table}{Components, percentiles and weighted contributions of the two worked examples. For the centre-back, a lower conceded rate gives a higher percentile.}\label{tab:scoreparts}
+\tablefile{app_score_parts}
+\end{apptable}
+
+Line-up positions map to roles as follows: goalkeeper to GK; centre-back and sweeper to CB; full-backs to WB; defensive and central midfield to CM; attacking midfield, wingers and second striker to AM; centre-forward to ST; wide midfield to WB in a back three or five and AM otherwise. Starts count in every recorded competition of 2023/24 and 2024/25.
+
+\FloatBarrier

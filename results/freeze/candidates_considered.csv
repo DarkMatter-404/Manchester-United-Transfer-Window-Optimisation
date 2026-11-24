@@ -1,0 +1,282 @@
+player_id,name,club_at_cutoff,age,roles,fee_gbp_m,wage_gbp_m
+283170,Iñaki Peña,FC Barcelona,26,GK,12.62,3.9
+284857,Marc Cucurella,Chelsea FC,26,WB,44.16,7.8
+296397,Arne Maier,FC Augsburg,26,AM/CM,3.7,2.34
+296428,Timon Weiner,Holstein Kiel,26,GK,1.39,2.34
+314678,Brahim Díaz,Real Madrid,25,AM,56.78,10.4
+315858,Gianluigi Donnarumma,Paris Saint-Germain,26,GK,44.16,7.8
+323167,Matteo Gabbia,AC Milan,25,CB,12.95,3.9
+324795,Mahdi Camara,Stade Brestois 29,26,AM/CM,9.25,2.34
+324804,Yann Karamoh,Torino FC,26,AM,2.04,2.34
+329373,Carlo Boukhalfa,FC St. Pauli,26,CM,0.93,2.34
+331505,Óscar Mingueza,Celta de Vigo,26,AM/WB,18.51,3.9
+332697,Weston McKennie,Juventus FC,26,AM/WB/CM,22.21,5.72
+333647,Jonathan Burkardt,1.FSV Mainz 05,24,ST/AM,32.39,5.72
+335225,Manu Morlanes,RCD Mallorca,26,CM,2.31,2.34
+337092,Tim Siersleben,1. Fußballclub Heidenheim 1846,25,CB,1.39,2.34
+338670,Mile Svilar,Associazione Sportiva Roma,25,GK,15.73,3.9
+340329,Joe Willock,Newcastle United,25,CM,24.06,5.72
+341278,Iván Martín,Girona FC,26,AM/CM,9.25,2.34
+342405,Mattias Svanberg,VfL Wolfsburg,26,CM,11.1,3.9
+343959,Erhan Masovic,VfL Bochum,26,CM/CB,2.78,2.34
+344605,Boubakary Soumaré,Leicester City,26,CM,12.95,3.9
+344695,Dayot Upamecano,Bayern Munich,26,CB,63.09,10.4
+346314,Trevoh Chalobah,Chelsea FC,25,WB/CB,31.55,5.72
+346546,Radoslaw Majecki,AS Monaco,25,GK,6.48,2.34
+346561,Luca Ranieri,ACF Fiorentina,26,CB,11.1,3.9
+346567,Luca Pellegrini,Società Sportiva Lazio S.p.A.,26,WB,2.31,2.34
+346853,Romano Schmid,SV Werder Bremen,25,AM,13.88,3.9
+357117,Alban Lafont,FC Nantes,26,GK,3.7,2.34
+357156,Diogo Leite,1.FC Union Berlin,26,CB,15.73,3.9
+357164,Rafael Leão,AC Milan,25,AM,69.4,10.4
+357498,Dušan Vlahović,Juventus FC,25,ST,41.64,7.8
+358504,Ritsu Doan,SC Freiburg,26,AM/WB,20.36,5.72
+362108,Gabriel Gudmundsson,LOSC Lille,26,AM/WB,8.33,2.34
+371141,Stanley Nsoki,TSG 1899 Hoffenheim,26,WB/CB,2.31,2.34
+371851,Jaka Bijol,Udinese Calcio,26,CB,16.66,3.9
+375382,André Almeida,Valencia CF,25,AM,7.4,2.34
+387047,Danilho Doekhi,1.FC Union Berlin,26,CB,12.03,3.9
+388198,Nico Schlotterbeck,Borussia Dortmund,25,CB,37.01,7.8
+390304,Federico Ravaglia,Bologna Football Club 1909,25,GK,0.93,2.34
+390688,Juan Iglesias,Getafe CF,26,AM/WB,3.24,2.34
+391004,Jonas Wind,VfL Wolfsburg,26,ST/AM,13.88,3.9
+392516,Antonino Gallo,US Lecce,25,WB,4.16,2.34
+392569,Gabriele Zappa,Cagliari Calcio,25,WB/CB,3.7,2.34
+392757,Marc Guéhi,Crystal Palace,24,CB,49.21,7.8
+392956,Enrico Delprato,Parma Calcio 1913,25,WB/CB,5.55,2.34
+393238,Zakaria Aboukhlal,FC Toulouse,25,AM,11.1,3.9
+393512,Felix Agu,SV Werder Bremen,25,WB,5.55,2.34
+394327,Boubacar Kamara,Aston Villa,25,CM,37.01,7.8
+397171,Gideon Mensah,AJ Auxerre,26,WB,3.24,2.34
+397486,Dennis Man,Parma Calcio 1913,26,AM,11.57,3.9
+398184,Ferran Torres,FC Barcelona,25,ST/AM,35.33,7.8
+399434,Marcus Tavernier,AFC Bournemouth,26,AM,19.68,3.9
+401529,Dodô,ACF Fiorentina,26,WB,20.36,5.72
+401578,Exequiel Palacios,Bayer 04 Leverkusen,26,CM,37.01,7.8
+404842,Vitaliy Mykolenko,Everton FC,26,WB,25.91,5.72
+405398,Takefusa Kubo,Real Sociedad,23,AM,37.01,7.8
+405885,Giacomo Raspadori,SSC Napoli,25,ST/AM,18.51,3.9
+406973,Moritz Broschinski,VfL Bochum,24,ST/AM,2.31,2.34
+407098,Jakub Kamiński,VfL Wolfsburg,22,AM/WB,5.55,2.34
+412045,Pol Lozano,RCD Espanyol Barcelona,25,CM,3.7,2.34
+413039,Bryan Mbeumo,Brentford FC,25,ST/AM,50.89,10.4
+413565,Jhon Lucumí,Bologna Football Club 1909,26,CB,16.66,3.9
+418651,Yahia Fofana,Angers SCO,24,GK,5.55,2.34
+423440,Martín Zubimendi,Real Sociedad,26,CM,55.52,10.4
+423444,Fran Beltrán,Celta de Vigo,26,CM,5.55,2.34
+424204,Alphonso Davies,Bayern Munich,24,WB,63.09,10.4
+425918,Jakub Kiwior,Arsenal FC,25,WB/CB,47.11,7.8
+428563,Lewis Ferguson,Bologna Football Club 1909,25,AM/CM,22.21,5.72
+429014,Morgan Gibbs-White,Nottingham Forest,25,AM,54.68,10.4
+429874,Ansgar Knauff,Eintracht Frankfurt,23,AM/WB,9.25,2.34
+431755,Dejan Kulusevski,Tottenham Hotspur,25,AM,63.09,10.4
+435796,Kilian Fischer,VfL Wolfsburg,24,WB,5.55,2.34
+438961,Michael Svoboda,Venezia FC,26,CB,0.83,2.34
+448258,Josha Vagnoman,VfB Stuttgart,24,AM/WB,11.1,3.9
+448632,Yehvann Diouf,Stade Reims,25,GK,8.33,2.34
+451801,Abdul Mumin,Rayo Vallecano,26,CB,4.63,2.34
+451906,David Nemeth,FC St. Pauli,24,CB,2.31,2.34
+454863,András Schäfer,1.FC Union Berlin,26,AM/CM,4.63,2.34
+459658,Andrea Cambiaso,Juventus FC,25,WB,37.01,7.8
+459665,Patrizio Masini,Genoa CFC,24,CM,3.24,2.34
+459763,Marco Carnesecchi,Atalanta BC,24,GK,31.55,5.72
+460651,Antoine Makoumbou,Cagliari Calcio,26,CM,3.7,2.34
+461019,Samuele Birindelli,AC Monza,25,WB,2.78,2.34
+463600,Lucas Chevalier,LOSC Lille,23,GK,27.76,5.72
+463605,Bafodé Diakité,LOSC Lille,24,WB/CB,23.13,5.72
+465955,Marcin Bulka,OGC Nice,25,GK,25.24,5.72
+466794,Eric García,FC Barcelona,24,WB/CM/CB,18.93,3.9
+466802,Adrián Bernabé,Parma Calcio 1913,24,CM,13.88,3.9
+467434,Rocco Reitz,Borussia Mönchengladbach,23,AM/CM,13.88,3.9
+467992,Samuele Ricci,Torino FC,23,CM,27.76,5.72
+469211,Liberato Cacace,FC Empoli,24,AM/WB/CB,2.78,2.34
+470794,Ivan Ilić,Torino FC,24,CM,16.66,3.9
+472423,Reece James,Chelsea FC,25,WB/CM,37.85,7.8
+473050,Kevin Schade,Brentford FC,23,ST/AM,27.76,5.72
+474800,Facundo Medina,RC Lens,26,WB/CB,23.13,5.72
+475411,Wesley Fofana,Chelsea FC,24,CB,31.55,5.72
+479999,Eberechi Eze,Crystal Palace,26,AM,60.15,10.4
+481834,Andrea Carboni,AC Monza,24,WB/CB,3.15,2.34
+483348,Djed Spence,Tottenham Hotspur,24,WB,25.24,5.72
+484547,Jeremie Frimpong,Bayer 04 Leverkusen,24,AM/WB,63.09,10.4
+484992,Aïmen Moueffek,AS Saint-Étienne,24,CM,0.93,2.34
+488626,Jesús Areso,CA Osasuna,25,WB,7.4,2.34
+488996,Thórir Jóhann Helgason,US Lecce,24,AM,2.31,2.34
+490417,Ibrahima Niane,Angers SCO,26,ST,1.85,2.34
+494586,Mickaël Nadé,AS Saint-Étienne,26,CB,1.39,2.34
+495621,Antonio Blanco,Deportivo Alavés,24,CM,6.94,2.34
+495667,Lucas Da Cunha,Como 1907,23,AM/CM,6.48,2.34
+496094,Karim Adeyemi,Borussia Dortmund,23,ST/AM,37.01,7.8
+496857,Edon Zhegrova,LOSC Lille,26,AM,23.13,5.72
+500689,Evann Guessand,OGC Nice,23,ST/AM,31.55,5.72
+503160,Paul Nebel,1.FSV Mainz 05,22,AM,15.73,3.9
+503680,Neco Williams,Nottingham Forest,24,WB,18.51,3.9
+503733,Anthony Gordon,Newcastle United,24,ST/AM,71.08,13.0
+503749,Jacob Ramsey,Aston Villa,24,AM,34.99,5.72
+503871,Morten Frendrup,Genoa CFC,24,CM,18.51,3.9
+503987,Noni Madueke,Chelsea FC,23,AM,50.47,10.4
+504153,Joe Scally,Borussia Mönchengladbach,22,WB/CB,9.25,2.34
+504209,Gianluca Busio,Venezia FC,23,AM/CM,6.01,2.34
+505194,Luke Thomas,Leicester City,23,WB,6.56,2.34
+505219,James Garner,Everton FC,24,AM/CM,19.68,3.9
+505674,Sergio Camello,Rayo Vallecano,24,ST,3.24,2.34
+507486,Simon Sohm,Parma Calcio 1913,24,AM/CM,4.63,2.34
+509022,Federico Gatti,Juventus FC,26,CB,23.13,5.72
+517894,Matheus Cunha,Wolverhampton Wanderers,26,ST/AM,55.52,10.4
+520840,José Copete,RCD Mallorca,25,CB,2.59,2.34
+521964,Malick Thiaw,AC Milan,23,CB,18.51,3.9
+524000,Dani Vivian,Athletic Bilbao,25,CB,50.47,10.4
+524285,Luca Netz,Borussia Mönchengladbach,22,WB,6.48,2.34
+525299,Miguel Gutiérrez,Girona FC,23,WB,23.13,5.72
+526845,Noah Atubolu,SC Freiburg,23,GK,13.88,3.9
+527425,Luke Woolfenden,Ipswich Town,26,CB,2.19,2.34
+532775,Melvin Bard,OGC Nice,24,WB/CB,11.1,3.9
+532937,Johan Vásquez,Genoa CFC,26,WB/CB,11.1,3.9
+533295,Patrick Wimmer,VfL Wolfsburg,24,ST/AM,13.88,3.9
+533738,Jonathan David,LOSC Lille,25,ST,0.0,7.8
+535469,Valentin Mihăilă,Parma Calcio 1913,25,AM,2.78,2.34
+537127,Théo Sainte-Luce,Montpellier HSC,26,WB,0.93,2.34
+540941,Mikkel Damsgaard,Brentford FC,24,AM/CM,25.91,5.72
+543727,Botond Balogh,Parma Calcio 1913,22,CB,2.31,2.34
+543771,Kristjan Asllani,Inter Milan,23,CM,13.88,3.9
+545647,Sergio Carreira,Celta de Vigo,24,WB,2.78,2.34
+546213,Tuta,Eintracht Frankfurt,25,WB/CM/CB,18.93,3.9
+548111,Álex Baena,Villarreal CF,23,AM,46.27,7.8
+553875,Pedro Porro,Tottenham Hotspur,25,WB,47.95,7.8
+555500,Jorge Herrando,CA Osasuna,24,CB,3.7,2.34
+556385,Destiny Udogie,Tottenham Hotspur,22,WB,50.47,10.4
+559979,Abdel Abqar,Deportivo Alavés,26,CB,6.94,2.34
+560593,Hicham Boudaoui,OGC Nice,25,CM,12.62,3.9
+561613,Joan García,RCD Espanyol Barcelona,24,GK,18.51,3.9
+564529,Victor Kristiansen,Leicester City,22,WB,13.88,3.9
+564545,Edmond Tapsoba,Bayer 04 Leverkusen,26,CB,50.47,10.4
+568157,Yéremy Pino,Villarreal CF,22,AM,27.76,5.72
+568333,Adam Obert,Cagliari Calcio,22,WB/CB,2.78,2.34
+568693,Pape Matar Sarr,Tottenham Hotspur,22,CM,40.38,7.8
+569140,Lassine Sinayoko,AJ Auxerre,25,ST/AM,3.24,2.34
+569366,Enzo Millot,VfB Stuttgart,22,AM/CM,32.39,5.72
+569389,Sofiane Diop,OGC Nice,24,AM,11.1,3.9
+571020,Oihan Sancet,Athletic Bilbao,25,AM,55.52,10.4
+572326,Christopher Wooh,Stade Rennais FC,23,CB,6.48,2.34
+573775,Hugo Duro,Valencia CF,25,ST,9.25,2.34
+575998,Leonardo Balerdi,Olympique Marseille,26,CB,25.24,5.72
+576314,Jan Paul van Hecke,Brighton & Hove Albion,24,CB,29.61,5.72
+578391,Rayan Aït-Nouri,Wolverhampton Wanderers,23,AM/WB,32.39,5.72
+578539,Chris Richards,Crystal Palace,25,CM/CB,12.95,3.9
+581357,Jan Schöppner,1. Fußballclub Heidenheim 1846,25,CM,4.16,2.34
+583255,Antoine Semenyo,AFC Bournemouth,25,AM,37.01,7.8
+584769,Dwight McNeil,Everton FC,25,AM,27.34,5.72
+585959,Arnaud Kalimuendo,Stade Rennais FC,23,ST,18.51,3.9
+591916,Aitor Paredes,Athletic Bilbao,25,CB,20.36,5.72
+592979,Himad Abdelli,Angers SCO,25,AM,6.48,2.34
+596153,Justin Njinmah,SV Werder Bremen,24,ST/AM,6.48,2.34
+596446,Leif Davis,Ipswich Town,25,WB,24.06,5.72
+599419,Max Rosenfelder,SC Freiburg,22,CB,3.7,2.34
+603940,Marvin Park,UD Las Palmas,24,AM/WB,1.39,2.34
+606718,Toti,Wolverhampton Wanderers,26,WB/CB,25.91,5.72
+607223,Rayan Cherki,Olympique Lyon,21,AM,32.39,5.72
+607854,Éderson,Atalanta BC,25,CM,63.09,10.4
+608832,Merlin Röhl,SC Freiburg,22,AM/CM,11.1,3.9
+614258,Levi Colwill,Chelsea FC,22,WB/CB,69.4,10.4
+616341,Nuno Mendes,Paris Saint-Germain,22,WB,69.4,10.4
+616369,Ander Barrenetxea,Real Sociedad,23,AM,16.66,3.9
+616631,Matteo Ruggeri,Atalanta BC,22,WB,18.51,3.9
+617081,Diego López,Valencia CF,23,ST/AM,9.25,2.34
+618341,Mario Gila,Società Sportiva Lazio S.p.A.,24,CB,25.91,5.72
+620322,Malo Gusto,Chelsea FC,22,WB,44.16,7.8
+623024,Jesús Vázquez,Valencia CF,22,WB,2.78,2.34
+624037,Joris Chotard,Montpellier HSC,23,CM,6.48,2.34
+625014,Julen Agirrezabala,Athletic Bilbao,24,GK,13.88,3.9
+625047,Beñat Prados,Athletic Bilbao,24,CM,16.66,3.9
+625202,Lautaro Valenti,Parma Calcio 1913,26,CB,1.39,2.34
+628498,Jofre Carreras,RCD Espanyol Barcelona,23,AM,3.7,2.34
+634131,Aimar Oroz,CA Osasuna,23,AM/CM,13.88,3.9
+634431,Beñat Turrientes,Real Sociedad,23,CM,14.8,3.9
+636093,Carlos Domínguez,Celta de Vigo,24,CB,2.31,2.34
+636695,Marc Casadó,FC Barcelona,21,CM,37.85,7.8
+636703,Fermín López,FC Barcelona,22,AM/CM,63.09,10.4
+639712,Étienne Youté Kinkoué,Le Havre AC,23,CB,7.4,2.34
+644401,Keane Lewis-Potter,Brentford FC,24,AM/WB,25.15,5.72
+646750,Cristhian Mosquera,Valencia CF,20,WB/CB,27.76,5.72
+648020,Alexsandro,LOSC Lille,25,CB,13.88,3.9
+654539,Adrien Truffert,Stade Rennais FC,23,WB,13.88,3.9
+658536,Simon Adingra,Brighton & Hove Albion,23,AM,25.91,5.72
+659089,Ilya Zabarnyi,AFC Bournemouth,22,CB,38.86,7.8
+659813,Piero Hincapié,Bayer 04 Leverkusen,23,WB/CB,63.09,10.4
+660860,Diego Coppola,Hellas Verona,21,CB,6.94,2.34
+661053,Jarrad Branthwaite,Everton FC,22,CB,54.68,10.4
+661145,Jon Aramburu,Real Sociedad,22,WB,11.1,3.9
+666547,Zito Luvumbo,Cagliari Calcio,23,ST/AM,5.09,2.34
+667287,Yasin Ayari,Brighton & Hove Albion,21,CM,20.36,5.72
+667967,Yassine Kechta,Le Havre AC,23,AM/CM,4.63,2.34
+670882,Jamie Gittens,Borussia Dortmund,20,AM,46.27,7.8
+674612,Youssouf Ndayishimiye,OGC Nice,26,CM/CB,11.1,3.9
+676042,Juanlu Sánchez,Sevilla FC,21,AM/WB/CM,11.1,3.9
+691316,Luis Henrique,Olympique Marseille,23,AM/WB,22.71,5.72
+691482,Jacopo Fazzini,FC Empoli,22,AM/CM,7.4,2.34
+694928,Samuel Lino,Atlético de Madrid,25,AM/WB,23.13,5.72
+696164,Tim Oermann,VfL Bochum,21,WB/CB,4.63,2.34
+701819,Daniele Ghilardi,Hellas Verona,22,CB,3.7,2.34
+707242,Badredine Bouanani,OGC Nice,20,AM,4.63,2.34
+707274,César Tárrega,Valencia CF,23,CB,5.55,2.34
+708072,Nicolò Savona,Juventus FC,22,WB,12.95,3.9
+709187,Nico Williams,Athletic Bilbao,22,AM,64.77,10.4
+711625,José Ángel Carmona,Sevilla FC,23,AM/WB,11.1,3.9
+711969,Lorenz Assignon,Stade Rennais FC,24,WB,8.33,2.34
+717411,Yegor Yarmolyuk,Brentford FC,21,AM/CM,13.88,3.9
+730581,Loïc Badé,Sevilla FC,25,CB,27.76,5.72
+730893,Tyrick Mitchell,Crystal Palace,25,WB,27.34,5.72
+733576,Alberto Moleiro,UD Las Palmas,21,AM,23.13,5.72
+735570,João Gomes,Wolverhampton Wanderers,24,AM/CM,37.01,7.8
+735571,Rodrigo Muniz,Fulham FC,24,ST,18.51,3.9
+742201,Giuliano Simeone,Atlético de Madrid,22,AM,23.13,5.72
+743496,Kévin Danois,AJ Auxerre,20,CM,3.7,2.34
+745181,Soungoutou Magassa,AS Monaco,21,CM/CB,11.1,3.9
+745200,Maghnes Akliouche,AS Monaco,23,AM,50.47,10.4
+746695,Kamaldeen Sulemana,Southampton FC,23,ST/AM,12.03,3.9
+746712,Pietro Comuzzo,ACF Fiorentina,20,CB,23.13,5.72
+763182,Josué Casimir,Le Havre AC,23,ST/AM/WB,3.24,2.34
+764859,Williot Swedberg,Celta de Vigo,21,AM,4.63,2.34
+766583,Kike Salas,Sevilla FC,23,WB/CB,7.4,2.34
+768380,Arouna Sangante,Le Havre AC,23,WB/CB,9.25,2.34
+775605,Pablo Barrios,Atlético de Madrid,21,CM,46.27,7.8
+782630,Khalil Fayad,Montpellier HSC,20,AM/CM,4.63,2.34
+783094,Benjamin Bouchouari,AS Saint-Étienne,23,CM,4.63,2.34
+785353,Pablo Ibáñez,CA Osasuna,26,CM,2.13,2.34
+786436,Ismaël Doukouré,RC Strasbourg Alsace,21,CM/CB,13.88,3.9
+789082,Vanderson,AS Monaco,23,WB,18.51,3.9
+794758,Warren Kamanzi,FC Toulouse,24,WB,1.85,2.34
+798929,Gvidas Gineitis,Torino FC,21,CM,4.63,2.34
+806168,Paul Joly,AJ Auxerre,24,WB,1.11,2.34
+806793,Clément Akpa,AJ Auxerre,23,CB,2.78,2.34
+807688,Yassin Belkhdim,Angers SCO,23,CM,0.74,2.34
+810895,Eliesse Ben Seghir,AS Monaco,20,AM,27.76,5.72
+813137,Niccolò Pisilli,Associazione Sportiva Roma,20,AM/CM,11.1,3.9
+822331,Omar El Hilali,RCD Espanyol Barcelona,21,WB,9.25,2.34
+822959,Tom Bischof,TSG 1899 Hoffenheim,19,AM/CM,23.13,5.72
+823231,Dango Ouattara,AFC Bournemouth,23,ST/AM/WB,25.91,5.72
+826224,Arnau Martínez,Girona FC,22,WB/CB,9.25,2.34
+827734,Ange-Yoan Bonny,Parma Calcio 1913,21,ST,18.51,3.9
+829874,Lilian Raolisoa,Angers SCO,24,AM/WB,0.65,2.34
+834744,Antoniu Roca,RCD Espanyol Barcelona,22,AM,1.39,2.34
+834764,Javi Guerra,Valencia CF,22,AM/CM,18.51,3.9
+842338,Enzo Tchato,Montpellier HSC,22,WB,2.31,2.34
+845654,Kenan Yıldız,Juventus FC,20,AM,56.78,10.4
+852727,Diego García,CD Leganés,25,ST,1.39,2.34
+857832,David Torres,Real Valladolid CF,22,CB,0.46,2.34
+866655,Tyler Dibling,Southampton FC,19,ST/AM,27.34,5.72
+867688,Jack Hinshelwood,Brighton & Hove Albion,20,WB/CM,26.25,5.72
+876631,Habib Diarra,RC Strasbourg Alsace,21,AM/CM,18.51,3.9
+895334,Yarek Gasiorowski,Valencia CF,20,WB/CB,11.1,3.9
+904662,Louis Mouton,AS Saint-Étienne,22,CM,0.74,2.34
+907813,Pablo Marín,Real Sociedad,21,AM/CM,2.78,2.34
+912902,Guillaume Restes,FC Toulouse,20,GK,18.51,3.9
+917375,Antoine Hainaut,Parma Calcio 1913,23,WB,0.93,2.34
+923759,Valentin Atangana,Stade Reims,19,CM,8.33,2.34
+923832,Nathan Zézé,FC Nantes,19,CB,11.1,3.9
+951579,Saël Kumbedi,Olympique Lyon,20,WB,5.55,2.34
+955281,Nhoa Sangui,Stade Reims,19,WB,2.31,2.34
+1006411,Jaydee Canvot,FC Toulouse,18,CM/CB,2.31,2.34
+1018938,Jon Martín,Real Sociedad,19,CB,1.85,2.34
+1061336,Pau Navarro,Villarreal CF,20,WB,0.93,2.34
+1097139,Ayyoub Bouaddi,LOSC Lille,17,CM,27.76,5.72

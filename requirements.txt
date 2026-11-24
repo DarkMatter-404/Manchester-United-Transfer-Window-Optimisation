@@ -1,0 +1,8 @@
+# Tested with Python 3.12.11 and gurobipy 14.0.0.
+# A Gurobi licence is needed to solve models; the pip package includes a
+# size-limited one that is enough for the toy checks.
+gurobipy>=11
+# Used by prepare_inputs.py to read the raw data files (tested with 2.0.0)
+duckdb>=1.0
+# Used by extract_united_wages.py to read the saved payroll PDF (tested with 0.11.10)
+pdfplumber>=0.11

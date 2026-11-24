@@ -1,0 +1,21 @@
+% =====================================================================
+\section{Problem and motivation}\label{sec:problem}
+% =====================================================================
+
+\subsection{The decision}
+
+Manchester United, a club in the English Premier League, finished 15th of 20 clubs in the 2024/25 league season according to the match records used in this study, so the summer 2025 transfer window, taken here as 1 June to 1 September 2025, was an important chance to change the squad. The study takes the position of a planner at the start of 1 June 2025 who must decide which existing players to sell, which new players to buy, which players form the final squad, which role each squad member covers and which eleven players start.
+
+These choices cannot sensibly be made one player at a time. A purchase uses transfer budget, adds an annual wage, takes one of a limited number of arrival places and may need a registration place. A sale returns money and wage room but removes a player who may be needed as cover. The best-rated player for a position may become unaffordable once wages are counted, and two strong players who can fill only the same role add little together. An optimisation model can weigh all purchases, sales and role allocations at once.
+
+A \emph{transfer fee} is paid to the selling club, while the \emph{annual wage} is the player's gross salary and is separate from any fee. The plan uses a 3-4-2-1 formation, whose eleven starters fill six role groups: a goalkeeper (GK), three centre-backs (CB), two wing-backs (WB), two central midfielders (CM), two attacking midfielders (AM) and a striker (ST). The other squad members provide cover, also called squad depth.
+
+\subsection{Scope and objective}
+
+The study covers one club, one window and permanent transfers only. Historical match, transfer and valuation records are cut at the end of 31 May 2025, and performance is taken from the 2023/24 and 2024/25 seasons; a few other inputs, most importantly United's wages, are disclosed approximations (Section~\ref{sec:data}). The work was carried out in November 2026, so it is retrospective. Outcomes from the 2025/26 season are not model inputs and are described separately in Section~\ref{sec:evaluation}.
+
+The model maximises a role-based quality proxy. Each eligible combination of a player and a role receives a score from 0 to 100 built from playing time, output, team level and market value, and the objective adds the scores of the eleven starters and a smaller share of the scores of the other squad members. The score is a proxy for squad quality, not a prediction of league points, and the model is not a scouting system. Under the assumed wage bands, \pounds 148m wage allowance and six-arrival limit, the main finding is that the plan is limited by wage room and arrival places rather than by the transfer allowance.
+
+\subsection{Related work}
+
+Integer programming has been applied to football squads in several forms. \citet{boon2003} assign players to positions to form a team, and \citet{bonomo2014} use mathematical programming to select teams in a fantasy-football game. \citet{payyappalli2019} choose a club's transfers with an integer program built on forecast player values and league rules. \citet{pantuso2017} combines squad requirements, regulations and budgets in a stochastic program for team composition, and \citet{pantuso2021} maximise a performance rating while a chance constraint limits financial risk. Market values, which this study uses both in the score and to estimate fees, are crowd estimates that predict transfer fees well \citep{herm2014,muller2017}. The present model is a deterministic single-window model in this tradition. It decides sales, purchases, roles and starters together under budget, wage, arrival and registration limits, and Section~\ref{sec:robust} adds a wage limit protected against higher wages in the sense of \citet{bertsimas2004}. It is not a reproduction of any of these formulations.

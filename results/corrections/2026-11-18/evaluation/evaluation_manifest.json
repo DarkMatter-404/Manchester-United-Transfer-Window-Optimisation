@@ -1,0 +1,28 @@
+{
+ "code_commit": "df3bab2d8cf2ec56cb2c45261f86a45bd42abd7f",
+ "command": "python aman/src/evaluate_results.py --freeze aman/results/freeze --out aman/results/corrections/2026-11-18/evaluation",
+ "freeze_folder": "results/freeze",
+ "frozen_files_verified": 9,
+ "input_sha256": {
+  "data/processed/club_family.csv": "f81d48edb948b0d417aca9b30105ebd7c5166e64cd12b943fa4eeb77d4752b42",
+  "data/raw/transfermarkt/appearances.csv.gz": "e096c2b158fc3d52c4550526c4d4850dd62f31007652f4bcae112eadb1646802",
+  "data/raw/transfermarkt/clubs.csv.gz": "aa57ab56e87faffaea1e8697439a32caf10116d8f2f2dfb3a57193c0bb1d641b",
+  "data/raw/transfermarkt/game_lineups.csv.gz": "5e83d6fad28364aadfea608013700cf09990062eede1ad9ef189189b0af47ba2",
+  "data/raw/transfermarkt/games.csv.gz": "142561989017d379bcf9e72bad0b87e0996bae0e7b710ebb3def9255f464c741",
+  "data/raw/transfermarkt/player_valuations.csv.gz": "608e32e5ad2231074f3505c469ad727be66d7e6efda6af918afd85379439631d",
+  "data/raw/transfermarkt/transfers.csv.gz": "90326983daf7e6ac7aabdfe62b90936d9bf1dd2171e53dec75c3751eb1620a83",
+  "docs/actual_united_arrivals_2025.csv": "3662dcfcbcd216ef75154a828872880c7ebb3658d579b096fbd13c417c1f3eb5"
+ },
+ "packages": {
+  "duckdb": "2.0.0"
+ },
+ "python": "3.12.11",
+ "season": 2025,
+ "uncommitted_code_or_inputs": false,
+ "value_up_to": "2026-06-12",
+ "window": [
+  "2025-06-01",
+  "2025-09-01"
+ ],
+ "written": "2026-11-18T18:24:15"
+}

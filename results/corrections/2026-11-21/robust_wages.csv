@@ -1,0 +1,8 @@
+gamma,pi,status,gap,checks_passed,objective,change_from_base,bought,sold,net_spend,wages,protected_wages,arrivals,sales,non_homegrown,signings_shared_with_base
+0,1.04,OPTIMAL,0.0,yes,1100.96,-0.0,Ritsu Doan (WB); Bryan Mbeumo (AM); Lucas Chevalier (GK); Jonathan David (ST); Éderson (CM); Piero Hincapié (CB),Harry Maguire; Casemiro; Luke Shaw,198.69,147.94,147.94,6,3,16,6
+1,1.04,OPTIMAL,0.0,yes,1097.34,-3.62,Ritsu Doan (WB); Bryan Mbeumo (AM); Lucas Chevalier (GK); Jonathan David (ST); Levi Colwill (CB); Piero Hincapié (CB),Harry Maguire; Casemiro; Luke Shaw; Tyler Fredricson,202.73,146.64,147.68,6,4,16,5
+2,0.572,OPTIMAL,0.0,yes,1095.76,-5.2,Ritsu Doan (WB); Lucas Chevalier (GK); Jonathan David (ST); Álex Baena (AM); Éderson (CM); Piero Hincapié (CB),Harry Maguire; Casemiro; Luke Shaw,194.06,145.34,147.42,6,3,16,5
+3,0.0,OPTIMAL,0.0,yes,1093.46,-7.5,Ritsu Doan (WB); Bryan Mbeumo (AM); Lucas Chevalier (GK); Bafodé Diakité (CB); Jonathan David (ST); Éderson (CM),Harry Maguire; Casemiro; Luke Shaw,158.73,143.26,146.12,6,3,16,5
+4,0.0,OPTIMAL,0.0,yes,1093.46,-7.5,Ritsu Doan (WB); Bryan Mbeumo (AM); Lucas Chevalier (GK); Bafodé Diakité (CB); Jonathan David (ST); Éderson (CM),Harry Maguire; Casemiro; Luke Shaw,158.73,143.26,146.69,6,3,16,5
+5,0.0,OPTIMAL,0.0,yes,1093.46,-7.5,Ritsu Doan (WB); Bryan Mbeumo (AM); Lucas Chevalier (GK); Bafodé Diakité (CB); Jonathan David (ST); Éderson (CM),Harry Maguire; Casemiro; Luke Shaw,158.73,143.26,147.26,6,3,16,5
+6,0.0,OPTIMAL,0.0,yes,1093.46,-7.5,Ritsu Doan (WB); Bryan Mbeumo (AM); Lucas Chevalier (GK); Bafodé Diakité (CB); Jonathan David (ST); Éderson (CM),Harry Maguire; Casemiro; Luke Shaw,158.73,143.26,147.84,6,3,16,5

@@ -1,0 +1,67 @@
+% =====================================================================
+\section{Results and sensitivity analysis}\label{sec:results}
+% =====================================================================
+
+This section presents the base plan, the limits that restrict it, its sensitivity to the inputs, a version with a protected wage limit and the stability of each purchase. The results come from the corrected runs of 18 November 2026. The additional runs of 21 and 22 November 2026 use the same data and model code: repeating the base case reproduced the original recommendation, and the additional scenarios examine how the plan changes under different assumptions (Appendix~\ref{app:history}).
+
+\subsection{The base plan}
+
+The plan buys one player for each role and sells three experienced players (Table~\ref{tab:transfers}). It raises the objective from 876.466 without transfers to $881.14 + 0.3 \times 732.73 = 1{,}100.959$ proxy points (Table~\ref{tab:totals}). Purchases cost \pounds 225.189m and sales return \pounds 26.498m, so net spending is $225.189 - 26.498 = $ \pounds 198.691m. The sales also remove \pounds 35.88m a year of wages, which pays for most of the \pounds 50.44m that the purchases add, including David's \pounds 7.80m despite a zero fee. Every purchase starts (Appendix~\ref{app:results}, Table~\ref{tab:lineup}). The comparison measures the improvement from the modelled transfer programme relative to keeping the existing squad; it does not isolate the benefit of optimisation over another recruitment method with the same resources.
+
+\begin{table}[!htbp]
+\centering
+\caption{Selected transfers under the base assumptions. Quality is in the role each purchase starts in.}\label{tab:transfers}
+\tablefile{base_transfers}
+\end{table}
+
+\begin{table}[!htbp]
+\centering
+\caption{The base plan against keeping the existing squad unchanged. Money is shown as recorded in the run summary; other tables round it to two decimals.}\label{tab:totals}
+\tablefile{base_totals}
+\end{table}
+
+\subsection{Which limits restrict the plan}\label{sec:limits}\label{sec:budget}
+
+At the base plan all six arrival places are used and \pounds 0.06m of wage room remains, while \pounds 51.31m of the transfer allowance, seven senior places and one non-home-grown place are unused. Figure~\ref{fig:limits} solves the model again at other allowances. Most of the improvement needs no net spending: with a zero allowance the model sells four players, buys six and reaches 78\% of the base plan's gain over the existing squad, and each further \pounds 50m adds less. From \pounds 200m the plan no longer changes, so within the tested range extra transfer allowance cannot be turned into a better squad. The wage curve, by contrast, is still rising at \pounds 148m. Without a wage limit the model keeps all three experienced players, sells only one young reserve and still buys six players, reaching 1,129.44 points with \pounds 182.52m of wages.
+
+\input{figures/budget_wages}
+
+Table~\ref{tab:limitsteps} moves each limit one step in both directions. The budget and the non-home-grown limit change nothing. One arrival fewer costs 28.71 points and one more adds 20.52; \pounds 7m less wage room costs 12.70 and \pounds 7m more adds 6.85. The last column gives the dual price of each row in the linear relaxation, the gain in the relaxed objective per unit of the limit. The \emph{Used} column describes the integer plan, whereas the prices belong to the optimal solution of the relaxation, so complementary slackness refers to that relaxed solution: rows with slack there have a zero price, and the wage row has none because the relaxation keeps 0.8\% of Shaw and so uses the last \pounds 0.06m that the integer plan leaves unused. The positive prices point to the wage and arrival limits, as the integer runs do, but they are in different units (points per \pounds 1m or per place) and do not give the value of a finite step, because whole players enter and leave; the separate runs measure that.
+
+\begin{table}[!htbp]
+\centering
+\caption{Change in objective when one limit is moved one step and every other input is as in the base case. Price: dual price of the row in the linear relaxation of the base model, in points per unit (\pounds 1m or one place).}\label{tab:limitsteps}
+\tablefile{limit_steps}
+\end{table}
+
+Relaxing one binding limit makes another one bind. With seven arrivals the model replaces Mbeumo by two cheaper players, Jonathan Burkardt and Bafodé Diakité, and fills the last non-home-grown place; with a wage allowance of \pounds 176m or more that list is also full (Table~\ref{tab:extraruns}). The budget does not bind in any of these runs. Two reserves illustrate the same trade-off: Mason Mount (AM, quality 45.0, \pounds 7.80m a year) and Rasmus Højlund (ST, 43.2, \pounds 4.42m). Requiring Mount's sale lowers the best objective by 3.03 points and requiring Højlund's by 10.01, so the model values their depth and cover more than what their wages could buy instead. Without the depth reward ($\mu = 0$) the model sells six players, among them Mount, Alejandro Garnacho, Kobbie Mainoo and Leny Yoro, and spends the wage room on Rafael Leão and Levi Colwill; the starters' score rises from 881.14 to 889.00, but the squad scores 56.45 points less on the base scale. The depth reward therefore decides how the wage room is used, although the plan is the same for $\mu = 0.2$ and $0.4$.
+
+\subsection{Other sensitivity runs}\label{sec:sensitivity}
+
+Table~\ref{tab:sensitivity} separates fee-only, wage-only and combined fee-and-wage scenarios, alongside changes to the eligibility rules, a fixed commitment and the scoring assumptions; runs that change the score or its weights are re-scored on the base scale with their purchases and sales held fixed. Neither tested fee level changed the purchases: with the general multiplier at 0.9 or 1.5 and wages fixed, net spending moved between \pounds 180.7m and \pounds 234.7m, and sale receipts of 0.7 or 1.0 times value and a \pounds 100m fee ceiling also left the plan unchanged (Table~\ref{tab:allruns}). Every tested wage change replaced at least one purchase, and valuing United's own players with the candidate bands replaced two. Removing the club rules gives the same plan, removing the two-year rule adds 11.8 points and changes three purchases, and fixing Cunha's arrival at \pounds 62.5m costs 4.3 points. The alternative role weights, which favour the roles where United's starters were weakest, change one purchase. The plan depends strongly on the market-value component: without it three of the six purchases change, an important caution because value also sets the fees. That plan scores 32.2 points less on the base scale; rescoring provides a common basis for comparison, but it does not establish that the original scoring system is more valid.
+
+\begin{table}[!htbp]
+\centering
+\caption{Sensitivity runs on the base scoring scale. ``Shared'' counts purchases also made in the base plan. Every run is listed in Appendix~\ref{app:results}, Table~\ref{tab:allruns}.}\label{tab:sensitivity}
+\tablefile{sensitivity}
+\end{table}
+
+\subsection{A protected wage limit}\label{sec:robust}
+
+The wage margin of \pounds 0.06m is smaller than 10\% of any purchased player's wage, so the wage limit is the most fragile part of the plan. If ranges for the candidates' wages were known, a better model would protect this limit. Following \citet{bertsimas2004}, suppose that up to $\Gamma$ purchased players may each earn $\hat{w}_p = 0.1\,w_p$ more than estimated. The protected limit replaces \eqref{eq:wages} by
+\begin{equation}\label{eq:robust}
+\sum_{p \in P} w_p\, x_p + \Gamma \pi + \sum_{p \in C} \rho_p \le W, \qquad \rho_p \ge \hat{w}_p\, b_p - \pi, \quad \pi \ge 0, \quad \rho_p \ge 0,
+\end{equation}
+which is the linear-programming dual of the largest extra wage bill that $\Gamma$ purchases can cause. The variable $\pi$ is a common threshold for wage deviations, and $\rho_p$ represents the part of candidate $p$'s selected wage deviation above that threshold; both are measured in \pounds m per year. Written directly, the counterpart therefore adds $\pi$ and one $\rho_p$ per candidate. Existing players' wages, fees and other financial risks stay unprotected. Because each $b_p$ is binary, the best $\pi$ is zero or one of the deviations $\hat{w}_p$, so the implementation does not create these variables: it enumerates those values of $\pi$ and solves a short series of runs of the same code with adjusted wages and allowance, a method checked against a search over every plan of the invented example (Table~\ref{tab:validation}). $\Gamma = 0$ gives the base model, and $\Gamma = 6$ protects every purchase, since at most six players arrive.
+
+Each level of protection gives a separately re-optimised plan, compared here with the base plan. Protecting one purchase costs 3.62 points, replaces Éderson by a second centre-back, Colwill, and also sells the young reserve Tyler Fredricson; protecting two costs 5.20 and instead replaces only Mbeumo, by Álex Baena; protecting three or more costs 7.50 and replaces only Hincapié, by Diakité, the same plan as the run with all candidate wages 10\% higher (Table~\ref{tab:extraruns}). Full protection therefore costs 0.7\% of the objective, and Doan, Chevalier and David are bought at every level.
+
+\subsection{Which purchases are stable across scenarios}\label{sec:alternatives}
+
+Table~\ref{tab:stability} brings these results together. Of the 27 sensitivity runs, 10 return the base plan; in the 17 that change it, Doan and David are always bought and Chevalier in all but the run without market value. These counts describe the tested scenarios, not probabilities that a deal completes or a player succeeds. The three are also the costliest to lose: ruling one of them out and deciding the plan again costs between 3.45 and 7.88 points. Mbeumo is kept in 13 of the 17 runs. Hincapié and Éderson depend on the budget, the wage inputs and the score, but they are also the cheapest to replace, at 0.49 and 1.63 points. If both fall through together, the whole plan is decided again rather than filled with two like-for-like replacements. The re-optimised plan buys two centre-backs, Colwill and Dani Vivian, keeps the other four purchases and the three sales, spends \pounds 192.38m net with wages of \pounds 147.94m, and costs 2.46 points (Table~\ref{tab:extraruns}). Two centre-backs replace a centre-back and a midfielder because the line-up also changes: Ugarte moves into the starting midfield, Colwill and Vivian start at centre-back, and Mazraoui becomes wing-back cover. The two single losses cannot simply be added, because both single fallback plans buy Colwill. Their roles carry most of the deal risk: most centre-back and central-midfield alternatives are labelled doubtful, and a dated review could not settle for four of the twelve priority players whether an agreement with another club existed before the cutoff (Appendix~\ref{app:results}). Replacing one purchase directly, with the other five held fixed, costs between 0.49 and 15.46 points (Table~\ref{tab:directfull}).
+
+\begin{table}[!htbp]
+\centering
+\caption{Stability of the six purchases. Kept: sensitivity runs that change the base plan and still buy the player. Protected wages: whether the player is still bought when up to $\Gamma$ purchases may earn 10\% more. Cost if ruled out: fall in the objective when the purchase is blocked and the whole plan is decided again (Table~\ref{tab:fullplans}).}\label{tab:stability}
+\tablefile{stability}
+\end{table}

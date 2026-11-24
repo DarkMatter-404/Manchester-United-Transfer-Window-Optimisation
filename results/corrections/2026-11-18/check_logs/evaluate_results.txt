@@ -1,0 +1,12 @@
+All 9 frozen files match the freeze manifest.
+Group memberships: 32 | distinct players: 30 | without league minutes: 3 | played for more than one club: 3
+{'group': 'base signing', 'measure': "share of main club's league minutes", 'memberships': 6, 'distinct_players': 6, 'valid_observations': 6, 'mean': 0.624, 'median_added_after_evaluation': 0.589}
+{'group': 'base signing', 'measure': 'change in market value, %', 'memberships': 6, 'distinct_players': 6, 'valid_observations': 6, 'mean': -7.717, 'median_added_after_evaluation': -13.35}
+{'group': 'direct alternative', 'measure': "share of main club's league minutes", 'memberships': 18, 'distinct_players': 18, 'valid_observations': 16, 'mean': 0.556, 'median_added_after_evaluation': 0.516}
+{'group': 'direct alternative', 'measure': 'change in market value, %', 'memberships': 18, 'distinct_players': 18, 'valid_observations': 18, 'mean': 0.794, 'median_added_after_evaluation': -4.55}
+{'group': 'actual United signing', 'measure': "share of main club's league minutes", 'memberships': 5, 'distinct_players': 5, 'valid_observations': 4, 'mean': 0.705, 'median_added_after_evaluation': 0.75}
+{'group': 'actual United signing', 'measure': 'change in market value, %', 'memberships': 5, 'distinct_players': 5, 'valid_observations': 5, 'mean': 88.7, 'median_added_after_evaluation': 25.0}
+{'group': 'sold in the base plan', 'measure': "share of main club's league minutes", 'memberships': 3, 'distinct_players': 3, 'valid_observations': 3, 'mean': 0.729, 'median_added_after_evaluation': 0.757}
+{'group': 'sold in the base plan', 'measure': 'change in market value, %', 'memberships': 3, 'distinct_players': 3, 'valid_observations': 3, 'mean': -37.267, 'median_added_after_evaluation': -38.5}
+{'group': 'all groups', 'measure': "share of main club's league minutes", 'memberships': 32, 'distinct_players': 30, 'valid_observations': 29, 'mean': 0.609, 'median_added_after_evaluation': 0.653}
+{'group': 'all groups', 'measure': 'change in market value, %', 'memberships': 32, 'distinct_players': 30, 'valid_observations': 32, 'mean': 9.366, 'median_added_after_evaluation': -4.55}

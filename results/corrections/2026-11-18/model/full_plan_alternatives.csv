@@ -1,0 +1,10 @@
+blocked,run,objective,net_spend,wages,changes
+cannot sign Ritsu Doan,full_plans/without_Ritsu_Doan,1097.51,210.72,147.94,signs instead: Rayan Aït-Nouri; no longer signs: Ritsu Doan
+cannot sign Bryan Mbeumo,full_plans/without_Bryan_Mbeumo,1100.2,217.2,147.94,signs instead: Rafael Leão; no longer signs: Bryan Mbeumo
+cannot sign Lucas Chevalier,full_plans/without_Lucas_Chevalier,1095.67,196.17,147.94,signs instead: Marcin Bulka; no longer signs: Lucas Chevalier
+cannot sign Jonathan David,full_plans/without_Jonathan_David,1093.08,244.96,147.94,signs instead: Álex Baena; no longer signs: Jonathan David; starting role changes: Bryan Mbeumo AM to ST
+cannot sign Éderson,full_plans/without_Éderson,1099.33,205.0,147.94,signs instead: Levi Colwill; no longer signs: Éderson
+cannot sign Piero Hincapié,full_plans/without_Piero_Hincapié,1100.47,205.0,147.94,signs instead: Levi Colwill; no longer signs: Piero Hincapié
+cannot sell Harry Maguire,full_plans/cannot_sell_Harry_Maguire,1093.82,147.8,147.16,"signs instead: Jonathan Burkardt, Bafodé Diakité; no longer signs: Bryan Mbeumo, Piero Hincapié; also sells: Tyler Fredricson; keeps: Harry Maguire"
+cannot sell Casemiro,full_plans/cannot_sell_Casemiro,1080.81,124.33,147.68,"signs instead: Jonathan Burkardt, Bafodé Diakité; no longer signs: Bryan Mbeumo, Éderson; also sells: Mason Mount, Tyler Fredricson; keeps: Casemiro"
+cannot sell Luke Shaw,full_plans/cannot_sell_Luke_Shaw,1097.93,186.58,147.94,also sells: Mason Mount; keeps: Luke Shaw

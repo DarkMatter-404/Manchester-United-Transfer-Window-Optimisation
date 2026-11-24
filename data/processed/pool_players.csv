@@ -1,0 +1,831 @@
+player_id,name,status,date_of_birth,age_at_cutoff,club_name,country,league,value_gbp_m,value_date,minutes_2024,minutes_share_2024,club_rank_2024,joined_club_date,two_year_status,two_year_evidence,homegrown,senior_reg,roles
+240306,Bruno Fernandes,E,1994-09-08,30,Manchester United,Portugal,GB1,42.06,2025-05-30,3023,0.8839,15,2020-01-29,,,0,1,AM/CM/ST
+234509,André Onana,E,1996-04-02,29,Manchester United,Cameroon,GB1,21.03,2025-05-30,3060,0.8947,15,2023-07-20,,,0,1,GK
+340456,Noussair Mazraoui,E,1997-11-14,27,Manchester United,Morocco,GB1,21.03,2025-05-30,2849,0.833,15,2024-08-13,,,0,1,CB/WB
+357147,Diogo Dalot,E,1999-03-18,26,Manchester United,Portugal,GB1,25.236,2025-05-30,2813,0.8225,15,2018-07-01,,,0,1,WB
+326031,Matthijs de Ligt,E,1999-08-12,25,Manchester United,Netherlands,GB1,31.966,2025-05-30,2128,0.6222,15,2024-08-13,,,0,1,CB
+177907,Harry Maguire,E,1993-03-05,32,Manchester United,England,GB1,10.936,2025-05-30,1756,0.5135,15,2019-08-05,,,1,1,CB
+536835,Amad Diallo,E,2002-07-11,22,Manchester United,Cote d'Ivoire,GB1,37.854,2025-05-30,1903,0.5564,15,2021-01-02,,,1,1,AM/WB
+476701,Manuel Ugarte,E,2001-04-11,24,Manchester United,Uruguay,GB1,37.854,2025-05-30,1792,0.524,15,2024-08-30,,,0,1,CM
+16306,Casemiro,E,1992-02-23,33,Manchester United,Brazil,GB1,8.412,2025-05-30,1498,0.438,15,2022-08-22,,,0,1,CB/CM
+480762,Lisandro Martínez,E,1998-01-18,27,Manchester United,Argentina,GB1,33.648,2025-05-30,1754,0.5129,15,2022-07-27,,,0,1,CB
+435648,Joshua Zirkzee,E,2001-05-22,24,Manchester United,Netherlands,GB1,25.236,2025-05-30,1394,0.4076,15,2024-07-14,,,0,1,AM/ST
+346483,Mason Mount,E,1999-01-10,26,Manchester United,England,GB1,23.554,2025-05-30,621,0.1816,15,2023-07-05,,,1,1,AM
+336077,Altay Bayındır,E,1998-04-14,27,Manchester United,Türkiye,GB1,6.73,2025-05-30,360,0.1053,15,2023-09-01,,,0,1,GK
+183288,Luke Shaw,E,1995-07-12,29,Manchester United,England,GB1,10.094,2025-05-30,348,0.1018,15,2014-07-01,,,1,1,CB/WB
+610442,Rasmus Højlund,E,2003-02-04,22,Manchester United,Denmark,GB1,29.442,2025-05-30,2014,0.5889,15,2023-08-05,,,0,1,ST
+811779,Alejandro Garnacho,E,2004-07-01,20,Manchester United,Argentina,GB1,37.854,2025-05-30,2196,0.6421,15,2020-10-02,,,0,0,AM
+820374,Kobbie Mainoo,E,2005-04-19,20,Manchester United,England,GB1,42.06,2025-05-30,1656,0.4842,15,,,,0,0,CM
+923831,Leny Yoro,E,2005-11-13,19,Manchester United,France,GB1,46.266,2025-05-30,1164,0.3404,15,2024-07-18,,,0,0,CB
+926952,Patrick Dorgu,E,2004-10-26,20,Manchester United,Denmark,GB1,21.03,2025-05-30,2685,0.7851,15,2025-02-02,,,0,0,AM/WB
+654253,Toby Collyer,E,2004-01-03,21,Manchester United,England,GB1,4.206,2025-05-30,174,0.0509,15,2022-03-15,,,0,0,CM
+1011738,Harry Amass,E,2007-03-16,18,Manchester United,England,GB1,4.206,2025-05-30,346,0.1012,15,2023-08-04,,,0,0,WB
+1078163,Ayden Heaven,E,2006-09-22,18,Manchester United,England,GB1,4.206,2025-05-30,171,0.05,15,2025-02-01,,,0,0,CB
+1042886,Chido Obi,E,2007-11-29,17,Manchester United,Denmark,GB1,4.206,2025-05-30,160,0.0468,15,2024-10-05,,,0,0,ST
+911424,Tyler Fredricson,E,2005-02-23,20,Manchester United,England,GB1,2.524,2025-05-30,166,0.0485,15,,,,0,0,CB
+263236,Kevin Danso,C,1998-09-19,26,Tottenham Hotspur,Austria,GB1,21.03,2025-05-30,1923,0.6284,17,2025-02-02,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+283170,Iñaki Peña,C,1999-03-02,26,FC Barcelona,Spain,ES1,8.412,2024-12-27,1395,0.4079,1,2012-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,GK
+284010,Robin Hack,C,1998-08-27,26,Borussia Mönchengladbach,Germany,L1,8.412,2025-03-27,2188,0.715,10,2023-07-01,joined within two years,signed for a fee,0,1,AM/ST
+284857,Marc Cucurella,C,1998-07-22,26,Chelsea FC,Spain,GB1,29.442,2025-05-30,2992,0.8749,4,2022-08-05,eligible,signed for a fee,0,1,WB
+284884,Óscar Rodríguez,C,1998-06-28,26,CD Leganés,Spain,ES1,1.682,2025-03-21,1323,0.3868,18,2024-08-12,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+296397,Arne Maier,C,1999-01-08,26,FC Augsburg,Germany,L1,3.365,2024-12-20,923,0.3016,12,2021-08-09,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+296428,Timon Weiner,C,1999-01-18,26,Holstein Kiel,Germany,L1,1.262,2024-12-20,2250,0.7353,18,2018-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+297583,Woo-yeong Jeong,C,1999-09-20,25,1.FC Union Berlin,"Korea, South",L1,3.365,2024-12-20,1271,0.4154,13,2024-08-27,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+300532,Pontus Almqvist,C,1999-07-10,25,Parma Calcio 1913,Sweden,IT1,2.103,2024-12-18,1106,0.3234,16,2024-08-13,joined within two years,signed for a fee,0,1,AM
+309400,Kai Havertz,C,1999-06-11,25,Arsenal FC,Germany,GB1,54.678,2025-05-30,1875,0.5482,2,2023-07-01,joined within two years,signed for a fee,0,1,AM/ST
+314353,Trent Alexander-Arnold,C,1998-10-07,26,Liverpool FC,England,GB1,63.09,2025-05-30,2377,0.695,1,,eligible,came through the club's youth system; entry not on record; in the club by 2015-07-01 (move between the club's own sides),0,1,WB
+314678,Brahim Díaz,C,1999-08-03,25,Real Madrid,Morocco,ES1,37.854,2025-03-21,1382,0.4041,2,2019-01-06,eligible,signed for a fee,0,1,AM
+315779,Christian Pulisic,C,1998-09-18,26,AC Milan,United States,IT1,42.06,2024-12-18,2492,0.7287,8,2023-07-13,joined within two years,signed for a fee,0,1,AM
+315853,Alessandro Bastoni,C,1999-04-13,26,Inter Milan,Italy,IT1,67.296,2025-03-25,2421,0.7079,2,2017-08-31,eligible,signed for a fee,0,1,CB
+315858,Gianluigi Donnarumma,C,1999-02-25,26,Paris Saint-Germain,Italy,FR1,29.442,2024-12-10,2092,0.6837,1,2021-07-14,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+315865,Andrea Pinamonti,C,1999-05-19,26,Genoa CFC,Italy,IT1,13.459,2024-12-18,2860,0.8363,13,2024-08-16,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+316264,Martin Ødegaard,C,1998-12-17,26,Arsenal FC,Norway,GB1,71.502,2025-05-30,2332,0.6819,2,2021-01-27,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+322655,Flavius Daniliuc,C,2001-04-27,24,Hellas Verona,Austria,IT1,3.365,2024-12-18,1003,0.2933,14,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+323167,Matteo Gabbia,C,1999-10-21,25,AC Milan,Italy,IT1,11.777,2025-03-25,2154,0.6298,8,,eligible,at the club before a loan; joining not on record; in the club by 2015-07-01 (move between the club's own sides),0,1,CB
+324278,Christoph Baumgartner,C,1999-08-01,25,RB Leipzig,Austria,L1,12.618,2025-03-27,1609,0.5258,8,2023-07-01,joined within two years,signed for a fee,0,1,AM
+324377,Youssef Maleh,C,1998-08-22,26,FC Empoli,Morocco,IT1,3.365,2024-12-18,1514,0.4427,18,2023-08-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+324795,Mahdi Camara,C,1998-06-30,26,Stade Brestois 29,France,FR1,8.412,2024-12-10,2670,0.8725,9,2022-08-26,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+324804,Yann Karamoh,C,1998-07-08,26,Torino FC,France,IT1,1.851,2025-03-25,1039,0.3038,11,2022-09-01,eligible,signed for a fee,0,1,AM
+324811,Arnaud Nordin,C,1998-06-17,26,1.FSV Mainz 05,France,L1,5.047,2025-03-27,1246,0.4072,6,2025-01-28,joined within two years,signed for a fee,0,1,AM/ST
+326029,Donyell Malen,C,1999-01-19,26,Aston Villa,Netherlands,GB1,21.03,2025-05-30,910,0.2974,6,2025-01-14,joined within two years,signed for a fee,0,1,AM
+328480,Pepelu,C,1998-08-11,26,Valencia CF,Spain,ES1,10.094,2025-03-21,1731,0.5061,12,2023-07-08,joined within two years,signed for a fee,0,1,CM
+329373,Carlo Boukhalfa,C,1999-05-03,26,FC St. Pauli,Germany,L1,0.841,2024-12-20,1654,0.5405,15,2022-07-01,eligible,signed for a fee,0,1,CM
+330208,Alessandro Vogliacco,C,1998-09-14,26,Parma Calcio 1913,Italy,IT1,1.682,2024-12-18,1488,0.4351,16,2025-01-15,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+330659,Justin Kluivert,C,1999-05-05,26,AFC Bournemouth,Netherlands,GB1,29.442,2025-05-30,2356,0.6889,9,2023-07-01,joined within two years,signed for a fee,0,1,AM
+331505,Óscar Mingueza,C,1999-05-13,26,Celta de Vigo,Spain,ES1,16.824,2024-12-27,2739,0.8009,7,2022-07-30,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+332697,Weston McKennie,C,1998-08-28,26,Juventus FC,United States,IT1,20.189,2024-12-18,2317,0.6775,4,2020-09-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/CM/WB
+332705,Tyler Adams,C,1999-02-14,26,AFC Bournemouth,United States,GB1,15.142,2025-05-30,1965,0.5746,9,2023-08-20,joined within two years,signed for a fee,0,1,CM
+333647,Jonathan Burkardt,C,2000-07-11,24,1.FSV Mainz 05,Germany,L1,29.442,2025-03-27,2125,0.6944,6,2014-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/ST
+335225,Manu Morlanes,C,1999-01-12,26,RCD Mallorca,Spain,ES1,2.103,2024-12-27,1340,0.3918,10,2023-01-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+335993,Philipp Treu,C,2000-12-03,24,FC St. Pauli,Germany,L1,4.206,2025-03-27,2885,0.9428,15,2023-07-01,joined within two years,signed for a fee,0,1,WB
+337092,Tim Siersleben,C,2000-03-09,25,1. Fußballclub Heidenheim 1846,Germany,L1,1.262,2024-12-20,1182,0.3863,16,2021-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+338668,Senne Lynen,C,1999-02-19,26,SV Werder Bremen,Belgium,L1,7.571,2024-12-20,2748,0.898,7,2023-08-08,joined within two years,signed for a fee,0,1,CM
+338670,Mile Svilar,C,1999-08-27,25,Associazione Sportiva Roma,Serbia,IT1,14.3,2025-03-25,3420,1.0,5,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+340322,Nathan Tella,C,1999-07-05,25,Bayer 04 Leverkusen,Nigeria,L1,15.142,2024-12-20,1363,0.4454,2,2023-08-27,joined within two years,signed for a fee,0,1,AM/ST/WB
+340324,Eddie Nketiah,C,1999-05-30,26,Crystal Palace,England,GB1,15.142,2025-05-30,1025,0.2997,12,2024-08-30,joined within two years,signed for a fee,0,1,ST
+340329,Joe Willock,C,1999-08-20,25,Newcastle United,England,GB1,18.506,2025-05-30,1073,0.3137,5,2021-08-13,eligible,signed for a fee,0,1,CM
+340353,Maduka Okoye,C,1999-08-28,25,Udinese Calcio,Nigeria,IT1,6.309,2024-12-18,2250,0.6579,12,2023-08-24,joined within two years,signed for a fee,0,1,GK
+340376,Abel Ruiz,C,2000-01-28,25,Girona FC,Spain,ES1,5.047,2025-03-21,1358,0.3971,17,2024-07-01,joined within two years,signed for a fee,0,1,ST
+340918,Caoimhín Kelleher,C,1998-11-23,26,Liverpool FC,Ireland,GB1,16.824,2025-05-30,900,0.2632,1,2015-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,GK
+341227,Juan Miranda,C,2000-01-19,25,Bologna Football Club 1909,Spain,IT1,9.253,2024-12-18,2277,0.6658,9,2024-07-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+341264,Fran García,C,1999-08-14,25,Real Madrid,Spain,ES1,12.618,2024-12-27,2174,0.6357,2,2023-07-01,joined within two years,signed for a fee,0,1,WB
+341278,Iván Martín,C,1999-02-14,26,Girona FC,Spain,ES1,8.412,2024-12-27,2043,0.5974,17,2022-01-27,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+341713,Diego Conde,C,1998-10-28,26,Villarreal CF,Spain,ES1,8.412,2024-12-27,1963,0.574,5,2024-07-02,joined within two years,signed for a fee,0,1,GK
+342229,Kylian Mbappé,C,1998-12-20,26,Real Madrid,France,ES1,143.004,2025-03-21,2917,0.8529,2,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+342405,Mattias Svanberg,C,1999-01-05,26,VfL Wolfsburg,Sweden,L1,10.094,2024-12-20,1223,0.3997,11,2022-07-16,eligible,signed for a fee,0,1,CM
+343959,Erhan Masovic,C,1998-11-22,26,VfL Bochum,Serbia,L1,2.524,2024-12-20,907,0.2964,17,2020-10-05,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB/CM
+344069,Anton Stach,C,1998-11-15,26,TSG 1899 Hoffenheim,Germany,L1,11.777,2025-03-27,2590,0.8464,14,2023-09-01,joined within two years,signed for a fee,0,1,CB/CM
+344596,Malang Sarr,C,1999-01-23,26,RC Lens,France,FR1,4.206,2025-03-24,1382,0.4516,8,2024-07-26,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+344605,Boubakary Soumaré,C,1999-02-27,26,Leicester City,France,GB1,11.777,2024-06-07,2170,0.6345,18,2021-07-02,eligible,signed for a fee,0,1,CM
+344695,Dayot Upamecano,C,1998-10-27,26,Bayern Munich,France,L1,42.06,2024-12-20,1763,0.5761,1,2021-07-05,eligible,signed for a fee,0,1,CB
+345458,Sebastian Walukiewicz,C,2000-04-05,25,Torino FC,Poland,IT1,4.206,2024-12-18,1842,0.5386,11,2024-08-30,joined within two years,signed for a fee,0,1,CB/WB
+345590,Jens Odgaard,C,1999-03-31,26,Bologna Football Club 1909,Denmark,IT1,10.094,2025-03-25,1968,0.5754,9,2024-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+345886,Rubén Vargas,C,1998-08-05,26,Sevilla FC,Switzerland,ES1,5.888,2024-12-20,982,0.2871,16,2025-01-10,joined within two years,signed for a fee,0,1,AM
+345911,Ladislav Krejci,C,1999-04-20,26,Girona FC,Czech Republic,ES1,10.094,2024-12-27,2439,0.7132,17,2024-07-01,joined within two years,signed for a fee,0,1,CB
+346314,Trevoh Chalobah,C,1999-07-05,25,Chelsea FC,England,GB1,21.03,2025-05-30,1974,0.5772,4,,eligible,at the club before a loan; joining not on record; in the club by 2015-07-01 (move between the club's own sides),0,1,CB/WB
+346546,Radoslaw Majecki,C,1999-11-16,25,AS Monaco,Poland,FR1,5.888,2024-12-10,1350,0.4412,3,2020-01-29,eligible,signed for a fee,0,1,GK
+346551,Kamil Grabara,C,1999-01-08,26,VfL Wolfsburg,Poland,L1,11.777,2024-12-20,2586,0.8451,11,2024-07-01,joined within two years,signed for a fee,0,1,GK
+346561,Luca Ranieri,C,1999-04-23,26,ACF Fiorentina,Italy,IT1,10.094,2024-12-18,3078,0.9,6,,eligible,at the club before a loan; joining not on record; in the club by 2015-07-01 (move between the club's own sides),0,1,CB
+346567,Luca Pellegrini,C,1999-03-07,26,Società Sportiva Lazio S.p.A.,Italy,IT1,2.103,2025-03-25,1058,0.3094,7,2023-01-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+346853,Romano Schmid,C,2000-01-27,25,SV Werder Bremen,Austria,L1,12.618,2024-12-20,2846,0.9301,7,2019-01-03,eligible,signed for a fee,0,1,AM
+349066,Alexander Isak,C,1999-09-21,25,Newcastle United,Sweden,GB1,100.944,2025-05-30,2774,0.8111,5,2022-08-26,eligible,signed for a fee,0,1,ST
+357117,Alban Lafont,C,1999-01-23,26,FC Nantes,Cote d'Ivoire,FR1,3.365,2025-03-24,1080,0.3529,13,2019-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+357119,Ibrahima Konaté,C,1999-05-25,26,Liverpool FC,France,GB1,50.472,2025-05-30,2565,0.75,1,2021-07-01,eligible,signed for a fee,0,1,CB
+357156,Diogo Leite,C,1999-01-23,26,1.FC Union Berlin,Portugal,L1,14.3,2024-12-20,2548,0.8327,13,2022-07-16,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+357164,Rafael Leão,C,1999-06-10,25,AC Milan,Portugal,IT1,63.09,2024-12-18,2330,0.6813,8,2019-08-01,eligible,signed for a fee,0,1,AM
+357498,Dušan Vlahović,C,2000-01-28,25,Juventus FC,Serbia,IT1,37.854,2025-03-25,1784,0.5216,4,2022-01-28,eligible,signed for a fee,0,1,ST
+357628,Alfon González,C,1999-05-04,26,Celta de Vigo,Spain,ES1,1.682,2025-03-21,1372,0.4012,7,2020-08-21,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+357662,Declan Rice,C,1999-01-14,26,Arsenal FC,England,GB1,100.944,2025-05-30,2833,0.8284,2,2023-07-15,joined within two years,signed for a fee,0,1,CM
+357796,Domagoj Bradarić,C,1999-12-10,25,Hellas Verona,Croatia,IT1,3.365,2024-12-18,1944,0.5684,14,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+357992,Raoul Bellanova,C,2000-05-17,25,Atalanta BC,Italy,IT1,18.506,2024-12-18,2495,0.7295,3,2024-08-22,joined within two years,signed for a fee,0,1,WB
+358008,Gianluca Gaetano,C,2000-05-05,25,Cagliari Calcio,Italy,IT1,3.365,2025-03-25,998,0.2918,15,2024-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+358504,Ritsu Doan,C,1998-06-16,26,SC Freiburg,Japan,L1,18.506,2024-12-20,2874,0.9392,5,2022-07-05,eligible,signed for a fee,0,1,AM/WB
+361065,Mitchel Bakker,C,2000-06-20,24,LOSC Lille,Netherlands,FR1,5.888,2025-03-24,1160,0.3791,5,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+361068,Jurgen Ekkelenkamp,C,2000-04-05,25,Udinese Calcio,Netherlands,IT1,6.309,2025-03-25,1963,0.574,12,2024-08-06,joined within two years,signed for a fee,0,1,AM/CM
+362108,Gabriel Gudmundsson,C,1999-04-29,26,LOSC Lille,Sweden,FR1,7.571,2025-03-24,1787,0.584,5,2021-08-31,eligible,signed for a fee,0,1,AM/WB
+363057,Pedro Díaz,C,1998-06-05,26,Rayo Vallecano,Spain,ES1,2.103,2025-03-21,1205,0.3523,8,2024-08-05,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+364135,Moise Kean,C,2000-02-28,25,ACF Fiorentina,Italy,IT1,33.648,2025-03-25,2711,0.7927,6,2024-07-09,joined within two years,signed for a fee,0,1,ST
+364409,Gabriel Osho,C,1998-08-14,26,AJ Auxerre,Nigeria,FR1,2.524,2024-05-27,1658,0.5418,11,2024-07-11,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+365108,Dan Ndoye,C,2000-10-25,24,Bologna Football Club 1909,Switzerland,IT1,21.03,2024-12-18,2151,0.6289,9,2023-08-14,joined within two years,signed for a fee,0,1,AM
+366930,Sergio Gómez,C,2000-09-04,24,Real Sociedad,Spain,ES1,16.824,2024-12-27,2745,0.8026,11,2024-07-12,joined within two years,signed for a fee,0,1,AM/WB
+367284,Leo Østigård,C,1999-11-28,25,TSG 1899 Hoffenheim,Norway,L1,5.888,2024-12-10,2156,0.7046,14,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+368887,Loïs Openda,C,2000-02-16,25,RB Leipzig,Belgium,L1,50.472,2024-12-20,2464,0.8052,8,2023-07-14,joined within two years,signed for a fee,0,1,ST
+368891,Arthur Theate,C,2000-05-25,25,Eintracht Frankfurt,Belgium,L1,20.189,2025-03-27,2709,0.8853,3,2024-08-18,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+369081,Federico Valverde,C,1998-07-22,26,Real Madrid,Uruguay,ES1,109.356,2024-12-27,3034,0.8871,2,2016-07-22,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,AM/CM/WB
+370846,Timothy Weah,C,2000-02-22,25,Juventus FC,United States,IT1,14.3,2024-12-18,1638,0.4789,4,2023-07-01,joined within two years,signed for a fee,0,1,AM/WB
+371021,Arijanet Murić,C,1998-11-07,26,Ipswich Town,Kosovo,GB1,4.206,2025-05-30,1620,0.4737,19,2024-07-17,joined within two years,signed for a fee,0,1,GK
+371141,Stanley Nsoki,C,1999-04-09,26,TSG 1899 Hoffenheim,France,L1,2.103,2024-12-20,1307,0.4271,14,2022-08-03,eligible,signed for a fee,0,1,CB/WB
+371149,Evan Ndicka,C,1999-08-20,25,Associazione Sportiva Roma,Cote d'Ivoire,IT1,21.03,2024-12-18,3420,1.0,5,2023-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+371371,Marash Kumbulla,C,2000-02-08,25,RCD Espanyol Barcelona,Albania,ES1,5.047,2025-03-21,2976,0.8702,13,2024-08-17,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+371851,Jaka Bijol,C,1999-02-05,26,Udinese Calcio,Slovenia,IT1,15.142,2024-12-18,2964,0.8667,12,2022-07-14,eligible,signed for a fee,0,1,CB
+371998,Vinicius Junior,C,2000-07-12,24,Real Madrid,Brazil,ES1,168.24,2024-12-27,2258,0.6602,2,2018-07-12,eligible,signed for a fee,0,1,AM/ST
+375382,André Almeida,C,2000-05-30,25,Valencia CF,Portugal,ES1,6.73,2025-03-21,1988,0.5813,12,2022-08-25,eligible,signed for a fee,0,1,AM
+381950,Alexis Saelemaekers,C,1999-06-27,25,Associazione Sportiva Roma,Belgium,IT1,14.3,2025-03-25,1490,0.4357,5,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+381967,Albert Sambi Lokonga,C,1999-10-22,25,Sevilla FC,Belgium,ES1,7.571,2025-03-21,1474,0.431,16,2024-07-15,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+382478,Cédric Zesiger,C,1998-06-24,26,FC Augsburg,Switzerland,L1,4.627,2025-03-27,1748,0.5712,12,2025-01-14,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+384593,Alexis Claude-Maurice,C,1998-06-06,26,FC Augsburg,France,L1,10.094,2025-03-27,2125,0.6944,12,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+385394,Alberto Dossena,C,1998-10-13,26,Como 1907,Italy,IT1,5.888,2024-12-18,1831,0.5354,10,2024-07-01,joined within two years,signed for a fee,0,1,CB
+386446,Alessandro Buongiorno,C,1999-06-06,25,SSC Napoli,Italy,IT1,37.854,2024-12-18,1926,0.5632,1,2024-07-13,joined within two years,signed for a fee,0,1,CB
+386455,Riccardo Sottil,C,1999-06-03,25,AC Milan,Italy,IT1,5.047,2024-12-18,947,0.2769,8,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+387047,Danilho Doekhi,C,1998-06-30,26,1.FC Union Berlin,Netherlands,L1,10.936,2025-03-27,3060,1.0,13,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+388198,Nico Schlotterbeck,C,1999-12-01,25,Borussia Dortmund,Germany,L1,33.648,2024-12-20,1984,0.6484,4,2022-07-01,eligible,signed for a fee,0,1,CB
+390304,Federico Ravaglia,C,1999-11-11,25,Bologna Football Club 1909,Italy,IT1,0.841,2024-12-18,1055,0.3085,9,2012-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,GK
+390688,Juan Iglesias,C,1998-07-03,26,Getafe CF,Spain,ES1,2.944,2024-12-27,2890,0.845,14,2019-07-18,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,AM/WB
+391004,Jonas Wind,C,1999-02-07,26,VfL Wolfsburg,Denmark,L1,12.618,2025-03-27,1971,0.6441,11,2022-01-31,eligible,signed for a fee,0,1,AM/ST
+391005,Mads Roerslev,C,1999-06-24,25,VfL Wolfsburg,Denmark,L1,6.73,2025-03-27,1393,0.4073,11,2025-01-27,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+391065,Hamed Traoré,C,2000-02-16,25,AJ Auxerre,Cote d'Ivoire,FR1,15.142,2024-12-10,2108,0.6889,11,2024-08-27,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+391766,Marco Grüll,C,1998-07-06,26,SV Werder Bremen,Austria,L1,3.365,2024-12-20,1180,0.3856,7,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+391780,Derrick Köhn,C,1999-02-04,26,SV Werder Bremen,Ghana,L1,5.047,2024-12-20,1434,0.4686,7,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+392163,Noah Weißhaupt,C,2001-09-20,23,FC St. Pauli,Germany,L1,4.206,2024-05-29,1245,0.4069,15,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,AM/WB
+392516,Antonino Gallo,C,2000-01-05,25,US Lecce,Italy,IT1,3.785,2025-03-25,2615,0.7646,17,2019-07-25,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+392538,Tommaso Pobega,C,1999-07-15,25,Bologna Football Club 1909,Italy,IT1,8.412,2024-12-18,1178,0.3444,9,2024-08-24,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+392569,Gabriele Zappa,C,1999-12-22,25,Cagliari Calcio,Italy,IT1,3.365,2025-03-25,3062,0.8953,15,2020-09-08,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+392757,Marc Guéhi,C,2000-07-13,24,Crystal Palace,England,GB1,37.854,2025-05-30,3060,0.8947,12,2021-07-18,eligible,signed for a fee,0,1,CB
+392765,Emile Smith Rowe,C,2000-07-28,24,Fulham FC,England,GB1,25.236,2025-05-30,2060,0.6023,11,2024-08-02,joined within two years,signed for a fee,0,1,AM
+392768,Callum Hudson-Odoi,C,2000-11-07,24,Nottingham Forest,England,GB1,21.03,2025-05-30,2205,0.6447,7,2023-09-01,joined within two years,signed for a fee,0,1,AM
+392881,Antonio Candela,C,2000-04-27,25,Real Valladolid CF,Italy,ES1,1.682,2025-03-21,1922,0.562,20,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+392956,Enrico Delprato,C,1999-11-10,25,Parma Calcio 1913,Italy,IT1,5.047,2024-12-18,2946,0.8614,16,2021-08-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+392959,Andrea Colpani,C,1999-05-11,26,ACF Fiorentina,Italy,IT1,10.094,2025-03-25,1458,0.4263,6,2024-07-26,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+392966,Nadir Zortea,C,1999-06-19,25,Cagliari Calcio,Italy,IT1,3.785,2025-03-25,2727,0.7974,15,2024-07-17,joined within two years,signed for a fee,0,1,AM/WB
+393238,Zakaria Aboukhlal,C,2000-02-18,25,FC Toulouse,Morocco,FR1,10.094,2025-03-24,1910,0.6242,10,2022-07-01,eligible,signed for a fee,0,1,AM
+393512,Felix Agu,C,1999-09-27,25,SV Werder Bremen,Nigeria,L1,5.047,2024-12-20,1761,0.5755,7,2020-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+394300,Davide Frattesi,C,1999-09-22,25,Inter Milan,Italy,IT1,26.918,2024-12-18,1210,0.3538,2,2023-07-06,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+394327,Boubacar Kamara,C,1999-11-23,25,Aston Villa,France,GB1,33.648,2025-05-30,1728,0.5053,6,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+395236,Yacine Adli,C,2000-07-29,24,ACF Fiorentina,Algeria,IT1,12.618,2024-12-18,1208,0.3532,6,2024-08-28,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+395237,Maxence Caqueret,C,2000-02-15,25,Como 1907,France,IT1,12.618,2024-12-10,1670,0.4883,10,2025-01-12,joined within two years,signed for a fee,0,1,AM/CM
+397033,Sandro Tonali,C,2000-05-08,25,Newcastle United,Italy,GB1,50.472,2025-05-30,2629,0.7687,5,2023-07-03,joined within two years,signed for a fee,0,1,CM
+397171,Gideon Mensah,C,1998-07-18,26,AJ Auxerre,Ghana,FR1,2.944,2024-12-10,2284,0.7464,11,2022-08-13,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+397225,Alessandro Zanoli,C,2000-10-03,24,Genoa CFC,Italy,IT1,5.047,2024-12-18,1717,0.502,13,2024-07-11,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+397486,Dennis Man,C,1998-08-26,26,Parma Calcio 1913,Romania,IT1,10.515,2025-03-25,1999,0.5845,16,2021-01-29,eligible,signed for a fee,0,1,AM
+398073,Achraf Hakimi,C,1998-11-04,26,Paris Saint-Germain,Morocco,FR1,54.678,2025-03-24,2068,0.6758,1,2021-07-06,eligible,signed for a fee,0,1,WB
+398184,Ferran Torres,C,2000-02-29,25,FC Barcelona,Spain,ES1,23.554,2024-12-27,1101,0.3219,1,2022-01-01,eligible,signed for a fee,0,1,AM/ST
+399434,Marcus Tavernier,C,1999-03-22,26,AFC Bournemouth,England,GB1,15.142,2025-05-30,1940,0.5673,9,2022-08-01,eligible,signed for a fee,0,1,AM
+400489,Eljif Elmas,C,1999-09-24,25,Torino FC,North Macedonia,IT1,11.777,2025-03-25,1068,0.3123,11,2025-01-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+400536,Mads Hermansen,C,2000-07-11,24,Leicester City,Denmark,GB1,12.618,2025-05-30,2385,0.6974,18,2023-07-18,joined within two years,signed for a fee,0,1,GK
+401320,Dara O'Shea,C,1999-03-04,26,Ipswich Town,Ireland,GB1,11.777,2025-05-30,3123,0.9132,19,2024-08-25,joined within two years,signed for a fee,0,1,CB/WB
+401529,Dodô,C,1998-11-17,26,ACF Fiorentina,Brazil,IT1,18.506,2024-12-18,3119,0.912,6,2022-07-22,eligible,signed for a fee,0,1,WB
+401578,Exequiel Palacios,C,1998-10-05,26,Bayer 04 Leverkusen,Argentina,L1,33.648,2024-12-20,1150,0.3758,2,2020-01-01,eligible,signed for a fee,0,1,CM
+401922,Samuel Chukwueze,C,1999-05-22,26,AC Milan,Nigeria,IT1,11.777,2025-03-25,918,0.2684,8,2023-07-27,joined within two years,signed for a fee,0,1,AM
+404842,Vitaliy Mykolenko,C,1999-05-29,26,Everton FC,Ukraine,GB1,23.554,2025-05-30,3084,0.9018,13,2022-01-01,eligible,signed for a fee,0,1,WB
+404950,Nicolas Seiwald,C,2001-05-04,24,RB Leipzig,Austria,L1,13.459,2024-12-20,2080,0.6797,8,2023-07-01,joined within two years,signed for a fee,0,1,CB/CM
+405385,Yukinari Sugawara,C,2000-06-28,24,Southampton FC,Japan,GB1,9.253,2025-05-30,1557,0.4553,20,2024-07-14,joined within two years,signed for a fee,0,1,WB
+405397,Keito Nakamura,C,2000-07-28,24,Stade Reims,Japan,FR1,8.412,2025-03-24,2662,0.8699,16,2023-08-10,joined within two years,signed for a fee,0,1,AM
+405398,Takefusa Kubo,C,2001-06-04,23,Real Sociedad,Japan,ES1,33.648,2024-12-27,2381,0.6962,11,2022-07-19,eligible,signed for a fee,0,1,AM
+405670,Yannik Engelhardt,C,2001-02-07,24,Como 1907,Germany,IT1,5.888,2024-12-18,1153,0.3371,10,2024-08-01,joined within two years,signed for a fee,0,1,CM
+405687,Tom Krauß,C,2001-06-22,23,VfL Bochum,Germany,L1,3.365,2024-12-30,1081,0.3533,17,2025-01-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+405885,Giacomo Raspadori,C,2000-02-18,25,SSC Napoli,Italy,IT1,16.824,2025-03-25,1097,0.3208,1,2022-08-20,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+406634,Matt O'Riley,C,2000-11-21,24,Brighton & Hove Albion,Denmark,GB1,18.506,2025-05-30,1118,0.3269,8,2024-08-26,joined within two years,signed for a fee,0,1,AM/CM
+406635,Phil Foden,C,2000-05-28,25,Manchester City,England,GB1,84.12,2025-05-30,1781,0.5208,3,,eligible,came through the club's youth system; entry not on record; in the club by 2016-07-01 (move between the club's own sides),0,1,AM
+406638,Oliver Skipp,C,2000-09-16,24,Leicester City,England,GB1,8.412,2025-05-30,1122,0.3281,18,2024-08-19,joined within two years,signed for a fee,0,1,CM
+406640,Felix Nmecha,C,2000-10-10,24,Borussia Dortmund,Germany,L1,23.554,2024-12-20,1512,0.4941,4,2023-07-03,joined within two years,signed for a fee,0,1,CM
+406973,Moritz Broschinski,C,2000-09-23,24,VfL Bochum,Germany,L1,2.103,2024-12-20,1385,0.4526,17,2023-01-22,eligible,signed for a fee,0,1,AM/ST
+407098,Jakub Kamiński,C,2002-06-05,22,VfL Wolfsburg,Poland,L1,5.047,2024-12-20,1123,0.367,11,2022-07-01,eligible,signed for a fee,0,1,AM/WB
+411975,Jules Koundé,C,1998-11-12,26,FC Barcelona,France,ES1,50.472,2024-12-27,2606,0.762,1,2022-07-28,eligible,signed for a fee,0,1,CB/WB
+412045,Pol Lozano,C,1999-10-06,25,RCD Espanyol Barcelona,Spain,ES1,3.365,2025-03-21,1958,0.5725,13,,eligible,at the club before a loan; joining not on record; in the club by 2016-07-01 (move between the club's own sides),0,1,CM
+412363,Rodrygo,C,2001-01-09,24,Real Madrid,Brazil,ES1,84.12,2024-12-27,1938,0.5667,2,2019-07-01,eligible,signed for a fee,0,1,AM/ST
+412932,Myron Boadu,C,2001-01-14,24,VfL Bochum,Netherlands,L1,5.888,2025-03-27,1043,0.3408,17,2024-08-09,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+413039,Bryan Mbeumo,C,1999-08-07,25,Brentford FC,Cameroon,GB1,46.266,2025-05-30,3417,0.9991,10,2019-08-05,eligible,signed for a fee,0,1,AM/ST
+413112,Aurélien Tchouaméni,C,2000-01-27,25,Real Madrid,France,ES1,67.296,2024-12-27,2692,0.7871,2,2022-07-01,eligible,signed for a fee,0,1,CB/CM
+413565,Jhon Lucumí,C,1998-06-26,26,Bologna Football Club 1909,Colombia,IT1,15.142,2024-12-18,2613,0.764,9,2022-08-18,eligible,signed for a fee,0,1,CB
+415381,Mats Wieffer,C,1999-11-16,25,Brighton & Hove Albion,Netherlands,GB1,21.03,2025-05-30,1008,0.2947,8,2024-07-05,joined within two years,signed for a fee,0,1,CM/WB
+418560,Erling Haaland,C,2000-07-21,24,Manchester City,Norway,GB1,151.416,2025-05-30,2743,0.802,3,2022-07-01,eligible,signed for a fee,0,1,ST
+418571,Hamza Rafia,C,1999-04-02,26,US Lecce,Tunisia,IT1,1.43,2024-06-05,1064,0.3111,17,2023-07-18,joined within two years,signed for a fee,0,1,AM/CM
+418651,Yahia Fofana,C,2000-08-21,24,Angers SCO,Cote d'Ivoire,FR1,5.047,2025-03-24,2970,0.9706,14,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+418659,Amine Gouiri,C,2000-02-16,25,Olympique Marseille,Algeria,FR1,16.824,2024-12-10,2089,0.6827,2,2025-01-31,joined within two years,signed for a fee,0,1,AM/ST
+420210,Lutsharel Geertruida,C,2000-07-18,24,RB Leipzig,Netherlands,L1,22.712,2025-03-27,1827,0.5971,8,2024-08-30,joined within two years,signed for a fee,0,1,CB/WB
+420243,Jurriën Timber,C,2001-06-17,23,Arsenal FC,Netherlands,GB1,46.266,2025-05-30,2423,0.7085,2,2023-07-14,joined within two years,signed for a fee,0,1,WB
+421873,Elia Caprile,C,2001-08-25,23,Cagliari Calcio,Italy,IT1,6.73,2025-03-25,1944,0.5684,15,2025-01-07,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,GK
+423440,Martín Zubimendi,C,1999-02-02,26,Real Sociedad,Spain,ES1,50.472,2024-12-27,2962,0.8661,11,2011-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+423444,Fran Beltrán,C,1999-02-03,26,Celta de Vigo,Spain,ES1,5.047,2024-12-27,2428,0.7099,7,2018-08-01,eligible,signed for a fee,0,1,CM
+423744,Billy Gilmour,C,2001-06-11,23,SSC Napoli,Scotland,IT1,13.459,2024-12-18,1272,0.3719,1,2024-08-30,joined within two years,signed for a fee,0,1,CM
+424204,Alphonso Davies,C,2000-11-02,24,Bayern Munich,Canada,L1,42.06,2024-12-20,1562,0.5105,1,2019-01-01,eligible,signed for a fee,0,1,WB
+425918,Jakub Kiwior,C,2000-02-15,25,Arsenal FC,Poland,GB1,23.554,2025-05-30,1117,0.3266,2,2023-01-23,eligible,signed for a fee,0,1,CB/WB
+427572,Zuriko Davitashvili,C,2001-02-15,24,AS Saint-Étienne,Georgia,FR1,8.412,2025-03-24,2763,0.9029,17,2024-07-11,joined within two years,signed for a fee,0,1,AM
+428563,Lewis Ferguson,C,1999-08-24,25,Bologna Football Club 1909,Scotland,IT1,20.189,2025-03-25,980,0.2865,9,2022-07-12,eligible,signed for a fee,0,1,AM/CM
+429014,Morgan Gibbs-White,C,2000-01-27,25,Nottingham Forest,England,GB1,42.06,2025-05-30,2824,0.8257,7,2022-08-19,eligible,signed for a fee,0,1,AM
+429259,Mark McKenzie,C,1999-02-25,26,FC Toulouse,United States,FR1,5.047,2024-12-10,2498,0.8163,10,2024-08-16,joined within two years,signed for a fee,0,1,CB
+429874,Ansgar Knauff,C,2002-01-10,23,Eintracht Frankfurt,Germany,L1,8.412,2024-12-20,1605,0.5245,3,2022-01-20,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+429983,Jørgen Strand Larsen,C,2000-02-06,25,Wolverhampton Wanderers,Norway,GB1,25.236,2025-05-30,2603,0.7611,16,2024-07-02,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+430280,Hans Nicolussi Caviglia,C,2000-06-18,24,Venezia FC,Italy,IT1,6.73,2025-03-25,2870,0.8392,19,2024-08-22,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+431755,Dejan Kulusevski,C,2000-04-25,25,Tottenham Hotspur,Sweden,GB1,42.06,2025-05-30,2391,0.6991,17,2022-01-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM
+432090,Nicolò Fagioli,C,2001-02-12,24,ACF Fiorentina,Italy,IT1,15.142,2025-03-25,1527,0.4465,6,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+432092,Roberto Piccoli,C,2001-01-27,24,Cagliari Calcio,Italy,IT1,6.73,2025-03-25,3145,0.9196,15,2024-07-17,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+432298,Zion Suzuki,C,2002-08-21,22,Parma Calcio 1913,Japan,IT1,11.777,2025-03-25,3315,0.9693,16,2024-07-15,joined within two years,signed for a fee,0,1,GK
+432982,Andreas Skov Olsen,C,1999-12-29,25,VfL Wolfsburg,Denmark,L1,13.459,2024-12-11,1675,0.6204,11,2025-01-17,joined within two years,signed for a fee,0,1,AM
+433177,Bukayo Saka,C,2001-09-05,23,Arsenal FC,England,GB1,126.18,2025-05-30,1736,0.5076,2,2008-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+433181,Tino Anjorin,C,2001-11-23,23,FC Empoli,England,IT1,5.047,2025-03-25,1118,0.3269,18,2024-08-29,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+433188,Curtis Jones,C,2001-01-30,24,Liverpool FC,England,GB1,37.854,2025-05-30,1711,0.5003,1,,eligible,came through the club's youth system; entry not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,AM/CM
+433584,Alessio Zerbin,C,1999-03-03,26,Venezia FC,Italy,IT1,3.365,2025-03-25,1522,0.445,19,2025-01-18,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+433984,Sam Beukema,C,1998-11-17,26,Bologna Football Club 1909,Netherlands,IT1,21.03,2025-03-25,3012,0.8807,9,2023-07-03,joined within two years,signed for a fee,0,1,CB
+434116,Alexander Prass,C,2001-05-26,24,TSG 1899 Hoffenheim,Austria,L1,5.468,2025-03-27,1571,0.5134,14,2024-08-05,joined within two years,signed for a fee,0,1,AM/WB
+434224,Maxence Lacroix,C,2000-04-06,25,Crystal Palace,France,GB1,21.03,2025-05-30,3119,0.912,12,2024-08-30,joined within two years,signed for a fee,0,1,CB
+434433,Nikola Krstović,C,2000-04-05,25,US Lecce,Montenegro,IT1,11.777,2025-03-25,3070,0.8977,17,2023-08-18,joined within two years,signed for a fee,0,1,ST
+434675,Cody Gakpo,C,1999-05-07,26,Liverpool FC,Netherlands,GB1,58.884,2025-05-30,1938,0.5667,1,2023-01-01,eligible,signed for a fee,0,1,AM/ST
+434990,Álex Sola,C,1999-06-09,25,Getafe CF,Spain,ES1,2.524,2024-12-27,1037,0.3032,14,2024-07-15,joined within two years,signed for a fee,0,1,AM
+435772,Charles De Ketelaere,C,2001-03-10,24,Atalanta BC,Belgium,IT1,31.966,2024-12-18,2080,0.6082,3,2023-08-16,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+435796,Kilian Fischer,C,2000-10-12,24,VfL Wolfsburg,Germany,L1,5.047,2025-03-27,2307,0.7539,11,2022-07-01,eligible,signed for a fee,0,1,WB
+436064,Ramon Hendriks,C,2001-07-18,23,VfB Stuttgart,Netherlands,L1,4.206,2025-03-27,1141,0.3729,9,2024-07-01,joined within two years,signed for a fee,0,1,CB/WB
+438001,Santiago Bueno,C,1998-11-09,26,Wolverhampton Wanderers,Uruguay,GB1,8.412,2025-05-30,1682,0.4918,16,2023-08-31,joined within two years,signed for a fee,0,1,CB
+438961,Michael Svoboda,C,1998-10-15,26,Venezia FC,Austria,IT1,0.757,2023-06-12,1314,0.3842,19,,eligible,no move into the club on record; in the club by 2021-08-15 (first match for the club),0,1,CB
+439914,John Yeboah,C,2000-06-23,24,Venezia FC,Ecuador,IT1,1.262,2023-06-09,1212,0.3544,19,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,AM
+441986,Yann Bisseck,C,2000-11-29,24,Inter Milan,Germany,IT1,25.236,2024-12-18,1639,0.4792,2,2023-07-12,joined within two years,signed for a fee,0,1,CB
+443331,Patrick Osterhage,C,2000-02-01,25,SC Freiburg,Germany,L1,7.15,2024-12-20,2273,0.7428,5,2024-07-01,joined within two years,signed for a fee,0,1,CM
+443710,Angelo Stiller,C,2001-04-04,24,VfB Stuttgart,Germany,L1,31.966,2025-03-27,2743,0.8964,9,2023-08-25,joined within two years,signed for a fee,0,1,CM
+445126,Emanuele Valeri,C,1998-12-07,26,Parma Calcio 1913,Italy,IT1,2.524,2024-12-18,2879,0.8418,16,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+445939,Omar Marmoush,C,1999-02-07,26,Manchester City,Egypt,GB1,63.09,2025-05-30,2639,0.8624,3,2025-01-23,joined within two years,signed for a fee,0,1,AM/ST
+448258,Josha Vagnoman,C,2000-12-11,24,VfB Stuttgart,Germany,L1,10.094,2024-12-20,1835,0.5997,9,2022-07-09,eligible,signed for a fee,0,1,AM/WB
+448632,Yehvann Diouf,C,1999-11-16,25,Stade Reims,Senegal,FR1,7.571,2024-12-10,3060,1.0,16,2019-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+450050,Jean-Ricner Bellegarde,C,1998-06-27,26,Wolverhampton Wanderers,Haiti,GB1,15.142,2025-05-30,1684,0.4924,16,2023-09-01,joined within two years,signed for a fee,0,1,AM/CM
+451276,Dominik Szoboszlai,C,2000-10-25,24,Liverpool FC,Hungary,GB1,67.296,2025-05-30,2497,0.7301,1,2023-07-02,joined within two years,signed for a fee,0,1,AM/CM
+451801,Abdul Mumin,C,1998-06-06,26,Rayo Vallecano,Ghana,ES1,4.206,2024-12-27,2020,0.5906,8,2022-09-01,eligible,signed for a fee,0,1,CB
+451906,David Nemeth,C,2001-03-18,24,FC St. Pauli,Austria,L1,2.103,2025-03-27,2142,0.7,15,2022-07-01,eligible,signed for a fee,0,1,CB
+452477,Junior Adamu,C,2001-06-06,23,SC Freiburg,Austria,L1,5.047,2024-12-20,1554,0.5078,5,2023-07-01,joined within two years,signed for a fee,0,1,ST
+453870,Benedict Hollerbach,C,2001-05-17,24,1.FC Union Berlin,Germany,L1,6.309,2025-03-27,2555,0.835,13,2023-07-27,joined within two years,signed for a fee,0,1,AM/ST
+454863,András Schäfer,C,1999-04-13,26,1.FC Union Berlin,Hungary,L1,4.206,2024-12-20,1537,0.5023,13,2022-01-21,eligible,signed for a fee,0,1,AM/CM
+455661,Nick Woltemade,C,2002-02-14,23,VfB Stuttgart,Germany,L1,14.3,2025-03-27,1620,0.5294,9,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+459128,Marco Brescianini,C,2000-01-20,25,Atalanta BC,Italy,IT1,6.73,2024-12-18,983,0.2874,3,2024-08-16,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+459463,Cucho Hernández,C,1999-04-20,26,Real Betis Balompié,Colombia,ES1,15.142,2024-12-12,1150,0.3363,6,2025-02-03,joined within two years,signed for a fee,0,1,ST
+459658,Andrea Cambiaso,C,2000-02-20,25,Juventus FC,Italy,IT1,33.648,2024-12-18,2223,0.65,4,2022-07-14,eligible,signed for a fee,0,1,WB
+459665,Patrizio Masini,C,2001-01-27,24,Genoa CFC,Italy,IT1,2.944,2025-03-25,1533,0.4482,13,,eligible,at the club before a loan; joining not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,CM
+459763,Marco Carnesecchi,C,2000-07-01,24,Atalanta BC,Italy,IT1,21.03,2025-03-25,3060,0.8947,3,2017-01-30,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,GK
+460245,Moritz Jenz,C,1999-04-30,26,1.FSV Mainz 05,Germany,L1,5.047,2024-12-20,1601,0.5232,6,2024-08-28,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+460651,Antoine Makoumbou,C,1998-07-18,26,Cagliari Calcio,Congo,IT1,3.365,2024-12-18,2164,0.6327,15,2022-07-15,eligible,signed for a fee,0,1,CM
+460939,Tijjani Reijnders,C,1998-07-29,26,AC Milan,Netherlands,IT1,42.06,2024-12-18,3132,0.9158,8,2023-07-19,joined within two years,signed for a fee,0,1,AM/CM
+461019,Samuele Birindelli,C,1999-07-19,25,AC Monza,Italy,IT1,2.524,2025-03-25,1476,0.4316,20,2022-07-07,eligible,signed for a fee,0,1,WB
+461607,Estéban Lepaul,C,2000-04-18,25,Angers SCO,France,FR1,4.206,2025-03-24,1631,0.533,14,2024-01-25,joined within two years,signed for a fee,0,1,ST
+461833,Caleb Okoli,C,2001-07-13,23,Leicester City,Italy,GB1,6.73,2024-06-05,1124,0.3287,18,2024-07-09,joined within two years,signed for a fee,0,1,CB
+461843,Juan Berrocal,C,1999-02-05,26,Getafe CF,Spain,ES1,1.514,2025-03-21,1061,0.3102,14,2024-08-19,joined within two years,signed for a fee,0,1,CB
+461883,Calvin Bassey,C,1999-12-31,25,Fulham FC,Nigeria,GB1,21.03,2025-05-30,3074,0.8988,11,2023-07-28,joined within two years,signed for a fee,0,1,CB
+462250,João Félix,C,1999-11-10,25,AC Milan,Portugal,IT1,21.03,2025-03-25,1123,0.3284,8,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+462823,Gustav Isaksen,C,2001-04-19,24,Società Sportiva Lazio S.p.A.,Denmark,IT1,16.824,2025-03-25,2228,0.6515,7,2023-08-08,joined within two years,signed for a fee,0,1,AM
+463600,Lucas Chevalier,C,2001-11-06,23,LOSC Lille,France,FR1,25.236,2024-12-10,3060,1.0,5,,eligible,at the club before a loan; joining not on record; in the club by 2016-07-01 (move between the club's own sides),0,1,GK
+463605,Bafodé Diakité,C,2001-01-06,24,LOSC Lille,France,FR1,21.03,2024-12-10,2767,0.9042,5,2022-08-05,eligible,signed for a fee,0,1,CB/WB
+463613,Yann Gboho,C,2001-01-14,24,FC Toulouse,France,FR1,6.73,2025-03-24,2342,0.7654,10,2024-01-08,joined within two years,signed for a fee,0,1,AM
+463618,Khéphren Thuram,C,2001-03-26,24,Juventus FC,France,IT1,33.648,2025-03-25,2329,0.681,4,2024-07-10,joined within two years,signed for a fee,0,1,CM
+463665,Oumar Solet,C,2000-02-07,25,Udinese Calcio,France,IT1,11.777,2025-03-25,1674,0.4895,12,2025-01-02,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+464598,Casper Tengstedt,C,2000-06-01,24,Hellas Verona,Denmark,IT1,5.888,2024-12-18,1531,0.4477,14,2024-08-09,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+465555,Djordje Petrovic,C,1999-10-08,25,RC Strasbourg Alsace,Serbia,FR1,15.142,2024-12-10,2790,0.9118,6,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,GK
+465830,Mattéo Guendouzi,C,1999-04-14,26,Società Sportiva Lazio S.p.A.,France,IT1,26.918,2024-12-18,3275,0.9576,7,2023-08-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+465955,Marcin Bulka,C,1999-10-04,25,OGC Nice,Poland,FR1,16.824,2024-12-10,3060,1.0,4,2021-08-05,eligible,arrived without a recorded fee (loan or free transfer),0,1,GK
+466794,Eric García,C,2001-01-09,24,FC Barcelona,Spain,ES1,12.618,2025-03-21,1557,0.4553,1,2021-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB/CM/WB
+466801,Sergi Altimira,C,2001-08-25,23,Real Betis Balompié,Spain,ES1,8.412,2025-03-21,1973,0.5769,6,2023-08-11,joined within two years,signed for a fee,0,1,CM
+466802,Adrián Bernabé,C,2001-05-26,24,Parma Calcio 1913,Spain,IT1,12.618,2024-12-18,1461,0.4272,16,2021-07-07,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+466805,Nico González,C,2002-01-03,23,Manchester City,Spain,GB1,33.648,2025-05-30,2213,0.7232,3,2025-02-03,joined within two years,signed for a fee,0,1,AM/CM
+466807,Adrià Altimira,C,2001-03-28,24,CD Leganés,Spain,ES1,1.682,2024-06-07,1636,0.4784,18,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,AM/WB
+467434,Rocco Reitz,C,2002-05-29,23,Borussia Mönchengladbach,Germany,L1,12.618,2024-12-20,1841,0.6016,10,2009-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/CM
+467632,Cristian Cásseres Jr.,C,2000-01-20,25,FC Toulouse,Venezuela,FR1,4.206,2024-12-10,2706,0.8843,10,2023-07-07,joined within two years,signed for a fee,0,1,CM
+467992,Samuele Ricci,C,2001-08-21,23,Torino FC,Italy,IT1,25.236,2025-03-25,2839,0.8301,11,2022-01-30,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+468002,Ben Johnson,C,2000-01-24,25,Ipswich Town,England,GB1,6.73,2025-05-30,1349,0.3944,19,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+468066,Jens Cajuste,C,1999-08-10,25,Ipswich Town,Sweden,GB1,10.094,2025-05-30,1978,0.5784,19,2024-08-19,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+469050,Nathan Collins,C,2001-04-30,24,Brentford FC,Ireland,GB1,23.554,2025-05-30,3420,1.0,10,2023-07-04,joined within two years,signed for a fee,0,1,CB
+469211,Liberato Cacace,C,2000-09-27,24,FC Empoli,New Zealand,IT1,2.524,2025-03-25,2231,0.6523,18,2022-01-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/CB/WB
+469709,David Zec,C,2000-01-05,25,Holstein Kiel,Slovenia,L1,2.103,2025-03-27,1545,0.5049,18,2025-01-01,joined within two years,signed for a fee,0,1,CB
+470607,Brennan Johnson,C,2001-05-23,24,Tottenham Hotspur,Wales,GB1,33.648,2025-05-30,2179,0.6371,17,2023-09-01,joined within two years,signed for a fee,0,1,AM
+470794,Ivan Ilić,C,2001-03-17,24,Torino FC,Serbia,IT1,15.142,2024-12-18,916,0.2678,11,2023-01-30,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+471055,Marvin Pieringer,C,1999-10-04,25,1. Fußballclub Heidenheim 1846,Germany,L1,4.627,2024-12-20,2225,0.7271,16,2023-07-03,joined within two years,signed for a fee,0,1,AM/ST
+471890,Max Geschwill,C,2001-07-07,23,Holstein Kiel,Germany,L1,1.262,2024-12-20,1285,0.4199,18,2024-07-01,joined within two years,signed for a fee,0,1,CB
+472423,Reece James,C,1999-12-08,25,Chelsea FC,England,GB1,25.236,2025-05-30,1063,0.3108,4,,eligible,at the club before a loan; joining not on record; in the club by 2016-07-01 (move between the club's own sides),0,1,CM/WB
+473050,Kevin Schade,C,2001-11-27,23,Brentford FC,Germany,GB1,25.236,2025-05-30,2301,0.6728,10,2023-01-04,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+474800,Facundo Medina,C,1999-05-28,26,RC Lens,Argentina,FR1,21.03,2024-12-10,2549,0.833,8,2020-07-02,eligible,signed for a fee,0,1,CB/WB
+475411,Wesley Fofana,C,2000-12-17,24,Chelsea FC,France,GB1,21.03,2025-05-30,1176,0.3439,4,2022-08-31,eligible,signed for a fee,0,1,CB
+475416,Sorba Thomas,C,1999-01-25,26,FC Nantes,Wales,FR1,3.365,2024-12-10,1326,0.4333,13,2024-07-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+475959,Josko Gvardiol,C,2002-01-23,23,Manchester City,Croatia,GB1,63.09,2025-05-30,3280,0.9591,3,2023-08-05,joined within two years,signed for a fee,0,1,CB/WB
+476219,Bojan Miovski,C,1999-06-24,25,Girona FC,North Macedonia,ES1,2.524,2025-03-21,967,0.2827,17,2024-08-15,joined within two years,signed for a fee,0,1,ST
+476344,Emerson Royal,C,1999-01-14,26,AC Milan,Brazil,IT1,8.412,2025-03-25,1382,0.4041,8,2024-08-12,joined within two years,signed for a fee,0,1,CB/WB
+478573,Ryan Gravenberch,C,2002-05-16,23,Liverpool FC,Netherlands,GB1,63.09,2025-05-30,3169,0.9266,1,2023-09-01,joined within two years,signed for a fee,0,1,CM
+479999,Eberechi Eze,C,1998-06-29,26,Crystal Palace,England,GB1,46.266,2025-05-30,2603,0.7611,12,2020-08-28,eligible,signed for a fee,0,1,AM
+480116,Lloyd Kelly,C,1998-10-06,26,Juventus FC,England,IT1,15.142,2024-12-16,1316,0.3848,4,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+480883,Miguel de la Fuente,C,1999-09-03,25,CD Leganés,Spain,ES1,1.682,2024-12-27,1719,0.5026,18,2023-09-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+481834,Andrea Carboni,C,2001-02-04,24,AC Monza,Italy,IT1,2.86,2025-03-25,2196,0.6421,20,2022-07-01,eligible,signed for a fee,0,1,CB/WB
+483348,Djed Spence,C,2000-08-09,24,Tottenham Hotspur,England,GB1,16.824,2025-05-30,1791,0.5237,17,2022-07-19,eligible,signed for a fee,0,1,WB
+484547,Jeremie Frimpong,C,2000-12-10,24,Bayer 04 Leverkusen,Netherlands,L1,42.06,2024-12-20,2322,0.7588,2,2021-01-27,eligible,signed for a fee,0,1,AM/WB
+484988,Logan Costa,C,2001-04-01,24,Villarreal CF,Cape Verde,ES1,12.618,2024-12-27,2676,0.7825,5,2024-08-22,joined within two years,signed for a fee,0,1,CB
+484992,Aïmen Moueffek,C,2001-04-09,24,AS Saint-Étienne,Morocco,FR1,0.841,2023-06-16,1041,0.3402,17,,eligible,no move into the club on record; in the club by 2020-09-17 (first match for the club),0,1,CM
+485583,Ki-Jana Hoever,C,2002-01-18,23,AJ Auxerre,Netherlands,FR1,3.785,2024-12-10,2139,0.699,11,2024-08-21,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+485584,Anass Salah-Eddine,C,2002-01-18,23,Associazione Sportiva Roma,Morocco,IT1,6.73,2025-03-25,1439,0.4703,5,2025-02-03,joined within two years,signed for a fee,0,1,WB
+485585,Ian Maatsen,C,2002-03-10,23,Aston Villa,Netherlands,GB1,23.554,2025-05-30,1127,0.3295,6,2024-07-01,joined within two years,signed for a fee,0,1,WB
+485706,Amadou Onana,C,2001-08-16,23,Aston Villa,Belgium,GB1,42.06,2025-05-30,1624,0.4749,6,2024-07-22,joined within two years,signed for a fee,0,1,CM
+485960,Lilian Brassier,C,1999-11-02,25,Stade Rennais FC,France,FR1,8.412,2024-12-10,2016,0.6588,12,2025-01-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+485963,Pape Gueye,C,1999-01-24,26,Villarreal CF,Senegal,ES1,8.412,2025-03-21,2230,0.652,5,2024-07-05,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+485965,Nicolas Cozza,C,1999-01-08,26,FC Nantes,France,FR1,2.944,2024-12-10,2051,0.6703,13,2024-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+486049,Jérémy Doku,C,2002-05-27,23,Manchester City,Belgium,GB1,42.06,2025-05-30,1514,0.4427,3,2023-08-24,joined within two years,signed for a fee,0,1,AM/WB
+486144,Jakub Stolarczyk,C,2000-12-19,24,Leicester City,Poland,GB1,0.252,2023-10-27,900,0.2632,18,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,GK
+487465,Pedro Neto,C,2000-03-09,25,Chelsea FC,Portugal,GB1,42.06,2025-05-30,2269,0.6635,4,2024-08-11,joined within two years,signed for a fee,0,1,AM/ST
+487469,Vitinha,C,2000-02-13,25,Paris Saint-Germain,Portugal,FR1,50.472,2025-03-24,2035,0.665,1,2022-07-01,eligible,signed for a fee,0,1,CM
+487474,Francisco Conceição,C,2002-12-14,22,Juventus FC,Portugal,IT1,30.283,2024-12-18,1338,0.3912,4,2024-08-27,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+487843,Lorenzo Colombo,C,2002-03-08,23,FC Empoli,Italy,IT1,5.047,2024-12-18,2240,0.655,18,2024-07-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+487969,Randal Kolo Muani,C,1998-12-05,26,Juventus FC,France,IT1,25.236,2024-12-10,1514,0.4427,4,2025-01-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+488362,Conor Gallagher,C,2000-02-06,25,Atlético de Madrid,England,ES1,33.648,2024-12-27,1633,0.4775,3,2024-08-21,joined within two years,signed for a fee,0,1,AM/CM
+488626,Jesús Areso,C,1999-07-02,25,CA Osasuna,Spain,ES1,6.73,2024-12-27,3089,0.9032,9,2021-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+488755,Jakov Medic,C,1998-09-07,26,VfL Bochum,Croatia,L1,1.682,2024-12-20,1604,0.5242,17,2024-08-20,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+488996,Thórir Jóhann Helgason,C,2000-09-28,24,US Lecce,Iceland,IT1,2.103,2025-03-25,1157,0.3383,17,2021-07-15,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM
+490384,Koni De Winter,C,2002-06-12,22,Genoa CFC,Belgium,IT1,15.142,2025-03-25,2133,0.6237,13,2023-08-11,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+490417,Ibrahima Niane,C,1999-03-11,26,Angers SCO,Senegal,FR1,1.682,2023-10-27,934,0.3052,14,,eligible,no move into the club on record; in the club by 2023-02-05 (first match for the club),0,1,ST
+490423,Ignace Van der Brempt,C,2002-04-01,23,Como 1907,Belgium,IT1,3.365,2025-03-25,1258,0.3678,10,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+491296,Anass Zaroury,C,2000-11-07,24,RC Lens,Morocco,FR1,6.73,2024-12-10,1407,0.4598,8,2024-08-22,joined within two years,signed for a fee,0,1,AM
+493513,Karl Hein,C,2002-04-13,23,Real Valladolid CF,Estonia,ES1,2.524,2024-12-27,2790,0.8158,20,2024-08-13,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,GK
+493702,Mattia Viti,C,2002-01-24,23,FC Empoli,Italy,IT1,4.206,2024-06-05,2577,0.7535,18,2024-07-22,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+494586,Mickaël Nadé,C,1999-03-04,26,AS Saint-Étienne,France,FR1,1.262,2024-12-10,2278,0.7444,17,2014-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+495621,Antonio Blanco,C,2000-07-23,24,Deportivo Alavés,Spain,ES1,6.309,2024-12-27,2739,0.8009,15,2023-01-12,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+495666,William Saliba,C,2001-03-24,24,Arsenal FC,France,GB1,67.296,2025-05-30,3041,0.8892,2,2019-07-25,eligible,signed for a fee,0,1,CB
+495667,Lucas Da Cunha,C,2001-06-09,23,Como 1907,France,IT1,5.888,2025-03-25,2625,0.7675,10,2023-01-16,eligible,signed for a fee,0,1,AM/CM
+496094,Karim Adeyemi,C,2002-01-18,23,Borussia Dortmund,Germany,L1,33.648,2025-03-27,1441,0.4709,4,2022-07-01,eligible,signed for a fee,0,1,AM/ST
+496745,Emil Holm,C,2000-05-13,25,Bologna Football Club 1909,Sweden,IT1,6.73,2025-03-25,1135,0.3319,9,2024-07-01,joined within two years,signed for a fee,0,1,WB
+496857,Edon Zhegrova,C,1999-03-31,26,LOSC Lille,Kosovo,FR1,21.03,2024-12-10,985,0.3219,5,2022-01-14,eligible,signed for a fee,0,1,AM
+497291,Nicolás Domínguez,C,1998-06-28,26,Nottingham Forest,Argentina,GB1,15.142,2025-05-30,1971,0.5763,7,2023-09-01,joined within two years,signed for a fee,0,1,AM/CM
+500689,Evann Guessand,C,2001-07-01,23,OGC Nice,Cote d'Ivoire,FR1,21.03,2025-03-24,2575,0.8415,4,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/ST
+501709,Theo Bair,C,1999-08-27,25,AJ Auxerre,Canada,FR1,1.514,2024-12-10,932,0.3046,11,2024-07-16,joined within two years,signed for a fee,0,1,ST
+502670,Khvicha Kvaratskhelia,C,2001-02-12,24,Paris Saint-Germain,Georgia,FR1,67.296,2025-03-24,2107,0.6161,1,2025-01-17,joined within two years,signed for a fee,0,1,AM
+502676,Giorgi Mamardashvili,C,2000-09-29,24,Valencia CF,Georgia,ES1,25.236,2025-03-21,3060,0.8947,12,2024-08-28,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,GK
+502722,Luka Sucic,C,2002-09-08,22,Real Sociedad,Croatia,ES1,15.142,2024-12-27,1794,0.5246,11,2024-08-02,joined within two years,signed for a fee,0,1,AM/CM
+502821,Riccardo Calafiori,C,2002-05-19,23,Arsenal FC,Italy,GB1,29.442,2025-05-30,985,0.288,2,2024-07-29,joined within two years,signed for a fee,0,1,CB/WB
+503075,Isak Hien,C,1999-01-13,26,Atalanta BC,Sweden,IT1,25.236,2024-12-18,2325,0.6798,3,2024-01-02,joined within two years,signed for a fee,0,1,CB
+503160,Paul Nebel,C,2002-10-10,22,1.FSV Mainz 05,Germany,L1,14.3,2025-03-27,2349,0.7676,6,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+503680,Neco Williams,C,2001-04-13,24,Nottingham Forest,Wales,GB1,16.824,2025-05-30,2592,0.7579,7,2022-07-10,eligible,signed for a fee,0,1,WB
+503733,Anthony Gordon,C,2001-02-24,24,Newcastle United,England,GB1,54.678,2025-05-30,2446,0.7152,5,2023-01-29,eligible,signed for a fee,0,1,AM/ST
+503743,Morgan Rogers,C,2002-07-26,22,Aston Villa,England,GB1,46.266,2025-05-30,3131,0.9155,6,2024-02-01,joined within two years,signed for a fee,0,1,AM
+503749,Jacob Ramsey,C,2001-05-28,24,Aston Villa,England,GB1,26.918,2025-05-30,1628,0.476,6,,eligible,at the club before a loan; joining not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,AM
+503866,Albert Grønbaek,C,2001-05-23,24,Southampton FC,Denmark,GB1,9.253,2025-05-30,956,0.3124,20,2025-01-21,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+503871,Morten Frendrup,C,2001-04-07,24,Genoa CFC,Denmark,IT1,16.824,2024-12-18,3107,0.9085,13,2022-01-30,eligible,signed for a fee,0,1,CM
+503977,Taylor Harwood-Bellis,C,2002-01-30,23,Southampton FC,England,GB1,18.506,2025-05-30,2828,0.8269,20,2023-09-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+503981,Tino Livramento,C,2002-11-12,22,Newcastle United,England,GB1,33.648,2025-05-30,2843,0.8313,5,2023-08-08,joined within two years,signed for a fee,0,1,WB
+503987,Noni Madueke,C,2002-03-10,23,Chelsea FC,England,GB1,33.648,2025-05-30,2047,0.5985,4,2023-01-20,eligible,signed for a fee,0,1,AM
+503991,Yunus Musah,C,2002-11-29,22,AC Milan,United States,IT1,18.506,2024-12-18,1574,0.4602,8,2023-08-04,joined within two years,signed for a fee,0,1,AM/CM/WB
+504153,Joe Scally,C,2002-12-31,22,Borussia Mönchengladbach,United States,L1,8.412,2024-12-20,2588,0.8458,10,2021-01-01,eligible,signed for a fee,0,1,CB/WB
+504209,Gianluca Busio,C,2002-05-28,23,Venezia FC,United States,IT1,5.468,2024-12-18,2527,0.7389,19,2021-08-09,eligible,signed for a fee,0,1,AM/CM
+505194,Luke Thomas,C,2001-06-10,23,Leicester City,England,GB1,5.047,2025-05-30,1113,0.3254,18,,eligible,at the club before a loan; joining not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,WB
+505219,James Garner,C,2001-03-13,24,Everton FC,England,GB1,15.142,2025-05-30,1595,0.4664,13,2022-09-01,eligible,signed for a fee,0,1,AM/CM
+505653,Fábio Silva,C,2002-07-19,22,UD Las Palmas,Portugal,ES1,16.824,2025-03-21,1878,0.5491,19,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+505674,Sergio Camello,C,2001-02-10,24,Rayo Vallecano,Spain,ES1,2.944,2024-12-27,1139,0.333,8,2022-08-03,eligible,arrived without a recorded fee (loan or free transfer),0,1,ST
+506189,Flynn Downes,C,1999-01-20,26,Southampton FC,England,GB1,10.936,2025-05-30,2155,0.6301,20,2023-08-21,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+507344,Becir Omeragic,C,2002-01-20,23,Montpellier HSC,Switzerland,FR1,4.206,2024-12-10,1803,0.5892,18,2023-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/CM
+507486,Simon Sohm,C,2001-04-11,24,Parma Calcio 1913,Switzerland,IT1,4.206,2025-03-25,3000,0.8772,16,2020-10-04,eligible,signed for a fee,0,1,AM/CM
+509022,Federico Gatti,C,1998-06-24,26,Juventus FC,Italy,IT1,21.03,2024-12-18,2199,0.643,4,2022-01-31,eligible,signed for a fee,0,1,CB
+512352,Lasse Rosenboom,C,2002-01-19,23,Holstein Kiel,Germany,L1,0.841,2025-03-27,1738,0.568,18,2023-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+513245,Jesper Lindstrøm,C,2000-02-29,25,Everton FC,Denmark,GB1,15.142,2025-05-30,1241,0.3629,13,2024-07-26,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+517894,Matheus Cunha,C,1999-05-27,26,Wolverhampton Wanderers,Brazil,GB1,50.472,2025-05-30,2603,0.7611,16,2023-01-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+518505,Jamie Leweling,C,2001-02-26,24,VfB Stuttgart,Germany,L1,16.824,2024-12-20,1677,0.548,9,2023-07-13,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+520840,José Copete,C,1999-10-10,25,RCD Mallorca,Spain,ES1,2.355,2024-12-27,1523,0.4453,10,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+521964,Malick Thiaw,C,2001-08-08,23,AC Milan,Germany,IT1,16.824,2024-12-18,1804,0.5275,8,2022-08-29,eligible,signed for a fee,0,1,CB
+522784,Taty Castellanos,C,1998-10-03,26,Società Sportiva Lazio S.p.A.,Argentina,IT1,21.03,2025-03-25,2395,0.7003,7,2023-07-21,joined within two years,signed for a fee,0,1,ST
+523318,Anastasios Douvikas,C,1999-08-02,25,Como 1907,Greece,IT1,6.73,2025-03-25,1270,0.3713,10,2025-02-03,joined within two years,signed for a fee,0,1,ST
+524000,Dani Vivian,C,1999-07-05,25,Athletic Bilbao,Spain,ES1,33.648,2024-12-27,2605,0.7617,4,2017-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+524285,Luca Netz,C,2003-05-15,22,Borussia Mönchengladbach,Germany,L1,5.888,2025-03-27,959,0.3134,10,2021-08-06,eligible,signed for a fee,0,1,WB
+524925,Modibo Sagnan,C,1999-04-14,26,Montpellier HSC,Mali,FR1,2.524,2024-12-10,2117,0.6918,18,2024-02-01,joined within two years,signed for a fee,0,1,CB
+525299,Miguel Gutiérrez,C,2001-07-27,23,Girona FC,Spain,ES1,21.03,2024-12-27,2464,0.7205,17,2022-08-05,eligible,signed for a fee,0,1,WB
+525704,Nicolò Rovella,C,2001-12-04,23,Società Sportiva Lazio S.p.A.,Italy,IT1,23.554,2025-03-25,2727,0.7974,7,2023-08-16,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+526845,Noah Atubolu,C,2002-05-25,23,SC Freiburg,Germany,L1,12.618,2025-03-27,2308,0.7542,5,2015-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,GK
+527425,Luke Woolfenden,C,1998-10-21,26,Ipswich Town,England,GB1,1.682,2025-05-30,1187,0.3471,19,,eligible,at the club before a loan; joining not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,CB
+527966,Andrei Rațiu,C,1998-06-20,26,Rayo Vallecano,Romania,ES1,10.094,2025-03-21,3067,0.8968,8,2023-08-26,joined within two years,signed for a fee,0,1,AM/WB
+528833,Lazar Samardžić,C,2002-02-24,23,Atalanta BC,Serbia,IT1,16.824,2024-12-18,1149,0.336,3,2024-08-18,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+530742,Fisayo Dele-Bashiru,C,2001-02-06,24,Società Sportiva Lazio S.p.A.,Nigeria,IT1,6.73,2025-03-25,943,0.2757,7,2024-07-06,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+532775,Melvin Bard,C,2000-11-06,24,OGC Nice,France,FR1,10.094,2024-12-10,1941,0.6343,4,2021-07-16,eligible,signed for a fee,0,1,CB/WB
+532826,Mason Greenwood,C,2001-10-01,23,Olympique Marseille,England,FR1,29.442,2024-12-10,2818,0.9209,2,2024-07-18,joined within two years,signed for a fee,0,1,AM/ST
+532937,Johan Vásquez,C,1998-10-22,26,Genoa CFC,Mexico,IT1,10.094,2025-03-25,3041,0.8892,13,2021-08-16,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+533295,Patrick Wimmer,C,2001-05-30,24,VfL Wolfsburg,Austria,L1,12.618,2025-03-27,1782,0.5824,11,2022-07-01,eligible,signed for a fee,0,1,AM/ST
+533662,Cameron Archer,C,2001-12-09,23,Southampton FC,England,GB1,10.094,2025-05-30,1433,0.419,20,2024-08-16,joined within two years,signed for a fee,0,1,AM/ST
+533738,Jonathan David,C,2000-01-14,25,LOSC Lille,Canada,FR1,37.854,2024-12-10,2559,0.8363,5,2020-08-11,eligible,signed for a fee,0,1,ST
+534033,Alexis Mac Allister,C,1998-12-24,26,Liverpool FC,Argentina,GB1,84.12,2025-05-30,2609,0.7629,1,2023-07-01,joined within two years,signed for a fee,0,1,CM
+535469,Valentin Mihăilă,C,2000-02-02,25,Parma Calcio 1913,Romania,IT1,2.524,2024-12-18,1296,0.3789,16,2020-10-05,eligible,signed for a fee,0,1,AM
+535955,Nuno Tavares,C,2000-01-26,25,Società Sportiva Lazio S.p.A.,Portugal,IT1,21.03,2024-12-18,1702,0.4977,7,2024-07-15,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+535959,Duk,C,2000-02-16,25,CD Leganés,Cape Verde,ES1,1.009,2024-12-03,1110,0.3737,18,2025-02-03,joined within two years,signed for a fee,0,1,AM/ST
+536508,Han-Noah Massengo,C,2001-07-07,23,AJ Auxerre,France,FR1,4.206,2025-03-24,1046,0.3418,11,2025-01-07,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+537127,Théo Sainte-Luce,C,1998-10-20,26,Montpellier HSC,France,FR1,0.841,2024-06-03,1018,0.3327,18,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+537382,Bryan Gil,C,2001-02-11,24,Girona FC,Spain,ES1,12.618,2024-12-27,1734,0.507,17,2024-07-29,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+538918,Sebastiano Esposito,C,2002-07-02,22,FC Empoli,Italy,IT1,8.412,2025-03-25,2344,0.6854,18,2024-07-17,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+538964,Thijs Dallinga,C,2000-08-03,24,Bologna Football Club 1909,Netherlands,IT1,10.094,2024-12-18,1145,0.3348,9,2024-07-23,joined within two years,signed for a fee,0,1,ST
+538977,Georginio Rutter,C,2002-04-20,23,Brighton & Hove Albion,France,GB1,26.918,2025-05-30,1666,0.4871,8,2024-08-19,joined within two years,signed for a fee,0,1,AM/ST
+538994,Pierre Ekwah,C,2002-01-15,23,AS Saint-Étienne,France,FR1,0.421,2023-06-01,2553,0.8343,17,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,CM
+538998,Timothée Pembélé,C,2002-09-09,22,Le Havre AC,France,FR1,2.103,2024-12-10,1108,0.3621,15,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+539134,Daniel Maldini,C,2001-10-11,23,Atalanta BC,Italy,IT1,8.412,2025-03-25,1566,0.4579,3,2025-02-01,joined within two years,signed for a fee,0,1,AM
+540333,Tomas Suslov,C,2002-06-07,22,Hellas Verona,Slovakia,IT1,5.047,2024-12-18,2097,0.6132,14,2023-09-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+540536,Carlos Vicente,C,1999-04-23,26,Deportivo Alavés,Spain,ES1,3.365,2024-06-07,3098,0.9058,15,2024-01-01,joined within two years,signed for a fee,0,1,AM
+540664,Dilane Bakwa,C,2002-08-26,22,RC Strasbourg Alsace,France,FR1,15.142,2025-03-24,2513,0.8212,6,2023-08-08,joined within two years,signed for a fee,0,1,AM/WB
+540941,Mikkel Damsgaard,C,2000-07-03,24,Brentford FC,Denmark,GB1,23.554,2025-05-30,2930,0.8567,10,2022-08-10,eligible,signed for a fee,0,1,AM/CM
+541231,Sepp van den Berg,C,2001-12-20,23,Brentford FC,Netherlands,GB1,18.506,2025-05-30,2588,0.7567,10,2024-08-22,joined within two years,signed for a fee,0,1,CB/WB
+541555,Enzo Boyomo,C,2001-10-07,23,CA Osasuna,Cameroon,ES1,16.824,2024-12-27,3258,0.9526,9,2024-08-29,joined within two years,signed for a fee,0,1,CB
+543499,Mohammed Kudus,C,2000-08-02,24,West Ham United,Ghana,GB1,37.854,2025-05-30,2603,0.7611,14,2023-08-27,joined within two years,signed for a fee,0,1,AM/ST
+543666,Stefano Turati,C,2001-09-05,23,AC Monza,Italy,IT1,6.309,2024-12-18,2677,0.7827,20,2024-08-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,GK
+543727,Botond Balogh,C,2002-06-06,22,Parma Calcio 1913,Hungary,IT1,2.103,2024-12-18,2053,0.6003,16,2019-08-28,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,CB
+543771,Kristjan Asllani,C,2002-03-09,23,Inter Milan,Albania,IT1,12.618,2025-03-25,983,0.2874,2,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+545647,Sergio Carreira,C,2000-10-13,24,Celta de Vigo,Spain,ES1,2.524,2025-03-21,1657,0.4845,7,,eligible,at the club before a loan; joining not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,WB
+546213,Tuta,C,1999-07-04,25,Eintracht Frankfurt,Brazil,L1,12.618,2024-12-20,2275,0.7435,3,2019-01-31,eligible,signed for a fee,0,1,CB/CM/WB
+546543,Darwin Núñez,C,1999-06-24,25,Liverpool FC,Uruguay,GB1,37.854,2025-05-30,1118,0.3269,1,2022-07-01,eligible,signed for a fee,0,1,ST
+546926,Jay Idzes,C,2000-06-02,24,Venezia FC,Indonesia,IT1,4.206,2025-03-25,3128,0.9146,19,2023-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+547985,Fabiano Parisi,C,2000-11-09,24,ACF Fiorentina,Italy,IT1,4.206,2024-12-18,1116,0.3263,6,2023-07-14,joined within two years,signed for a fee,0,1,WB
+548111,Álex Baena,C,2001-07-20,23,Villarreal CF,Spain,ES1,42.06,2024-12-27,2608,0.7626,5,,eligible,"at the club before a loan; joining not on record; in the club by 2017-07-01 (move out of the club, for example on loan)",0,1,AM
+550106,Matteo Cancellieri,C,2002-02-12,23,Parma Calcio 1913,Italy,IT1,4.206,2024-12-18,1430,0.4181,16,2024-08-14,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+550108,Nicola Zalewski,C,2002-01-23,23,Inter Milan,Poland,IT1,8.412,2024-12-18,963,0.2816,2,2025-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+550550,Gonçalo Ramos,C,2001-06-20,23,Paris Saint-Germain,Portugal,FR1,37.854,2025-03-24,1063,0.3474,1,2023-08-07,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+550580,Shuto Machino,C,1999-09-30,25,Holstein Kiel,Japan,L1,2.944,2025-03-27,1959,0.6402,18,2023-07-01,joined within two years,signed for a fee,0,1,AM/ST
+552057,Adam Hlozek,C,2002-07-25,22,TSG 1899 Hoffenheim,Czech Republic,L1,15.142,2024-12-20,1875,0.6127,14,2024-08-17,joined within two years,signed for a fee,0,1,AM/ST
+552223,Filip Stanković,C,2002-02-25,23,Venezia FC,Serbia,IT1,5.047,2025-03-25,1368,0.4,19,2024-08-12,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,GK
+552955,Santiago Gimenez,C,2001-04-18,24,AC Milan,Mexico,IT1,31.124,2024-12-17,1440,0.4706,8,2025-02-03,joined within two years,signed for a fee,0,1,ST
+553875,Pedro Porro,C,1999-09-13,25,Tottenham Hotspur,Spain,GB1,31.966,2025-05-30,2609,0.7629,17,2023-01-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+554903,Mateo Retegui,C,1999-04-29,26,Atalanta BC,Italy,IT1,37.854,2025-03-25,2404,0.7029,3,2024-08-08,joined within two years,signed for a fee,0,1,ST
+555500,Jorge Herrando,C,2001-02-28,24,CA Osasuna,Spain,ES1,3.365,2024-12-27,1364,0.3988,9,,eligible,at the club before a loan; joining not on record; in the club by 2018-07-01 (move between the club's own sides),0,1,CB
+555820,Martín Payero,C,1998-09-11,26,Udinese Calcio,Argentina,IT1,5.047,2025-03-25,1383,0.4044,12,2023-09-01,joined within two years,signed for a fee,0,1,CM
+556385,Destiny Udogie,C,2002-11-28,22,Tottenham Hotspur,Italy,GB1,33.648,2025-05-30,1932,0.5649,17,2022-08-16,eligible,"entered by hand: Tottenham announced the permanent signing on 16 Aug 2022, with a loan back to Udinese for 2022/23",0,1,WB
+557149,Kang-in Lee,C,2001-02-19,24,Paris Saint-Germain,"Korea, South",FR1,25.236,2024-12-10,1667,0.5448,1,2023-07-08,joined within two years,signed for a fee,0,1,AM/CM/ST
+557407,Devyne Rensch,C,2003-01-18,22,Associazione Sportiva Roma,Netherlands,IT1,10.094,2024-12-17,1578,0.5157,5,2025-01-23,joined within two years,signed for a fee,0,1,CB/WB
+557459,Micky van de Ven,C,2001-04-19,24,Tottenham Hotspur,Netherlands,GB1,42.06,2025-05-30,1018,0.2977,17,2023-08-08,joined within two years,signed for a fee,0,1,CB
+557613,Quentin Merlin,C,2002-05-16,23,Olympique Marseille,France,FR1,10.094,2024-12-10,1598,0.5222,2,2024-01-26,joined within two years,signed for a fee,0,1,WB
+559328,Emmanuel Emegha,C,2003-02-03,22,RC Strasbourg Alsace,Netherlands,FR1,16.824,2025-03-24,2307,0.7539,6,2023-07-22,joined within two years,signed for a fee,0,1,ST
+559794,Jack Clarke,C,2000-11-23,24,Ipswich Town,England,GB1,12.618,2025-05-30,1170,0.3421,19,2024-08-24,joined within two years,signed for a fee,0,1,AM
+559979,Abdel Abqar,C,1999-03-10,26,Deportivo Alavés,Morocco,ES1,6.309,2024-12-27,2467,0.7213,15,2020-07-22,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+560593,Hicham Boudaoui,C,1999-09-23,25,OGC Nice,Algeria,FR1,8.412,2024-12-10,2440,0.7974,4,2019-09-02,eligible,signed for a fee,0,1,CM
+561613,Joan García,C,2001-05-04,24,RCD Espanyol Barcelona,Spain,ES1,16.824,2025-03-21,3420,1.0,13,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,GK
+563137,Robert Navarro,C,2002-04-12,23,RCD Mallorca,Spain,ES1,5.047,2024-12-27,1286,0.376,10,2024-08-29,joined within two years,signed for a fee,0,1,AM
+563963,Mohammed Salisu,C,1999-04-17,26,AS Monaco,Ghana,FR1,12.618,2024-12-10,1021,0.3337,3,2023-08-01,joined within two years,signed for a fee,0,1,CB
+564305,Michel Adopo,C,2000-07-19,24,Cagliari Calcio,France,IT1,2.524,2025-03-25,2417,0.7067,15,2024-07-17,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+564529,Victor Kristiansen,C,2002-12-16,22,Leicester City,Denmark,GB1,12.618,2025-05-30,2489,0.7278,18,2023-01-20,eligible,signed for a fee,0,1,WB
+564545,Edmond Tapsoba,C,1999-02-02,26,Bayer 04 Leverkusen,Burkina Faso,L1,33.648,2024-12-20,2511,0.8206,2,2020-01-31,eligible,signed for a fee,0,1,CB
+565093,Bart Verbruggen,C,2002-08-18,22,Brighton & Hove Albion,Netherlands,GB1,25.236,2025-05-30,3240,0.9474,8,2023-07-03,joined within two years,signed for a fee,0,1,GK
+565406,Kazeem Olaigbe,C,2003-01-02,22,Stade Rennais FC,Belgium,FR1,3.365,2025-03-24,1201,0.4448,12,2025-02-03,joined within two years,signed for a fee,0,1,AM
+565821,Mika Biereth,C,2003-02-08,22,AS Monaco,Denmark,FR1,21.03,2025-03-24,1239,0.4049,3,2025-01-11,joined within two years,signed for a fee,0,1,ST
+566615,Mikael Egill Ellertsson,C,2002-03-11,23,Venezia FC,Iceland,IT1,2.355,2024-12-18,2480,0.7251,19,2025-01-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+566723,Michael Olise,C,2001-12-12,23,Bayern Munich,France,L1,67.296,2025-03-27,2347,0.767,1,2024-07-07,joined within two years,signed for a fee,0,1,AM
+566931,Xavi Simons,C,2003-04-21,22,RB Leipzig,Netherlands,L1,58.884,2025-03-27,2157,0.7049,8,2023-07-19,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+567576,Elliot Anderson,C,2002-11-06,22,Nottingham Forest,England,GB1,26.918,2025-05-30,2743,0.802,7,2024-07-01,joined within two years,signed for a fee,0,1,AM/CM
+568157,Yéremy Pino,C,2002-10-20,22,Villarreal CF,Spain,ES1,25.236,2024-12-27,1950,0.5702,5,2019-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+568158,Javi López,C,2002-03-25,23,Real Sociedad,Spain,ES1,6.309,2024-12-27,1935,0.5658,11,2024-07-21,joined within two years,signed for a fee,0,1,WB
+568177,Cole Palmer,C,2002-05-06,23,Chelsea FC,England,GB1,100.944,2025-05-30,3200,0.9357,4,2023-09-01,joined within two years,signed for a fee,0,1,AM/ST
+568333,Adam Obert,C,2002-08-23,22,Cagliari Calcio,Slovakia,IT1,2.524,2024-12-18,1076,0.3146,15,2021-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+568559,Radu Drăgușin,C,2002-02-03,23,Tottenham Hotspur,Romania,GB1,21.03,2025-05-30,1251,0.3658,17,2024-01-11,joined within two years,signed for a fee,0,1,CB
+568617,Răzvan Sava,C,2002-06-21,22,Udinese Calcio,Romania,IT1,2.103,2025-03-25,1080,0.3158,12,2024-08-23,joined within two years,signed for a fee,0,1,GK
+568693,Pape Matar Sarr,C,2002-09-14,22,Tottenham Hotspur,Senegal,GB1,26.918,2025-05-30,1914,0.5596,17,2021-08-27,eligible,signed for a fee,0,1,CM
+568698,Issa Soumaré,C,2000-10-10,24,Le Havre AC,Senegal,FR1,1.262,2025-03-24,1904,0.6222,15,2023-07-04,joined within two years,signed for a fee,0,1,AM/ST
+569140,Lassine Sinayoko,C,1999-12-08,25,AJ Auxerre,Mali,FR1,2.944,2024-12-10,2307,0.7539,11,,eligible,came through the club's youth system; entry not on record; in the club by 2017-12-01 (move between the club's own sides),0,1,AM/ST
+569366,Enzo Millot,C,2002-07-17,22,VfB Stuttgart,France,L1,29.442,2025-03-27,1851,0.6049,9,2021-08-14,eligible,signed for a fee,0,1,AM/CM
+569383,Chrislain Matsima,C,2002-05-15,23,FC Augsburg,France,L1,14.3,2025-03-27,2551,0.8337,12,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+569384,Lucien Agoumé,C,2002-02-09,23,Sevilla FC,France,ES1,5.888,2024-12-27,2117,0.619,16,2024-01-10,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+569387,Valentin Gendrey,C,2000-06-21,24,TSG 1899 Hoffenheim,France,L1,7.15,2024-12-20,1596,0.5216,14,2024-08-27,joined within two years,signed for a fee,0,1,WB
+569389,Sofiane Diop,C,2000-06-09,24,OGC Nice,Morocco,FR1,10.094,2024-12-10,1052,0.3438,4,2022-08-29,eligible,signed for a fee,0,1,AM
+569598,Youssouf Fofana,C,1999-01-10,26,AC Milan,France,IT1,25.236,2024-12-18,2510,0.7339,8,2024-08-17,joined within two years,signed for a fee,0,1,CM
+571020,Oihan Sancet,C,2000-04-25,25,Athletic Bilbao,Spain,ES1,50.472,2025-03-21,1626,0.4754,4,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+571607,Fabio Miretti,C,2003-08-03,21,Genoa CFC,Italy,IT1,11.777,2025-03-25,1695,0.4956,13,2024-08-25,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+572265,Lorenzo Lucca,C,2000-09-10,24,Udinese Calcio,Italy,IT1,18.506,2025-03-25,2363,0.6909,12,2023-07-07,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+572326,Christopher Wooh,C,2001-09-18,23,Stade Rennais FC,Cameroon,FR1,5.888,2024-12-10,1457,0.4761,12,2022-09-01,eligible,signed for a fee,0,1,CB
+573775,Hugo Duro,C,1999-11-10,25,Valencia CF,Spain,ES1,8.412,2025-03-21,2172,0.6351,12,2021-08-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,ST
+574671,Strahinja Pavlović,C,2001-05-24,24,AC Milan,Serbia,IT1,15.142,2025-03-25,1864,0.545,8,2024-07-31,joined within two years,signed for a fee,0,1,CB
+575998,Leonardo Balerdi,C,1999-01-26,26,Olympique Marseille,Argentina,FR1,16.824,2024-12-10,2276,0.7438,2,2020-07-21,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+576024,Julián Alvarez,C,2000-01-31,25,Atlético de Madrid,Argentina,ES1,75.708,2025-03-21,2519,0.7365,3,2024-08-12,joined within two years,signed for a fee,0,1,AM/ST
+576028,Thiago Almada,C,2001-04-26,24,Olympique Lyon,Argentina,FR1,21.03,2025-03-24,949,0.3101,7,2025-01-15,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+576314,Jan Paul van Hecke,C,2000-06-08,24,Brighton & Hove Albion,Netherlands,GB1,26.918,2025-05-30,2961,0.8658,8,2020-09-10,eligible,signed for a fee,0,1,CB
+578391,Rayan Aït-Nouri,C,2001-06-06,23,Wolverhampton Wanderers,Algeria,GB1,29.442,2025-05-30,3128,0.9146,16,2020-10-04,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+578392,Maximilian Beier,C,2002-10-17,22,Borussia Dortmund,Germany,L1,21.03,2025-03-27,1590,0.5196,4,2024-08-12,joined within two years,signed for a fee,0,1,AM/ST
+578539,Chris Richards,C,2000-03-28,25,Crystal Palace,United States,GB1,11.777,2025-05-30,1925,0.5629,12,2022-07-27,eligible,signed for a fee,0,1,CB/CM
+579287,Daniel Svensson,C,2002-02-12,23,Borussia Dortmund,Sweden,L1,4.627,2024-12-09,2308,1.1657,4,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM/WB
+579928,Sebastian Nanasi,C,2002-05-16,23,RC Strasbourg Alsace,Sweden,FR1,12.618,2024-12-10,2124,0.6941,6,2024-08-23,joined within two years,signed for a fee,0,1,AM
+580195,Jamal Musiala,C,2003-02-26,22,Bayern Munich,Germany,L1,117.768,2024-12-20,1805,0.5899,1,2019-07-04,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,AM
+580657,Osame Sahraoui,C,2001-06-11,23,LOSC Lille,Morocco,FR1,10.094,2024-12-10,1285,0.4199,5,2024-08-01,joined within two years,signed for a fee,0,1,AM
+581357,Jan Schöppner,C,1999-06-12,25,1. Fußballclub Heidenheim 1846,Germany,L1,3.785,2024-12-20,2688,0.8784,16,2020-08-05,eligible,arrived without a recorded fee (loan or free transfer),0,1,CM
+581678,Jude Bellingham,C,2003-06-29,21,Real Madrid,England,ES1,151.416,2024-12-27,2493,0.7289,2,2023-07-01,joined within two years,signed for a fee,0,1,AM/CM
+583189,Anthony Elanga,C,2002-04-27,23,Nottingham Forest,Sweden,GB1,35.33,2025-05-30,2510,0.7339,7,2023-07-25,joined within two years,signed for a fee,0,1,AM/ST
+583255,Antoine Semenyo,C,2000-01-07,25,AFC Bournemouth,Ghana,GB1,33.648,2025-05-30,3210,0.9386,9,2023-01-27,eligible,signed for a fee,0,1,AM
+583404,Marcus Pedersen,C,2000-07-16,24,Torino FC,Norway,IT1,2.944,2025-03-25,1368,0.4,11,2024-08-22,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+583699,Andrej Ilic,C,2000-04-03,25,1.FC Union Berlin,Serbia,L1,2.103,2024-12-20,943,0.3082,13,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+584769,Dwight McNeil,C,1999-11-22,25,Everton FC,England,GB1,21.03,2025-05-30,1371,0.4009,13,2022-07-28,eligible,signed for a fee,0,1,AM
+585700,Juan Cruz,C,2000-04-25,25,CD Leganés,Spain,ES1,3.365,2024-12-27,2265,0.6623,18,2024-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+585949,Pierre Kalulu,C,2000-06-05,24,Juventus FC,France,IT1,21.871,2024-12-18,2335,0.6827,4,2024-08-21,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+585959,Arnaud Kalimuendo,C,2002-01-20,23,Stade Rennais FC,France,FR1,16.824,2024-12-10,2591,0.8467,12,2022-08-11,eligible,signed for a fee,0,1,ST
+585973,Johann Lepenant,C,2002-10-22,22,FC Nantes,France,FR1,5.888,2024-12-10,2054,0.6712,13,2024-08-10,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+585982,Carlos Augusto,C,1999-01-07,26,Inter Milan,Brazil,IT1,18.506,2024-12-18,1681,0.4915,2,2023-08-15,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+586853,Vitinha,C,2000-03-15,25,Genoa CFC,Portugal,IT1,8.412,2025-03-25,1334,0.3901,13,2024-01-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+586984,Daniel Oyegoke,C,2003-01-03,22,Hellas Verona,England,IT1,0.336,2024-12-03,1359,0.4576,14,2025-01-28,joined within two years,signed for a fee,0,1,WB
+588426,Saúl Coco,C,1999-02-09,26,Torino FC,Equatorial Guinea,IT1,10.094,2025-03-25,2848,0.8327,11,2024-07-17,joined within two years,signed for a fee,0,1,CB
+591916,Aitor Paredes,C,2000-04-29,25,Athletic Bilbao,Spain,ES1,18.506,2024-12-27,1814,0.5304,4,2020-08-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+592534,Nicolai Remberg,C,2000-06-19,24,Holstein Kiel,Germany,L1,2.355,2025-03-27,2412,0.7882,18,2023-07-01,joined within two years,signed for a fee,0,1,CM
+592975,Woyo Coulibaly,C,1999-05-26,26,Leicester City,Mali,GB1,1.682,2025-05-30,1192,0.3485,18,2025-01-15,joined within two years,signed for a fee,0,1,WB
+592979,Himad Abdelli,C,1999-11-17,25,Angers SCO,Algeria,FR1,5.888,2025-03-24,2849,0.931,14,2022-07-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM
+596153,Justin Njinmah,C,2000-11-15,24,SV Werder Bremen,Germany,L1,5.888,2025-03-27,945,0.3088,7,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/ST
+596446,Leif Davis,C,1999-12-31,25,Ipswich Town,England,GB1,18.506,2025-05-30,2746,0.8029,19,2022-07-25,eligible,signed for a fee,0,1,WB
+597432,Leopold Querfeld,C,2003-12-20,21,1.FC Union Berlin,Austria,L1,5.888,2025-03-27,1742,0.5693,13,2024-07-01,joined within two years,signed for a fee,0,1,CB
+597659,Charlie Cresswell,C,2002-08-17,22,FC Toulouse,England,FR1,5.888,2025-03-24,2593,0.8474,10,2024-07-08,joined within two years,signed for a fee,0,1,CB
+598577,Florian Wirtz,C,2003-05-03,22,Bayer 04 Leverkusen,Germany,L1,117.768,2024-12-20,2356,0.7699,2,2020-01-31,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,AM
+599419,Max Rosenfelder,C,2003-02-10,22,SC Freiburg,Germany,L1,3.365,2024-12-20,1245,0.4069,5,2014-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+600041,Mattia Felici,C,2001-04-17,24,Cagliari Calcio,Italy,IT1,2.524,2025-03-25,922,0.2696,15,2024-07-10,joined within two years,signed for a fee,0,1,AM
+601883,Matheus Nunes,C,1998-08-27,26,Manchester City,Portugal,GB1,29.442,2025-05-30,1672,0.4889,3,2023-09-01,joined within two years,signed for a fee,0,1,AM/CM/WB
+602124,Alessandro Bianco,C,2002-10-01,22,AC Monza,Italy,IT1,4.206,2024-12-18,2625,0.7675,20,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+603940,Marvin Park,C,2000-07-03,24,UD Las Palmas,Spain,ES1,1.262,2025-03-21,1029,0.3009,19,2022-08-12,eligible,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+604320,Frans Krätzig,C,2003-01-14,22,1. Fußballclub Heidenheim 1846,Germany,L1,1.682,2025-03-27,1283,0.4193,16,2025-01-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/WB
+605184,Jean-Clair Todibo,C,1999-12-30,25,West Ham United,France,GB1,21.03,2025-05-30,1833,0.536,14,2024-08-10,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+606718,Toti,C,1999-01-16,26,Wolverhampton Wanderers,Portugal,GB1,23.554,2025-05-30,2615,0.7646,16,2020-09-02,eligible,signed for a fee,0,1,CB/WB
+607034,Akor Adams,C,2000-01-29,25,Sevilla FC,Nigeria,ES1,6.309,2025-03-21,1210,0.3954,16,2025-01-27,joined within two years,signed for a fee,0,1,ST
+607223,Rayan Cherki,C,2003-08-17,21,Olympique Lyon,France,FR1,29.442,2025-03-24,2048,0.6693,7,2010-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+607854,Éderson,C,1999-07-07,25,Atalanta BC,Brazil,IT1,42.06,2024-12-18,2886,0.8439,3,2022-07-06,eligible,signed for a fee,0,1,CM
+608832,Merlin Röhl,C,2002-07-05,22,SC Freiburg,Germany,L1,10.094,2024-12-20,967,0.316,5,2022-08-17,eligible,signed for a fee,0,1,AM/CM
+610190,Nediljko Labrovic,C,1999-10-10,25,FC Augsburg,Croatia,L1,2.524,2025-03-27,1350,0.4412,12,2024-07-01,joined within two years,signed for a fee,0,1,GK
+610849,Liam Delap,C,2003-02-08,22,Ipswich Town,England,GB1,33.648,2025-05-30,2616,0.7649,19,2024-07-13,joined within two years,signed for a fee,0,1,ST
+613393,Gaetano Oristanio,C,2002-09-28,22,Venezia FC,Italy,IT1,5.468,2024-12-18,2332,0.6819,19,2024-07-13,joined within two years,signed for a fee,0,1,AM/ST
+614258,Levi Colwill,C,2003-02-26,22,Chelsea FC,England,GB1,46.266,2025-05-30,3150,0.9211,4,,eligible,at the club before a loan; joining not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,CB/WB
+616341,Nuno Mendes,C,2002-06-19,22,Paris Saint-Germain,Portugal,FR1,46.266,2024-12-10,1676,0.5477,1,2021-08-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,WB
+616344,Tiago Tomás,C,2002-06-16,22,VfL Wolfsburg,Portugal,L1,10.094,2025-03-27,1893,0.6186,11,2023-07-05,joined within two years,signed for a fee,0,1,AM/ST
+616369,Ander Barrenetxea,C,2001-12-27,23,Real Sociedad,Spain,ES1,15.142,2025-03-21,1258,0.3678,11,,eligible,came through the club's youth system; entry not on record; in the club by 2018-07-01 (move between the club's own sides),0,1,AM
+616631,Matteo Ruggeri,C,2002-07-11,22,Atalanta BC,Italy,IT1,16.824,2024-12-18,1749,0.5114,3,,eligible,at the club before a loan; joining not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,WB
+617060,Mika Mármol,C,2001-07-02,23,UD Las Palmas,Spain,ES1,12.618,2024-06-07,2399,0.7015,19,2023-08-11,joined within two years,signed for a fee,0,1,CB/WB
+617074,Ilaix Moriba,C,2003-01-19,22,Celta de Vigo,Guinea,ES1,3.365,2024-12-27,2133,0.6237,7,2024-08-07,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+617081,Diego López,C,2002-05-13,23,Valencia CF,Spain,ES1,8.412,2024-12-27,2760,0.807,12,2021-07-02,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/ST
+618341,Mario Gila,C,2000-08-29,24,Società Sportiva Lazio S.p.A.,Spain,IT1,23.554,2024-12-18,2743,0.802,7,2022-07-12,eligible,signed for a fee,0,1,CB
+618425,Tanguy Coulibaly,C,2001-02-18,24,Montpellier HSC,France,FR1,1.514,2024-12-10,1461,0.4775,18,2023-12-04,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+618472,Castello Lukeba,C,2002-12-17,22,RB Leipzig,France,L1,42.06,2024-12-20,1578,0.5157,8,2023-08-11,joined within two years,signed for a fee,0,1,CB
+618809,Manu Sánchez,C,2000-08-24,24,Deportivo Alavés,Spain,ES1,5.047,2024-12-27,2640,0.7719,15,2024-07-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+618813,Carlos Martín,C,2002-04-22,23,Deportivo Alavés,Spain,ES1,2.524,2025-03-21,1335,0.3904,15,2024-08-17,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+620322,Malo Gusto,C,2003-05-19,22,Chelsea FC,France,GB1,29.442,2025-05-30,1858,0.5433,4,2023-01-29,eligible,signed for a fee,0,1,WB
+622380,Cesare Casadei,C,2003-01-10,22,Torino FC,Italy,IT1,12.618,2025-03-25,1023,0.2991,11,2025-02-02,joined within two years,signed for a fee,0,1,CM
+623024,Jesús Vázquez,C,2003-01-02,22,Valencia CF,Spain,ES1,2.524,2025-03-21,917,0.2681,12,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,WB
+623521,Juanmi Latasa,C,2001-03-23,24,Real Valladolid CF,Spain,ES1,2.103,2024-12-27,1391,0.4067,20,2024-08-14,joined within two years,signed for a fee,0,1,ST
+623570,Iliman Ndiaye,C,2000-03-06,25,Everton FC,Senegal,GB1,18.506,2025-05-30,2440,0.7135,13,2024-07-03,joined within two years,signed for a fee,0,1,AM/ST
+624037,Joris Chotard,C,2001-09-24,23,Montpellier HSC,France,FR1,5.888,2025-03-24,1871,0.6114,18,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+624690,Manu Koné,C,2001-05-17,24,Associazione Sportiva Roma,France,IT1,29.442,2025-03-25,2578,0.7538,5,2024-08-30,joined within two years,signed for a fee,0,1,CM
+624942,Raúl Moro,C,2002-12-05,22,Real Valladolid CF,Spain,ES1,4.206,2024-12-27,2346,0.686,20,2023-07-17,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+625014,Julen Agirrezabala,C,2000-12-26,24,Athletic Bilbao,Spain,ES1,12.618,2024-12-27,1207,0.3529,4,2020-07-31,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,GK
+625047,Beñat Prados,C,2001-02-08,24,Athletic Bilbao,Spain,ES1,15.142,2025-03-21,1721,0.5032,4,2020-07-31,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+625202,Lautaro Valenti,C,1999-01-14,26,Parma Calcio 1913,Argentina,IT1,1.262,2024-12-18,1557,0.4553,16,2020-09-26,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+625651,Urko González de Zárate,C,2001-03-20,24,RCD Espanyol Barcelona,Spain,ES1,1.262,2025-03-21,1427,0.4173,13,2025-01-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+626724,João Pedro,C,2001-09-26,23,Brighton & Hove Albion,Brazil,GB1,42.06,2025-05-30,1953,0.5711,8,2023-07-01,joined within two years,signed for a fee,0,1,AM/ST
+627442,Benjamin Sesko,C,2003-05-31,22,RB Leipzig,Slovenia,L1,54.678,2025-03-27,2398,0.7837,8,2023-07-01,joined within two years,signed for a fee,0,1,ST
+628366,Lucas Beltrán,C,2001-03-29,24,ACF Fiorentina,Argentina,IT1,15.142,2024-12-18,1958,0.5725,6,2023-08-14,joined within two years,signed for a fee,0,1,AM/ST
+628498,Jofre Carreras,C,2001-06-17,23,RCD Espanyol Barcelona,Spain,ES1,3.365,2024-12-27,2178,0.6368,13,,eligible,at the club before a loan; joining not on record; in the club by 2017-07-01 (move between the club's own sides),0,1,AM
+632896,Alejandro Francés,C,2002-08-01,22,Girona FC,Spain,ES1,2.103,2025-03-21,1176,0.3439,17,2024-07-26,joined within two years,signed for a fee,0,1,CB/WB
+633454,Alexander Bernhardsson,C,1998-09-08,26,Holstein Kiel,Sweden,L1,1.262,2024-12-20,1271,0.4154,18,2024-01-22,joined within two years,signed for a fee,0,1,AM/ST
+633530,Jordan Zemura,C,1999-11-14,25,Udinese Calcio,Zimbabwe,IT1,4.206,2024-12-18,1411,0.4126,12,2023-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+633668,Giovanni Fabbian,C,2003-01-14,22,Bologna Football Club 1909,Italy,IT1,10.936,2024-12-18,1010,0.2953,9,2023-08-20,joined within two years,signed for a fee,0,1,AM
+634131,Aimar Oroz,C,2001-11-27,23,CA Osasuna,Spain,ES1,12.618,2024-12-27,2983,0.8722,9,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/CM
+634431,Beñat Turrientes,C,2002-01-31,23,Real Sociedad,Spain,ES1,13.459,2025-03-21,940,0.2749,11,,eligible,came through the club's youth system; entry not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,CM
+636093,Carlos Domínguez,C,2001-02-11,24,Celta de Vigo,Spain,ES1,2.103,2024-12-27,1180,0.345,7,,eligible,came through the club's youth system; entry not on record; in the club by 2018-07-01 (move between the club's own sides),0,1,CB
+636688,Alejandro Balde,C,2003-10-18,21,FC Barcelona,Spain,ES1,50.472,2025-03-21,2293,0.6705,1,,eligible,came through the club's youth system; entry not on record; in the club by 2018-07-01 (move between the club's own sides),0,1,WB
+636695,Marc Casadó,C,2003-09-14,21,FC Barcelona,Spain,ES1,25.236,2024-12-27,1616,0.4725,1,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+636703,Fermín López,C,2003-05-11,22,FC Barcelona,Spain,ES1,42.06,2024-12-27,1245,0.364,1,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/CM
+639712,Étienne Youté Kinkoué,C,2002-01-14,23,Le Havre AC,France,FR1,6.73,2024-12-10,2320,0.7582,15,2023-01-11,eligible,signed for a fee,0,1,CB
+639733,Peque Fernández,C,2002-10-04,22,Sevilla FC,Spain,ES1,2.944,2025-03-21,1134,0.3316,16,2024-07-11,joined within two years,signed for a fee,0,1,AM
+640428,Eduardo Camavinga,C,2002-11-10,22,Real Madrid,France,ES1,58.884,2025-03-21,1098,0.3211,2,2021-08-31,eligible,signed for a fee,0,1,CM/WB
+642002,Balthazar Pierret,C,2000-05-15,25,US Lecce,France,IT1,0.757,2023-06-16,1726,0.5047,17,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,CM
+643574,Kaishu Sano,C,2000-12-30,24,1.FSV Mainz 05,Japan,L1,14.3,2025-03-27,3044,0.9948,6,2024-07-03,joined within two years,signed for a fee,0,1,CM
+644401,Keane Lewis-Potter,C,2001-02-22,24,Brentford FC,England,GB1,19.348,2025-05-30,3100,0.9064,10,2022-07-12,eligible,signed for a fee,0,1,AM/WB
+644408,Oliver Provstgaard,C,2003-06-04,21,Società Sportiva Lazio S.p.A.,Denmark,IT1,2.944,2025-03-25,1473,0.7439,7,2025-02-03,joined within two years,signed for a fee,0,1,CB
+644771,Odilon Kossounou,C,2001-01-04,24,Atalanta BC,Cote d'Ivoire,IT1,21.03,2025-03-25,1125,0.3289,3,2024-08-28,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+645774,Eren Dinkçi,C,2001-12-13,23,SC Freiburg,Türkiye,L1,10.094,2024-12-20,1194,0.3902,5,2024-07-01,joined within two years,signed for a fee,0,1,AM
+646402,Abner,C,2000-05-27,25,Olympique Lyon,Brazil,FR1,7.571,2024-12-10,1091,0.3565,7,2024-07-05,joined within two years,signed for a fee,0,1,WB
+646740,Gavi,C,2004-08-05,20,FC Barcelona,Spain,ES1,58.884,2025-03-21,1083,0.3167,1,2015-07-01,eligible,joined the club's youth or reserve side from another club (for a fee),0,0,AM/CM
+646750,Cristhian Mosquera,C,2004-06-27,20,Valencia CF,Spain,ES1,25.236,2024-12-27,3320,0.9708,12,2019-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CB/WB
+648020,Alexsandro,C,1999-08-09,25,LOSC Lille,Brazil,FR1,12.618,2025-03-24,2700,0.8824,5,2022-07-01,eligible,signed for a fee,0,1,CB
+648195,Enzo Fernández,C,2001-01-17,24,Chelsea FC,Argentina,GB1,63.09,2025-05-30,2949,0.8623,4,2023-01-31,eligible,signed for a fee,0,1,AM/CM
+648779,Wilfried Singo,C,2000-12-25,24,AS Monaco,Cote d'Ivoire,FR1,21.03,2024-12-10,2093,0.684,3,2023-08-17,joined within two years,signed for a fee,0,1,CB/WB
+649490,Konan N’Dri,C,2000-10-27,24,US Lecce,Niger,IT1,1.262,2024-12-11,1892,0.7007,17,2025-02-02,joined within two years,signed for a fee,0,1,AM
+651005,Cher Ndour,C,2004-07-27,20,ACF Fiorentina,Italy,IT1,4.206,2025-03-25,1078,0.3422,6,2025-02-03,joined within two years,signed for a fee,0,0,CM
+651269,Armin Gigovic,C,2002-04-06,23,Holstein Kiel,Bosnia-Herzegovina,L1,2.524,2024-12-20,1905,0.6225,18,2024-07-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+651569,Daniel Mosquera,C,1999-10-20,25,Hellas Verona,Colombia,IT1,1.262,2024-12-18,1363,0.3985,14,2024-07-04,joined within two years,signed for a fee,0,1,ST
+651735,Magnus Knudsen,C,2001-06-15,23,Holstein Kiel,Norway,L1,2.103,2024-12-20,1853,0.6056,18,2024-07-01,joined within two years,signed for a fee,0,1,CM
+652275,Hákon Arnar Haraldsson,C,2003-04-10,22,LOSC Lille,Iceland,FR1,12.618,2025-03-24,1766,0.5771,5,2023-07-17,joined within two years,signed for a fee,0,1,AM
+654539,Adrien Truffert,C,2001-11-20,23,Stade Rennais FC,France,FR1,12.618,2024-12-10,2756,0.9007,12,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,WB
+654982,Bilal El Khannouss,C,2004-05-10,21,Leicester City,Morocco,GB1,23.554,2025-05-30,2266,0.6626,18,2024-08-29,joined within two years,signed for a fee,0,0,AM
+655006,Diego Moreira,C,2004-08-06,20,RC Strasbourg Alsace,Belgium,FR1,8.412,2025-03-24,2578,0.8425,6,2024-08-16,joined within two years,signed for a fee,0,0,AM/WB
+655012,Lucas Stassin,C,2004-11-29,20,AS Saint-Étienne,Belgium,FR1,5.888,2025-03-24,2275,0.7435,17,2024-08-30,joined within two years,signed for a fee,0,0,ST
+655488,Gabriel Martinelli,C,2001-06-18,23,Arsenal FC,Brazil,GB1,46.266,2025-05-30,2299,0.6722,2,2019-07-02,eligible,signed for a fee,0,1,AM
+656681,Victor Boniface,C,2000-12-23,24,Bayer 04 Leverkusen,Nigeria,L1,37.854,2024-12-20,1011,0.3304,2,2023-07-22,joined within two years,signed for a fee,0,1,ST
+657430,Samú Costa,C,2000-11-27,24,RCD Mallorca,Portugal,ES1,12.618,2024-12-27,2655,0.7763,10,2023-08-10,joined within two years,signed for a fee,0,1,CM
+658115,Abel Bretones,C,2000-08-21,24,CA Osasuna,Spain,ES1,2.524,2024-12-27,2068,0.6047,9,2024-07-05,joined within two years,signed for a fee,0,1,WB
+658536,Simon Adingra,C,2002-01-01,23,Brighton & Hove Albion,Cote d'Ivoire,GB1,23.554,2025-05-30,1093,0.3196,8,2022-07-01,eligible,signed for a fee,0,1,AM
+659089,Ilya Zabarnyi,C,2002-09-01,22,AFC Bournemouth,Ukraine,GB1,35.33,2025-05-30,3114,0.9105,9,2023-01-31,eligible,signed for a fee,0,1,CB
+659516,Warren Bondo,C,2003-09-15,21,AC Milan,France,IT1,8.412,2025-03-25,1785,0.5219,8,2025-02-03,joined within two years,signed for a fee,0,1,CM
+659518,Félix Lemaréchal,C,2003-08-07,21,RC Strasbourg Alsace,France,FR1,5.888,2025-03-24,1782,0.5824,6,2024-08-13,joined within two years,signed for a fee,0,1,AM/CM
+659543,Matthis Abline,C,2003-03-28,22,FC Nantes,France,FR1,10.094,2025-03-24,2788,0.9111,13,2023-08-25,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+659813,Piero Hincapié,C,2002-01-09,23,Bayer 04 Leverkusen,Ecuador,L1,42.06,2025-03-27,2670,0.8725,2,2021-08-16,eligible,signed for a fee,0,1,CB/WB
+660438,Orri Óskarsson,C,2004-08-29,20,Real Sociedad,Iceland,ES1,15.142,2025-03-21,1416,0.414,11,2024-08-30,joined within two years,signed for a fee,0,0,ST
+660860,Diego Coppola,C,2003-12-28,21,Hellas Verona,Italy,IT1,6.309,2024-12-18,2926,0.8556,14,2020-09-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+660867,Julio Enciso,C,2004-01-23,21,Ipswich Town,Paraguay,GB1,18.506,2025-05-30,1165,0.3406,19,2025-01-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,AM
+661053,Jarrad Branthwaite,C,2002-06-27,22,Everton FC,England,GB1,42.06,2025-05-30,2510,0.7339,13,2020-01-13,eligible,signed for a fee,0,1,CB
+661145,Jon Aramburu,C,2002-07-23,22,Real Sociedad,Venezuela,ES1,10.094,2024-12-27,2462,0.7199,11,2023-08-01,joined within two years,joined the club's youth or reserve side from another club (no recorded fee),0,1,WB
+661171,Willian Pacho,C,2001-10-16,23,Paris Saint-Germain,Ecuador,FR1,37.854,2025-03-24,2130,0.6961,1,2024-08-09,joined within two years,signed for a fee,0,1,CB
+662242,Rassoul Ndiaye,C,2001-12-11,23,Le Havre AC,Senegal,FR1,2.103,2024-12-10,1057,0.3454,15,2023-07-17,joined within two years,signed for a fee,0,1,CM
+663237,Jacob Ondrejka,C,2002-09-02,22,Parma Calcio 1913,Sweden,IT1,5.888,2024-12-11,1933,0.7159,16,2025-01-23,joined within two years,signed for a fee,0,1,AM
+666547,Zito Luvumbo,C,2002-03-09,23,Cagliari Calcio,Angola,IT1,4.627,2025-03-25,1613,0.4716,15,2020-09-23,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,AM/ST
+667287,Yasin Ayari,C,2003-10-06,21,Brighton & Hove Albion,Sweden,GB1,18.506,2025-05-30,1968,0.5754,8,2023-01-30,eligible,signed for a fee,0,1,CM
+667517,Jordan James,C,2004-07-02,20,Stade Rennais FC,Wales,FR1,6.73,2025-03-24,1181,0.3859,12,2024-08-12,joined within two years,signed for a fee,0,0,CM
+667967,Yassine Kechta,C,2002-02-25,23,Le Havre AC,Morocco,FR1,4.206,2024-12-10,2111,0.6899,15,2016-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/CM
+668547,Máximo Perrone,C,2003-01-07,22,Como 1907,Argentina,IT1,7.571,2024-12-18,1860,0.5439,10,2024-08-25,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+668951,Matías Soulé,C,2003-04-15,22,Associazione Sportiva Roma,Argentina,IT1,18.506,2024-12-18,1792,0.524,5,2024-07-30,joined within two years,signed for a fee,0,1,AM
+669380,Konstantinos Koulierakis,C,2003-11-28,21,VfL Wolfsburg,Greece,L1,16.824,2025-03-27,2470,0.8072,11,2024-08-30,joined within two years,signed for a fee,0,1,CB
+670096,Tanner Tessmann,C,2001-09-24,23,Olympique Lyon,United States,FR1,5.047,2024-12-10,1229,0.4016,7,2024-08-27,joined within two years,signed for a fee,0,1,CM
+670681,João Neves,C,2004-09-27,20,Paris Saint-Germain,Portugal,FR1,54.678,2025-03-24,1851,0.6049,1,2024-08-05,joined within two years,signed for a fee,0,0,CM/WB
+670717,Dário Essugo,C,2005-03-14,20,UD Las Palmas,Portugal,ES1,12.618,2025-03-21,1968,0.5754,19,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+670847,Mohamed-Ali Cho,C,2004-01-19,21,OGC Nice,France,FR1,12.618,2025-03-24,1636,0.5346,4,2024-01-08,joined within two years,signed for a fee,0,0,AM/ST
+670858,Lewis Hall,C,2004-09-08,20,Newcastle United,England,GB1,26.918,2025-05-30,2193,0.6412,5,2023-08-22,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,WB
+670882,Jamie Gittens,C,2004-08-08,20,Borussia Dortmund,England,L1,42.06,2024-12-20,1784,0.583,4,2020-09-17,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM
+671594,Kamory Doumbia,C,2003-02-18,22,Stade Brestois 29,Mali,FR1,4.206,2024-12-10,1319,0.431,9,2023-09-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+671915,Enzo Barrenechea,C,2001-05-22,24,Valencia CF,Argentina,ES1,6.309,2024-12-27,2206,0.645,12,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+672803,Bertuğ Yıldırım,C,2002-07-12,22,Getafe CF,Türkiye,ES1,2.103,2025-03-21,1087,0.3178,14,2024-08-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+673492,Morato,C,2001-06-30,23,Nottingham Forest,Brazil,GB1,11.777,2025-05-30,983,0.2874,7,2024-08-30,joined within two years,signed for a fee,0,1,CB/WB
+673514,Abdoulaye Ndiaye,C,2002-04-10,23,Stade Brestois 29,Senegal,FR1,2.524,2024-12-10,1707,0.5578,9,2024-07-24,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+674612,Youssouf Ndayishimiye,C,1998-10-27,26,OGC Nice,Burundi,FR1,10.094,2024-12-10,1934,0.632,4,2023-01-25,eligible,signed for a fee,0,1,CB/CM
+674806,Santiago Pierotti,C,2001-04-03,24,US Lecce,Argentina,IT1,3.365,2025-03-25,1940,0.5673,17,2024-01-16,joined within two years,signed for a fee,0,1,AM
+676042,Juanlu Sánchez,C,2003-08-15,21,Sevilla FC,Spain,ES1,10.094,2024-12-27,1724,0.5041,16,,eligible,"at the club before a loan; joining not on record; in the club by 2017-07-01 (move out of the club, for example on loan)",0,1,AM/CM/WB
+676411,Dailon Livramento,C,2001-05-04,24,Hellas Verona,Cape Verde,IT1,0.673,2024-12-18,932,0.2725,14,2024-07-24,joined within two years,signed for a fee,0,1,AM
+678406,Sergi Cardona,C,1999-07-08,25,Villarreal CF,Spain,ES1,6.73,2025-03-21,2955,0.864,5,2024-07-18,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+683840,Pedri,C,2002-11-25,22,FC Barcelona,Spain,ES1,100.944,2025-03-21,2895,0.8465,1,2019-09-02,eligible,signed for a fee,0,1,AM/CM
+684315,Nnamdi Collins,C,2004-01-10,21,Eintracht Frankfurt,Germany,L1,8.412,2025-03-27,1484,0.485,3,2023-08-09,joined within two years,signed for a fee,0,0,CB/WB
+687609,Isaac Romero,C,2000-05-18,25,Sevilla FC,Spain,ES1,8.412,2025-03-21,2171,0.6348,16,2019-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,ST
+687626,Moisés Caicedo,C,2001-11-02,23,Chelsea FC,Ecuador,GB1,75.708,2025-05-30,3356,0.9813,4,2023-08-14,joined within two years,signed for a fee,0,1,CM/WB
+689505,Johnny Cardoso,C,2001-09-20,23,Real Betis Balompié,United States,ES1,16.824,2024-12-27,2145,0.6272,6,2024-01-01,joined within two years,signed for a fee,0,1,CM
+690799,Anthony Rouault,C,2001-05-29,24,Stade Rennais FC,France,FR1,8.412,2024-12-20,2185,0.7141,12,2025-02-03,joined within two years,signed for a fee,0,1,CB
+691316,Luis Henrique,C,2001-12-14,23,Olympique Marseille,Brazil,FR1,15.142,2025-03-24,2622,0.8569,2,2020-09-25,eligible,signed for a fee,0,1,AM/WB
+691482,Jacopo Fazzini,C,2003-03-16,22,FC Empoli,Italy,IT1,6.73,2024-12-18,1390,0.4064,18,2017-08-03,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/CM
+691892,Nathaniel Brown,C,2003-06-16,21,Eintracht Frankfurt,Germany,L1,12.618,2025-03-27,1952,0.6379,3,2024-01-03,joined within two years,signed for a fee,0,1,AM/WB
+692737,Aljoscha Kemlein,C,2004-08-02,20,1.FC Union Berlin,Germany,L1,5.888,2024-12-20,924,0.302,13,,eligible,at the club before a loan; joining not on record; in the club by 2019-07-01 (move between the club's own sides),0,0,CM
+693095,Jacob Greaves,C,2000-09-12,24,Ipswich Town,England,GB1,15.142,2025-05-30,2205,0.6447,19,2024-07-12,joined within two years,signed for a fee,0,1,CB
+694509,Moussa Diarra,C,2000-11-10,24,Deportivo Alavés,Mali,ES1,1.682,2024-12-27,1863,0.5447,15,2024-07-18,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+694928,Samuel Lino,C,1999-12-23,25,Atlético de Madrid,Brazil,ES1,21.03,2024-12-27,1560,0.4561,3,2022-07-08,eligible,signed for a fee,0,1,AM/WB
+696164,Tim Oermann,C,2003-10-06,21,VfL Bochum,Germany,L1,4.206,2025-03-27,2217,0.7245,17,2012-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB/WB
+698259,Thomas Kristensen,C,2002-01-17,23,Udinese Calcio,Denmark,IT1,5.047,2025-03-25,1753,0.5126,12,2023-09-01,joined within two years,signed for a fee,0,1,CB
+701057,Rico Lewis,C,2004-11-21,20,Manchester City,England,GB1,33.648,2025-05-30,1893,0.5535,3,,eligible,came through the club's youth system; entry not on record; in the club by 2021-07-01 (move between the club's own sides),0,0,CM/WB
+701819,Daniele Ghilardi,C,2003-01-06,22,Hellas Verona,Italy,IT1,3.365,2025-03-25,2030,0.5936,14,2022-07-16,eligible,signed for a fee,0,1,CB
+702441,Sinaly Diomandé,C,2001-04-09,24,AJ Auxerre,Cote d'Ivoire,FR1,4.206,2024-12-10,1945,0.6356,11,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+705395,Gerard Martín,C,2002-02-26,23,FC Barcelona,Spain,ES1,6.309,2025-03-21,1028,0.3006,1,2023-07-19,joined within two years,joined the club's youth or reserve side from another club (for a fee),0,1,WB
+706024,Marko Ivezic,C,2001-12-02,23,Holstein Kiel,Serbia,L1,2.103,2024-12-20,1655,0.5408,18,2023-07-01,joined within two years,signed for a fee,0,1,CB
+707242,Badredine Bouanani,C,2004-12-08,20,OGC Nice,Algeria,FR1,4.206,2024-12-10,1094,0.3575,4,2022-07-07,eligible,arrived without a recorded fee (loan or free transfer),0,0,AM
+707274,César Tárrega,C,2002-02-26,23,Valencia CF,Spain,ES1,5.047,2024-12-27,3027,0.8851,12,2019-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+707809,Joël Schingtienne,C,2002-08-14,22,Venezia FC,Belgium,IT1,1.682,2024-06-04,1482,0.4333,19,,not verified,no move into the club on record; no dated record in the club before 2023-06-01,0,1,CB/WB
+707844,Mandela Keita,C,2002-05-10,23,Parma Calcio 1913,Belgium,IT1,9.253,2024-12-18,2063,0.6032,16,2024-08-30,joined within two years,signed for a fee,0,1,CM
+708072,Nicolò Savona,C,2003-03-19,22,Juventus FC,Italy,IT1,11.777,2024-12-18,1727,0.505,4,,eligible,at the club before a loan; joining not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,WB
+708265,Bradley Barcola,C,2002-09-02,22,Paris Saint-Germain,France,FR1,58.884,2025-03-24,2193,0.7167,1,2023-08-31,joined within two years,signed for a fee,0,1,AM
+709187,Nico Williams,C,2002-07-12,22,Athletic Bilbao,Spain,ES1,58.884,2024-12-27,1998,0.5842,4,2020-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+709372,Carlos Romero,C,2001-10-29,23,RCD Espanyol Barcelona,Spain,ES1,2.524,2025-03-21,2555,0.7471,13,2024-07-09,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+709726,Hugo Ekitiké,C,2002-06-20,22,Eintracht Frankfurt,France,L1,46.266,2025-03-27,2582,0.8438,3,2024-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+709957,Álex Valle,C,2004-04-25,21,Como 1907,Spain,IT1,3.785,2025-03-25,1684,0.4924,10,2025-01-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,WB
+710671,Adama Boiro,C,2002-06-22,22,Athletic Bilbao,Spain,ES1,2.103,2025-03-21,1104,0.3228,4,2024-01-24,joined within two years,joined the club's youth or reserve side from another club (for a fee),0,1,WB
+711337,Evanilson,C,1999-10-06,25,AFC Bournemouth,Brazil,GB1,29.442,2025-05-30,2343,0.6851,9,2024-08-16,joined within two years,signed for a fee,0,1,ST
+711544,Jake O'Brien,C,2001-05-15,24,Everton FC,Ireland,GB1,15.142,2025-05-30,1569,0.4588,13,2024-07-30,joined within two years,signed for a fee,0,1,CB/WB
+711625,José Ángel Carmona,C,2002-01-29,23,Sevilla FC,Spain,ES1,10.094,2025-03-21,2954,0.8637,16,,eligible,at the club before a loan; joining not on record; in the club by 2018-07-01 (move between the club's own sides),0,1,AM/WB
+711969,Lorenz Assignon,C,2000-06-22,24,Stade Rennais FC,France,FR1,7.571,2024-12-10,2363,0.7722,12,,eligible,at the club before a loan; joining not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,WB
+711976,Andy Diouf,C,2003-05-17,22,RC Lens,France,FR1,8.412,2024-12-10,2234,0.7301,8,2023-07-02,joined within two years,signed for a fee,0,1,AM/CM
+711980,Guéla Doué,C,2002-10-17,22,RC Strasbourg Alsace,Cote d'Ivoire,FR1,10.094,2025-03-24,2716,0.8876,6,2024-07-26,joined within two years,signed for a fee,0,1,CB/WB
+711999,Lesley Ugochukwu,C,2004-03-26,21,Southampton FC,France,GB1,15.142,2025-05-30,1663,0.4863,20,2024-08-16,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+712107,Luiz Júnior,C,2001-01-14,24,Villarreal CF,Brazil,ES1,4.206,2024-12-27,1547,0.4523,5,2024-08-20,joined within two years,signed for a fee,0,1,GK
+713644,Bryan Zaragoza,C,2001-09-09,23,CA Osasuna,Spain,ES1,10.094,2024-12-27,1852,0.5415,9,2024-08-09,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+715628,Damián Rodríguez,C,2003-03-17,22,Celta de Vigo,Spain,ES1,0.421,2024-06-07,924,0.2702,7,,eligible,came through the club's youth system; entry not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,CM
+717411,Yegor Yarmolyuk,C,2004-03-01,21,Brentford FC,Ukraine,GB1,12.618,2025-05-30,1443,0.4219,10,2022-07-14,eligible,joined the club's youth or reserve side from another club (for a fee),0,0,AM/CM
+717585,Mory Gbane,C,2000-12-25,24,Stade Reims,Cote d'Ivoire,FR1,3.365,2025-03-24,2596,0.8484,16,2025-02-03,joined within two years,signed for a fee,0,1,CB/CM
+720518,Roberto Fernández,C,2002-07-03,22,RCD Espanyol Barcelona,Spain,ES1,3.365,2025-03-21,2011,0.588,13,2025-01-14,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+724129,Matias Fernandez-Pardo,C,2005-02-03,20,LOSC Lille,Belgium,FR1,8.412,2024-12-10,1230,0.402,5,2024-08-30,joined within two years,signed for a fee,0,0,AM/ST
+724520,Abde Ezzalzouli,C,2001-12-17,23,Real Betis Balompié,Morocco,ES1,10.094,2025-03-21,1995,0.5833,6,2023-09-01,joined within two years,signed for a fee,0,1,AM
+728485,Danilo Veiga,C,2002-09-25,22,US Lecce,Portugal,IT1,0.841,2024-12-19,1648,0.5386,17,2025-01-28,joined within two years,signed for a fee,0,1,WB
+729814,Georges Mikautadze,C,2000-10-31,24,Olympique Lyon,Georgia,FR1,16.824,2025-03-24,1434,0.4686,7,2024-07-18,joined within two years,signed for a fee,0,1,AM/ST
+730581,Loïc Badé,C,2000-04-11,25,Sevilla FC,France,ES1,25.236,2025-03-21,2687,0.7857,16,2023-01-01,eligible,arrived without a recorded fee (loan or free transfer),0,1,CB
+730861,Milos Kerkez,C,2003-11-07,21,AFC Bournemouth,Hungary,GB1,37.854,2025-05-30,3342,0.9772,9,2023-07-20,joined within two years,signed for a fee,0,1,WB
+730893,Tyrick Mitchell,C,1999-09-01,25,Crystal Palace,England,GB1,21.03,2025-05-30,3103,0.9073,12,2016-07-22,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,WB
+733576,Alberto Moleiro,C,2003-09-30,21,UD Las Palmas,Spain,ES1,21.03,2024-12-27,2728,0.7977,19,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+735568,Natan,C,2001-02-06,24,Real Betis Balompié,Brazil,ES1,7.571,2024-12-27,2171,0.6348,6,2024-08-15,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+735570,João Gomes,C,2001-02-12,24,Wolverhampton Wanderers,Brazil,GB1,33.648,2025-05-30,2989,0.874,16,2023-01-30,eligible,signed for a fee,0,1,AM/CM
+735571,Rodrigo Muniz,C,2001-05-04,24,Fulham FC,Brazil,GB1,16.824,2025-05-30,950,0.2778,11,2021-08-20,eligible,signed for a fee,0,1,ST
+741238,Omari Hutchinson,C,2003-10-30,21,Ipswich Town,England,GB1,18.506,2025-05-30,2593,0.7582,19,2023-07-20,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+741257,Álex Jiménez,C,2005-05-08,20,AC Milan,Spain,IT1,8.412,2025-03-25,1270,0.3713,8,2023-07-25,joined within two years,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM/WB
+742201,Giuliano Simeone,C,2002-12-18,22,Atlético de Madrid,Argentina,ES1,21.03,2025-03-21,1941,0.5675,3,2019-09-11,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+743386,Malick Fofana,C,2005-03-31,20,Olympique Lyon,Belgium,FR1,21.03,2024-12-10,1586,0.5183,7,2024-01-10,joined within two years,signed for a fee,0,0,AM/WB
+743496,Kévin Danois,C,2004-06-28,20,AJ Auxerre,France,FR1,3.365,2025-03-24,1459,0.4768,11,,eligible,came through the club's youth system; entry not on record; in the club by 2020-07-01 (move between the club's own sides),0,0,CM
+743591,Savinho,C,2004-04-10,21,Manchester City,Brazil,GB1,42.06,2025-05-30,1772,0.5181,3,2024-07-18,joined within two years,signed for a fee,0,0,AM
+743600,Andrey Santos,C,2004-05-03,21,RC Strasbourg Alsace,Brazil,FR1,21.03,2024-12-10,2857,0.9337,6,2024-02-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+744149,Adam Wharton,C,2004-02-06,21,Crystal Palace,England,GB1,37.854,2025-05-30,1327,0.388,12,2024-02-01,joined within two years,signed for a fee,0,0,CM
+745181,Soungoutou Magassa,C,2003-10-08,21,AS Monaco,France,FR1,10.094,2024-12-10,1022,0.334,3,2018-08-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB/CM
+745200,Maghnes Akliouche,C,2002-02-25,23,AS Monaco,France,FR1,33.648,2024-12-10,2408,0.7869,3,2017-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+746695,Kamaldeen Sulemana,C,2002-02-15,23,Southampton FC,Ghana,GB1,10.936,2025-05-30,1406,0.4111,20,2023-01-31,eligible,signed for a fee,0,1,AM/ST
+746712,Pietro Comuzzo,C,2005-02-20,20,ACF Fiorentina,Italy,IT1,21.03,2025-03-25,2197,0.6424,6,2019-09-04,eligible,joined the club's youth or reserve side from another club (for a fee),0,0,CB
+746910,Mohamed Amoura,C,2000-05-09,25,VfL Wolfsburg,Algeria,L1,26.918,2025-03-27,2486,0.8124,11,2024-07-08,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/ST
+748382,Amin Sarr,C,2001-03-11,24,Hellas Verona,Sweden,IT1,3.365,2024-12-18,1921,0.5617,14,2024-08-27,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+749552,Alieu Fadera,C,2001-11-03,23,Como 1907,The Gambia,IT1,4.206,2024-12-18,1829,0.5348,10,2024-08-14,joined within two years,signed for a fee,0,1,AM
+763079,Abdukodir Khusanov,C,2004-02-29,21,Manchester City,Uzbekistan,GB1,29.442,2025-05-30,1479,0.4833,3,2025-01-20,joined within two years,signed for a fee,0,0,CB
+763182,Josué Casimir,C,2001-09-24,23,Le Havre AC,Haiti,FR1,2.944,2024-12-10,2006,0.6556,15,,eligible,came through the club's youth system; entry not on record; in the club by 2018-07-01 (move between the club's own sides),0,1,AM/ST/WB
+764859,Williot Swedberg,C,2004-02-01,21,Celta de Vigo,Sweden,ES1,4.206,2024-12-27,1347,0.3939,7,2022-07-01,eligible,signed for a fee,0,0,AM
+766583,Kike Salas,C,2002-04-23,23,Sevilla FC,Spain,ES1,6.73,2024-12-27,2237,0.6541,16,,eligible,"at the club before a loan; joining not on record; in the club by 2016-07-01 (move out of the club, for example on loan)",0,1,CB/WB
+768380,Arouna Sangante,C,2002-04-12,23,Le Havre AC,Senegal,FR1,8.412,2024-12-10,1251,0.4088,15,2017-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB/WB
+775605,Pablo Barrios,C,2003-06-15,21,Atlético de Madrid,Spain,ES1,42.06,2024-12-27,2337,0.6833,3,2017-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+776798,Abdallah Sima,C,2001-06-17,23,Stade Brestois 29,Senegal,FR1,8.412,2024-12-10,1237,0.4042,9,2024-08-21,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+776890,Nicolas Jackson,C,2001-06-20,23,Chelsea FC,Senegal,GB1,42.06,2025-05-30,2240,0.655,4,2023-07-01,joined within two years,signed for a fee,0,1,ST
+780630,Willy Kambwala,C,2004-08-25,20,Villarreal CF,France,ES1,3.365,2024-12-27,1114,0.3257,5,2024-07-15,joined within two years,signed for a fee,0,0,CB
+782630,Khalil Fayad,C,2004-06-09,20,Montpellier HSC,Morocco,FR1,4.206,2024-06-03,1025,0.335,18,,eligible,came through the club's youth system; entry not on record; in the club by 2021-07-01 (move between the club's own sides),0,0,AM/CM
+783094,Benjamin Bouchouari,C,2001-11-13,23,AS Saint-Étienne,Morocco,FR1,4.206,2025-03-24,1775,0.5801,17,2022-08-16,eligible,signed for a fee,0,1,CM
+783396,Ramón Terrats,C,2000-10-18,24,Getafe CF,Spain,ES1,3.365,2025-03-21,1353,0.3956,14,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+785353,Pablo Ibáñez,C,1998-09-20,26,CA Osasuna,Spain,ES1,1.935,2024-12-27,1289,0.3769,9,2021-02-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+786436,Ismaël Doukouré,C,2003-07-24,21,RC Strasbourg Alsace,France,FR1,12.618,2024-12-10,2647,0.865,6,2022-01-29,eligible,signed for a fee,0,1,CB/CM
+787151,Lukas Ullrich,C,2004-03-16,21,Borussia Mönchengladbach,Germany,L1,6.73,2025-03-27,1918,0.6268,10,2023-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,WB
+787912,El Chadaille Bitshiabu,C,2005-05-16,20,RB Leipzig,France,L1,10.094,2024-12-20,1127,0.3683,8,2023-07-18,joined within two years,signed for a fee,0,0,CB
+789082,Vanderson,C,2001-06-21,23,AS Monaco,Brazil,FR1,16.824,2024-12-10,2073,0.6775,3,2022-01-01,eligible,signed for a fee,0,1,WB
+789252,Bence Dárdai,C,2006-01-24,19,VfL Wolfsburg,Hungary,L1,7.571,2025-03-27,1312,0.4288,11,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,AM/CM
+792380,Aleksandar Pavlovic,C,2004-05-03,21,Bayern Munich,Germany,L1,42.06,2024-12-20,1458,0.4765,1,2011-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM
+794758,Warren Kamanzi,C,2000-11-11,24,FC Toulouse,Norway,FR1,1.682,2024-12-10,1019,0.333,10,2023-01-02,eligible,signed for a fee,0,1,WB
+798043,Tom Rothe,C,2004-10-29,20,1.FC Union Berlin,Germany,L1,8.412,2025-03-27,1672,0.5464,13,2024-08-07,joined within two years,signed for a fee,0,0,WB
+798929,Gvidas Gineitis,C,2004-04-15,21,Torino FC,Lithuania,IT1,4.206,2025-03-25,1423,0.4161,11,2022-01-31,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM
+800176,André,C,2001-07-16,23,Wolverhampton Wanderers,Brazil,GB1,23.554,2025-05-30,2485,0.7266,16,2024-08-30,joined within two years,signed for a fee,0,1,CM
+801734,Mathys Tel,C,2005-04-27,20,Tottenham Hotspur,France,GB1,29.442,2025-05-30,1166,0.3409,17,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,AM/ST
+804219,Léo Scienza,C,1998-09-13,26,1. Fußballclub Heidenheim 1846,Brazil,L1,2.524,2024-12-20,1154,0.3771,16,2024-07-01,joined within two years,signed for a fee,0,1,AM
+805714,Renato Veiga,C,2003-07-29,21,Juventus FC,Portugal,IT1,15.142,2025-03-25,1270,0.3713,4,2025-01-27,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB/WB
+805886,Gaby Jean,C,2000-02-19,25,US Lecce,France,IT1,1.682,2025-03-25,1388,0.4058,17,2024-08-26,joined within two years,signed for a fee,0,1,CB
+806168,Paul Joly,C,2000-06-07,24,AJ Auxerre,France,FR1,1.009,2023-06-16,1001,0.3271,11,,eligible,no move into the club on record; in the club by 2022-08-14 (first match for the club),0,1,WB
+806793,Clément Akpa,C,2001-11-24,23,AJ Auxerre,Cote d'Ivoire,FR1,2.524,2025-03-24,2495,0.8154,11,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+807128,Saïdou Sow,C,2002-07-04,22,FC Nantes,Guinea,FR1,5.047,2024-12-10,1819,0.5944,13,2025-01-25,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+807688,Yassin Belkhdim,C,2002-02-14,23,Angers SCO,Morocco,FR1,0.673,2024-12-10,1519,0.4964,14,2020-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+807689,Frank Magri,C,1999-09-04,25,FC Toulouse,Cameroon,FR1,2.103,2024-12-10,1514,0.4948,10,2023-07-21,joined within two years,signed for a fee,0,1,AM/ST
+810092,Warren Zaïre-Emery,C,2006-03-08,19,Paris Saint-Germain,France,FR1,50.472,2024-12-10,2052,0.6706,1,2014-04-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM/WB
+810895,Eliesse Ben Seghir,C,2005-02-16,20,AS Monaco,Morocco,FR1,25.236,2024-12-10,1750,0.5719,3,2020-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM
+813137,Niccolò Pisilli,C,2004-09-23,20,Associazione Sportiva Roma,Italy,IT1,10.094,2024-12-18,1218,0.3561,5,,eligible,came through the club's youth system; entry not on record; in the club by 2020-09-01 (move between the club's own sides),0,0,AM/CM
+814446,Luca Marianucci,C,2004-07-23,20,FC Empoli,Italy,IT1,4.206,2025-03-25,1065,0.3114,18,2011-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CB
+822331,Omar El Hilali,C,2003-09-12,21,RCD Espanyol Barcelona,Morocco,ES1,8.412,2025-03-21,3159,0.9237,13,,eligible,came through the club's youth system; entry not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,WB
+822959,Tom Bischof,C,2005-06-28,19,TSG 1899 Hoffenheim,Germany,L1,21.03,2025-03-27,2569,0.8395,14,2015-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM/CM
+823231,Dango Ouattara,C,2002-02-11,23,AFC Bournemouth,Burkina Faso,GB1,23.554,2025-05-30,2011,0.588,9,2023-01-19,eligible,signed for a fee,0,1,AM/ST/WB
+826224,Arnau Martínez,C,2003-04-25,22,Girona FC,Spain,ES1,8.412,2024-12-27,2627,0.7681,17,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB/WB
+827734,Ange-Yoan Bonny,C,2003-10-25,21,Parma Calcio 1913,Cote d'Ivoire,IT1,16.824,2024-12-18,2546,0.7444,16,2021-08-31,eligible,arrived without a recorded fee (loan or free transfer),0,1,ST
+829874,Lilian Raolisoa,C,2000-06-16,24,Angers SCO,France,FR1,0.589,2024-12-10,1314,0.4294,14,2017-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/WB
+834744,Antoniu Roca,C,2002-09-05,22,RCD Espanyol Barcelona,Spain,ES1,1.262,2025-03-21,1021,0.2985,13,2019-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+834752,Unai Gómez,C,2003-05-25,22,Athletic Bilbao,Spain,ES1,5.047,2025-03-21,1278,0.3737,4,2022-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+834764,Javi Guerra,C,2003-05-13,22,Valencia CF,Spain,ES1,16.824,2024-12-27,2593,0.7582,12,2019-07-01,eligible,joined the club's youth or reserve side from another club (for a fee),0,1,AM/CM
+842338,Enzo Tchato,C,2002-11-23,22,Montpellier HSC,Cameroon,FR1,2.103,2024-12-10,1902,0.6216,18,,eligible,came through the club's youth system; entry not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,WB
+845654,Kenan Yıldız,C,2005-05-04,20,Juventus FC,Türkiye,IT1,37.854,2024-12-18,2409,0.7044,4,2022-07-12,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM
+847279,Oumar Diakité,C,2003-12-20,21,Stade Reims,Cote d'Ivoire,FR1,5.888,2025-03-24,1642,0.5366,16,2023-07-01,joined within two years,signed for a fee,0,1,ST
+848509,Jackson Tchatchoua,C,2001-09-14,23,Hellas Verona,Cameroon,IT1,6.73,2024-12-18,3170,0.9269,14,2023-08-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,WB
+849410,Valentín Barco,C,2004-07-23,20,RC Strasbourg Alsace,Argentina,FR1,6.73,2025-03-24,1452,0.4745,6,2025-02-02,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM/WB
+849520,Santiago Castro,C,2004-09-18,20,Bologna Football Club 1909,Argentina,IT1,29.442,2025-03-25,2302,0.6731,9,2024-01-30,joined within two years,signed for a fee,0,0,ST
+852727,Diego García,C,2000-04-18,25,CD Leganés,Spain,ES1,1.262,2024-12-27,1190,0.348,18,2020-08-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,ST
+855015,Farès Chaïbi,C,2002-11-28,22,Eintracht Frankfurt,Algeria,L1,7.571,2025-03-27,1008,0.3294,3,2023-08-30,joined within two years,signed for a fee,0,1,AM
+855308,Arthur Atta,C,2003-01-14,22,Udinese Calcio,France,IT1,2.103,2025-03-25,1245,0.364,12,2024-08-30,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM/CM
+857818,Yáser Asprilla,C,2003-11-19,21,Girona FC,Colombia,ES1,15.142,2024-12-27,1402,0.4099,17,2024-08-23,joined within two years,signed for a fee,0,1,AM
+857832,David Torres,C,2003-03-05,22,Real Valladolid CF,Spain,ES1,0.421,2023-10-13,1386,0.4053,20,,eligible,no move into the club on record; in the club by 2022-11-12 (first match for the club),0,1,CB
+860992,Nicolás Valentini,C,2001-04-06,24,Hellas Verona,Argentina,IT1,3.785,2024-12-13,1132,0.331,14,2025-02-03,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CB
+861410,Arda Güler,C,2005-02-25,20,Real Madrid,Türkiye,ES1,37.854,2024-12-27,1249,0.3652,2,2023-07-06,joined within two years,signed for a fee,0,0,AM
+864799,Stefan Bajcetic,C,2004-10-22,20,UD Las Palmas,Spain,ES1,7.571,2024-12-17,975,0.2851,19,2025-01-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+866246,Lucas Bergvall,C,2006-02-02,19,Tottenham Hotspur,Sweden,GB1,31.966,2025-05-30,1205,0.3523,17,2024-07-01,joined within two years,signed for a fee,0,0,CM
+866655,Tyler Dibling,C,2006-02-17,19,Southampton FC,England,GB1,21.03,2025-05-30,1874,0.548,20,2022-09-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM/ST
+867688,Jack Hinshelwood,C,2005-04-11,20,Brighton & Hove Albion,England,GB1,20.189,2025-05-30,1848,0.5404,8,,eligible,came through the club's youth system; entry not on record; in the club by 2021-07-01 (move between the club's own sides),0,0,CM/WB
+872171,Lucas Beraldo,C,2003-11-24,21,Paris Saint-Germain,Brazil,FR1,21.03,2025-03-24,2011,0.6572,1,2024-01-01,joined within two years,signed for a fee,0,1,CB/WB
+875332,Arthur Chaves,C,2001-01-29,24,TSG 1899 Hoffenheim,Brazil,L1,2.524,2024-12-20,2187,0.7147,14,2024-08-30,joined within two years,signed for a fee,0,1,CB
+876631,Habib Diarra,C,2004-01-03,21,RC Strasbourg Alsace,Senegal,FR1,16.824,2024-12-10,2357,0.7703,6,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM/CM
+877139,Alberto Costa,C,2003-09-29,21,Juventus FC,Portugal,IT1,8.412,2025-03-25,1025,0.335,4,2025-01-15,joined within two years,signed for a fee,0,1,WB
+880245,Mateus Fernandes,C,2004-07-10,20,Southampton FC,Portugal,GB1,12.618,2025-05-30,2947,0.8617,20,2024-08-20,joined within two years,signed for a fee,0,0,AM/CM
+888493,Alejo Veliz,C,2003-09-19,21,RCD Espanyol Barcelona,Argentina,ES1,2.355,2025-03-21,1123,0.3284,13,2024-08-07,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,ST
+890290,Dean Huijsen,C,2005-04-14,20,AFC Bournemouth,Spain,GB1,50.472,2025-05-30,2422,0.7082,9,2024-07-30,joined within two years,signed for a fee,0,0,CB
+890385,Sebastian Otoa,C,2004-05-13,21,Genoa CFC,Denmark,IT1,1.682,2025-03-25,901,0.4551,13,2025-01-16,joined within two years,signed for a fee,0,0,CB
+890721,Myles Lewis-Skelly,C,2006-09-26,18,Arsenal FC,England,GB1,37.854,2025-05-30,1371,0.4009,2,,eligible,came through the club's youth system; entry not on record; in the club by 2022-07-01 (move between the club's own sides),0,0,WB
+892221,Hugo Sotelo,C,2003-12-19,21,Celta de Vigo,Spain,ES1,4.206,2024-12-27,1256,0.3673,7,,eligible,came through the club's youth system; entry not on record; in the club by 2019-07-01 (move between the club's own sides),0,1,CM
+892929,Hugo Álvarez,C,2003-07-02,21,Celta de Vigo,Spain,ES1,6.309,2024-12-27,1570,0.4591,7,,eligible,came through the club's youth system; entry not on record; in the club by 2020-07-01 (move between the club's own sides),0,1,AM/WB
+893675,Amir Richardson,C,2002-01-24,23,ACF Fiorentina,Morocco,IT1,7.571,2024-12-18,1091,0.319,6,2024-08-12,joined within two years,signed for a fee,0,1,CM
+894914,Antonio Nusa,C,2005-04-17,20,RB Leipzig,Norway,L1,23.554,2024-12-20,1718,0.5614,8,2024-08-13,joined within two years,signed for a fee,0,0,AM/WB
+895334,Yarek Gasiorowski,C,2005-01-12,20,Valencia CF,Spain,ES1,10.094,2025-03-21,946,0.2766,12,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CB/WB
+900909,Paul Wanner,C,2005-12-23,19,1. Fußballclub Heidenheim 1846,Austria,L1,15.142,2024-12-20,1779,0.5814,16,2024-07-01,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,AM
+901019,Neil El Aynaoui,C,2001-07-02,23,RC Lens,Morocco,FR1,8.412,2025-03-24,1587,0.5186,8,2023-07-01,joined within two years,signed for a fee,0,1,CM
+904662,Louis Mouton,C,2002-06-03,22,AS Saint-Étienne,France,FR1,0.673,2024-12-10,1043,0.3408,17,,eligible,at the club before a loan; joining not on record; in the club by 2021-07-01 (move between the club's own sides),0,1,CM
+905997,Pablo Durán,C,2001-05-25,24,Celta de Vigo,Spain,ES1,2.944,2025-03-21,1394,0.4076,7,2022-08-08,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM/ST
+906160,Saba Goglichidze,C,2004-06-25,20,FC Empoli,Georgia,IT1,6.73,2024-12-18,2547,0.7447,18,2024-01-06,joined within two years,signed for a fee,0,0,CB
+907813,Pablo Marín,C,2003-07-03,21,Real Sociedad,Spain,ES1,2.524,2025-03-21,1236,0.3614,11,,eligible,came through the club's youth system; entry not on record; in the club by 2020-07-01 (move between the club's own sides),0,1,AM/CM
+910905,Mamadou Sarr,C,2005-08-29,19,RC Strasbourg Alsace,Senegal,FR1,12.618,2025-03-24,2368,0.7739,6,2024-08-22,joined within two years,signed for a fee,0,0,CB
+912902,Guillaume Restes,C,2005-03-11,20,FC Toulouse,France,FR1,16.824,2025-03-24,2545,0.8317,10,2020-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,GK
+914562,Désiré Doué,C,2005-06-03,19,Paris Saint-Germain,France,FR1,50.472,2025-03-24,1732,0.566,1,2024-08-17,joined within two years,signed for a fee,0,0,AM
+916920,Shavy Babicka,C,2000-06-01,24,FC Toulouse,Gabon,FR1,2.524,2024-12-10,1177,0.3846,10,2024-01-18,joined within two years,signed for a fee,0,1,AM
+917375,Antoine Hainaut,C,2002-02-18,23,Parma Calcio 1913,France,IT1,0.841,2024-12-18,1198,0.3503,16,2022-01-31,eligible,signed for a fee,0,1,WB
+918969,Lamine Camara,C,2004-01-01,21,AS Monaco,Senegal,FR1,16.824,2024-12-10,2065,0.6748,3,2024-07-30,joined within two years,signed for a fee,0,0,CM
+922693,Archie Gray,C,2006-03-12,19,Tottenham Hotspur,England,GB1,31.966,2025-05-30,1744,0.5099,17,2024-07-02,joined within two years,signed for a fee,0,0,CB/CM/WB
+923759,Valentin Atangana,C,2005-08-25,19,Stade Reims,France,FR1,7.571,2024-12-10,2867,0.9369,16,2015-09-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM
+923832,Nathan Zézé,C,2005-06-18,19,FC Nantes,France,FR1,10.094,2024-12-10,1513,0.4944,13,,eligible,came through the club's youth system; entry not on record; in the club by 2020-07-01 (move between the club's own sides),0,0,CB
+926694,Arthur Vermeeren,C,2005-02-07,20,RB Leipzig,Belgium,L1,18.506,2025-03-27,1576,0.515,8,2024-08-26,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+931160,Djaoui Cissé,C,2004-01-31,21,Stade Rennais FC,France,FR1,4.206,2025-03-24,1130,0.3693,12,2019-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM
+931838,Hugo Larsson,C,2004-06-27,20,Eintracht Frankfurt,Sweden,L1,33.648,2025-03-27,2403,0.7853,3,2023-07-01,joined within two years,signed for a fee,0,0,AM/CM
+935245,Raúl Asencio,C,2003-02-13,22,Real Madrid,Spain,ES1,25.236,2025-03-21,1673,0.4892,2,2017-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,1,CB
+937941,Thierno Barry,C,2002-10-21,22,Villarreal CF,France,ES1,11.777,2024-12-27,2325,0.6798,5,2024-08-21,joined within two years,signed for a fee,0,1,ST
+937958,Lamine Yamal,C,2007-07-13,17,FC Barcelona,Spain,ES1,151.416,2024-12-27,2864,0.8374,1,2014-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM
+938729,Mikel Jauregizar,C,2003-11-13,21,Athletic Bilbao,Spain,ES1,16.824,2025-03-21,2243,0.6558,4,2023-07-01,joined within two years,joined the club's youth or reserve side from another club (no recorded fee),0,1,CM
+939964,Jean-Mattéo Bahoya,C,2005-05-07,20,Eintracht Frankfurt,France,L1,7.571,2025-03-27,919,0.3003,3,2024-01-25,joined within two years,signed for a fee,0,0,AM
+943837,Vitor Roque,C,2005-02-28,20,Real Betis Balompié,Brazil,ES1,16.824,2024-12-27,1237,0.3617,6,2024-08-26,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,ST
+948273,Mario Martín,C,2004-03-05,21,Real Valladolid CF,Spain,ES1,1.262,2025-03-21,1750,0.5117,20,2024-08-23,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+948294,Nico Paz,C,2004-09-08,20,Como 1907,Argentina,IT1,29.442,2025-03-25,2695,0.788,10,2024-08-25,joined within two years,signed for a fee,0,0,AM
+951579,Saël Kumbedi,C,2005-03-26,20,Olympique Lyon,France,FR1,5.047,2025-03-24,956,0.3124,7,2022-08-31,eligible,signed for a fee,0,0,WB
+953901,Santiago Mouriño,C,2002-02-13,23,Deportivo Alavés,Uruguay,ES1,1.682,2024-12-27,1848,0.5404,15,2024-08-27,joined within two years,signed for a fee,0,1,CB
+955070,Ernest Nuamah,C,2003-11-01,21,Olympique Lyon,Ghana,FR1,12.618,2024-12-10,1054,0.3444,7,2023-08-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+955281,Nhoa Sangui,C,2006-02-27,19,Stade Reims,France,FR1,2.103,2024-12-10,1148,0.3752,16,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,WB
+961022,Benja Domínguez,C,2003-09-19,21,Bologna Football Club 1909,Argentina,IT1,12.618,2025-03-25,1287,0.3763,9,2024-08-28,joined within two years,signed for a fee,0,1,AM
+962110,Pau Cubarsí,C,2007-01-22,18,FC Barcelona,Spain,ES1,58.884,2024-12-27,2621,0.7664,1,2018-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CB
+962555,Abakar Sylla,C,2002-12-25,22,RC Strasbourg Alsace,Cote d'Ivoire,FR1,10.094,2024-12-10,945,0.3088,6,2023-07-15,joined within two years,signed for a fee,0,1,CB
+973085,Carlos Baleba,C,2004-01-03,21,Brighton & Hove Albion,Cameroon,GB1,33.648,2025-05-30,2673,0.7816,8,2023-08-29,joined within two years,signed for a fee,0,0,CM
+982855,Reda Belahyane,C,2004-06-01,20,Società Sportiva Lazio S.p.A.,Morocco,IT1,8.412,2024-12-18,1851,0.5412,7,2025-02-03,joined within two years,signed for a fee,0,0,CM
+983989,Facundo Buonanotte,C,2004-12-23,20,Leicester City,Argentina,GB1,16.824,2025-05-30,1514,0.4427,18,2024-08-10,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,AM
+1004301,Jérémy Jacquet,C,2005-07-13,19,Stade Rennais FC,France,FR1,4.206,2025-03-24,929,0.3036,12,2020-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CB
+1005240,Christian Mawissa,C,2005-04-18,20,AS Monaco,France,FR1,10.094,2024-12-10,1502,0.4908,3,2024-08-11,joined within two years,signed for a fee,0,0,CB/WB
+1005649,Murillo,C,2002-07-04,22,Nottingham Forest,Brazil,GB1,46.266,2025-05-30,3191,0.933,7,2023-08-31,joined within two years,signed for a fee,0,1,CB
+1006411,Jaydee Canvot,C,2006-07-29,18,FC Toulouse,France,FR1,2.103,2025-03-24,1105,0.3611,10,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CB/CM
+1011200,Junior Mwanga,C,2003-05-11,22,Le Havre AC,France,FR1,5.047,2024-12-10,1245,0.4069,15,2025-01-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,CM
+1012534,Yankuba Minteh,C,2004-07-22,20,Brighton & Hove Albion,The Gambia,GB1,25.236,2025-05-30,1844,0.5392,8,2024-07-01,joined within two years,signed for a fee,0,0,AM
+1016015,Ngal'ayel Mukau,C,2004-11-03,20,LOSC Lille,DR Congo,FR1,12.618,2025-03-24,1193,0.3899,5,2024-07-11,joined within two years,signed for a fee,0,0,AM/CM
+1018938,Jon Martín,C,2006-04-23,19,Real Sociedad,Spain,ES1,1.682,2024-12-27,900,0.2632,11,,eligible,"at the club before a loan; joining not on record; in the club by 2021-07-01 (move out of the club, for example on loan)",0,0,CB
+1028162,Antoine Joujou,C,2003-03-12,22,Le Havre AC,France,FR1,2.103,2024-12-10,933,0.3049,15,2024-08-29,joined within two years,arrived without a recorded fee (loan or free transfer),0,1,AM
+1033005,Coba da Costa,C,2002-07-26,22,Getafe CF,Guinea-Bissau,ES1,2.524,2025-03-21,1008,0.2947,14,2024-07-01,joined within two years,joined the club's youth or reserve side from another club (no recorded fee),0,1,AM
+1061282,Assane Diao,C,2005-09-07,19,Como 1907,Senegal,IT1,21.03,2025-03-25,1531,0.4477,10,2025-01-07,joined within two years,signed for a fee,0,0,AM
+1061336,Pau Navarro,C,2005-04-25,20,Villarreal CF,Spain,ES1,0.841,2025-03-21,917,0.2681,5,2020-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,WB
+1068110,Rabby Nzingoula,C,2005-11-25,19,Montpellier HSC,France,FR1,2.103,2024-12-10,1695,0.5539,18,2024-08-28,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CM
+1071956,Emmanuel Biumla,C,2005-05-08,20,Angers SCO,France,FR1,3.365,2025-03-24,1334,0.4359,14,2024-07-31,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CB
+1076815,Javi Rodríguez,C,2003-06-27,21,Celta de Vigo,Spain,ES1,8.412,2025-03-21,2513,0.7348,7,,eligible,at the club before a loan; joining not on record; in the club by 2021-07-01 (move between the club's own sides),0,1,CB
+1086619,Giovanni Leoni,C,2006-12-21,18,Parma Calcio 1913,Italy,IT1,5.047,2025-03-25,1205,0.3523,16,2024-08-27,joined within two years,signed for a fee,0,0,CB
+1089202,Moïse Bombito,C,2000-03-30,25,OGC Nice,Canada,FR1,8.412,2025-03-24,2195,0.7173,4,2024-08-19,joined within two years,signed for a fee,0,1,CB
+1097139,Ayyoub Bouaddi,C,2007-10-02,17,LOSC Lille,Morocco,FR1,25.236,2025-03-24,1149,0.3755,5,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM
+1112449,Tiago Gabriel,C,2004-12-26,20,US Lecce,Portugal,IT1,0.841,2025-03-25,1075,0.3513,17,2025-01-28,joined within two years,signed for a fee,0,0,CB
+1121298,Juma Bah,C,2006-04-11,19,RC Lens,Sierra Leone,FR1,3.365,2025-03-24,1549,0.4529,8,2025-01-28,joined within two years,arrived without a recorded fee (loan or free transfer),0,0,CB
+1124005,Christantus Uche,C,2003-05-19,22,Getafe CF,Nigeria,ES1,6.73,2025-03-21,2504,0.7322,14,2024-07-01,joined within two years,signed for a fee,0,1,AM/ST
+1146029,Juanma Herzog,C,2004-05-13,21,UD Las Palmas,Spain,ES1,0.841,2024-06-07,1314,0.3842,19,,eligible,came through the club's youth system; entry not on record; in the club by 2021-07-01 (move between the club's own sides),0,0,CB
+1178474,Amadou Koné,C,2005-05-14,20,Stade Reims,Cote d'Ivoire,FR1,1.262,2025-03-24,1301,0.4252,16,2023-07-26,joined within two years,joined the club's youth or reserve side from another club (no recorded fee),0,0,CM
+1190411,Jesús Rodríguez,C,2005-11-21,19,Real Betis Balompié,Spain,ES1,8.412,2025-03-21,1120,0.3275,6,2021-07-01,eligible,joined the club's youth or reserve side from another club (no recorded fee),0,0,AM

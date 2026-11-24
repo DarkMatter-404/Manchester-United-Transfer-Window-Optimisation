@@ -1,0 +1,667 @@
+{
+ "base_params": {
+  "B": 250,
+  "F0": 0,
+  "G": [
+   "GK",
+   "CB",
+   "WB",
+   "CM",
+   "AM",
+   "ST"
+  ],
+  "TB": 6,
+  "TS": 6,
+  "W": 148,
+  "fee_cap": 75,
+  "k": {
+   "AM": 2,
+   "CB": 3,
+   "CM": 2,
+   "GK": 1,
+   "ST": 1,
+   "WB": 2
+  },
+  "l": {
+   "AM": 4,
+   "CB": 5,
+   "CM": 4,
+   "GK": 2,
+   "ST": 2,
+   "WB": 4
+  },
+  "lam": 0.0,
+  "mu": 0.3,
+  "non_hg_cap": 17,
+  "omega": {
+   "AM": 1.0,
+   "CB": 1.0,
+   "CM": 1.0,
+   "GK": 1.0,
+   "ST": 1.0,
+   "WB": 1.0
+  },
+  "senior_cap": 25,
+  "u": {
+   "AM": 6,
+   "CB": 7,
+   "CM": 5,
+   "GK": 3,
+   "ST": 3,
+   "WB": 5
+  }
+ },
+ "base_settings": {
+  "alpha": 1.1,
+  "alpha_english_pl": 1.3,
+  "beta": 0.9,
+  "blocked_clubs": [
+   "Manchester City",
+   "Liverpool FC"
+  ],
+  "candidate_wage_factor": 1.0,
+  "candidates": true,
+  "club_multiplier": {
+   "Arsenal FC": 2.0,
+   "Chelsea FC": 1.5,
+   "Tottenham Hotspur": 1.5
+  },
+  "elite_club_multiplier": 1.5,
+  "elite_clubs": [
+   "Paris Saint-Germain",
+   "FC Barcelona",
+   "Real Madrid",
+   "Bayern Munich"
+  ],
+  "fixed_arrivals": {},
+  "key_player_multiplier": 1.5,
+  "quality": "quality",
+  "two_year_rule": true,
+  "united_wages": "table",
+  "wage_follows_fee": false
+ },
+ "code_commit": "050fc3769fabcab37ab79499a2cfdc1b7f35c7c9",
+ "gurobi": "14.0.0",
+ "input_sha256": {
+  "data/manual/united_wages.csv": "36f37138def942dd45e6d1ec91817b50ca77cc586b4ebacaa1b5161b92c62f6f",
+  "data/manual/united_wages_hand_entered.csv": "205d22d32eb6873ff1a91811c0ac032f784fd4229cc745c75f0b9119d0628d5c",
+  "data/processed/club_seasons.csv": "d1fcf19a8a9fd1ed217dfc2088ffc612321e0263cbaf767ccabcb5fec5b01ef6",
+  "data/processed/player_role_starts.csv": "622119d12be715f319e8a0ec02b4b558d1ae5234a717b91c74a0917cc3837574",
+  "data/processed/player_seasons.csv": "f6dca8cbd6ee01ae6c1fa6833650df2bc7b610a158808d2b9e069859206c92fc",
+  "data/processed/players_at_cutoff.csv": "c691b792824be7285b8c9b213ff2ee39f904935ca35a579f8417d16a828a1c0b",
+  "data/processed/pool_players.csv": "fef38258bde4881f148cf259fcec60216245ea3abef1aa43dfa5024dcac64f96",
+  "data/processed/pool_roles.csv": "dd386b3978daba0675fa92dcffd0df673c5bb3dc5823f9ba1c702a411040cc5d",
+  "data/processed/scores.csv": "9335050980223fdcc7bb5591ea9b8933e0386eef5c4aea1ce202e4f5ce0da355",
+  "docs/free_agents.csv": "2d3494cc3249490ff3bc291763a79eddd70cb96f7df9d4ab9d1bf4dd4275d89f",
+  "docs/joining_date_overrides.csv": "1f4fa84e59830c8e2031bc5cfc1dbe955b12b8dab07eca5afb7897652b5ff96b",
+  "docs/likelihood_notes.csv": "559f4ef010a5df74fa0e4dded3cce75ccc6c96a65f493f5baf393b054c64711d",
+  "docs/roster_reconciliation.csv": "01c60a4bfd5ed55a310ac0fb0eeda67feca8b8c43cd843600efa93225e88207a",
+  "docs/shortlist_checks.csv": "24b7f47876105cd61c5ec0ae82381289e68eba150d56a3553a7c41cad47ca504",
+  "docs/unavailable_candidates.csv": "7f321451b39c6275a6d4baacf116ee3f1fc59aea05326479c3e03265f498c547"
+ },
+ "python": "3.12.11",
+ "runs": [
+  {
+   "bound": 876.47,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "comparison",
+   "objective": 876.47,
+   "run": "no_transfers",
+   "runtime": 0.038,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "base",
+   "objective": 1100.96,
+   "run": "base",
+   "runtime": 0.019,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1050.86,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "budget",
+   "objective": 1050.86,
+   "run": "sensitivity/budget_0",
+   "runtime": 0.075,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1069.26,
+   "checks_passed": "yes",
+   "gap": 9.7e-05,
+   "group": "budget",
+   "objective": 1069.15,
+   "run": "sensitivity/budget_50",
+   "runtime": 0.071,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1086.56,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "budget",
+   "objective": 1086.56,
+   "run": "sensitivity/budget_100",
+   "runtime": 0.036,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1096.02,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "budget",
+   "objective": 1096.02,
+   "run": "sensitivity/budget_150",
+   "runtime": 0.049,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "budget",
+   "objective": 1100.96,
+   "run": "sensitivity/budget_200",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "budget",
+   "objective": 1100.96,
+   "run": "sensitivity/budget_300",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "fee only",
+   "objective": 1100.96,
+   "run": "sensitivity/fee_only_0.9",
+   "runtime": 0.017,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "fee only",
+   "objective": 1100.96,
+   "run": "sensitivity/fee_only_1.5",
+   "runtime": 0.015,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1107.81,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "combined fee and wage",
+   "objective": 1107.81,
+   "run": "sensitivity/combined_fee_and_wage_0.9",
+   "runtime": 0.031,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1093.46,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "combined fee and wage",
+   "objective": 1093.46,
+   "run": "sensitivity/combined_fee_and_wage_1.5",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1103.93,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "candidate wages",
+   "objective": 1103.93,
+   "run": "sensitivity/candidate_wages_minus_10",
+   "runtime": 0.052,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1093.46,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "candidate wages",
+   "objective": 1093.46,
+   "run": "sensitivity/candidate_wages_plus_10",
+   "runtime": 0.021,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "sale receipt",
+   "objective": 1100.96,
+   "run": "sensitivity/sale_receipt_0.7",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "sale receipt",
+   "objective": 1100.96,
+   "run": "sensitivity/sale_receipt_1.0",
+   "runtime": 0.017,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1075.98,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "wage allowance",
+   "objective": 1075.98,
+   "run": "sensitivity/wage_allowance_no_growth",
+   "runtime": 0.028,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1129.48,
+   "checks_passed": "yes",
+   "gap": 3.4e-05,
+   "group": "wage allowance",
+   "objective": 1129.44,
+   "run": "sensitivity/wage_allowance_removed",
+   "runtime": 0.014,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "fee ceiling",
+   "objective": 1100.96,
+   "run": "sensitivity/fee_ceiling_100",
+   "runtime": 0.017,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1041.92,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "arrivals limit",
+   "objective": 1041.92,
+   "run": "sensitivity/arrivals_4",
+   "runtime": 0.025,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1072.25,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "arrivals limit",
+   "objective": 1072.25,
+   "run": "sensitivity/arrivals_5",
+   "runtime": 0.031,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1027.69,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "depth weight",
+   "objective": 1027.69,
+   "run": "sensitivity/depth_weight_0.2",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1174.23,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "depth weight",
+   "objective": 1174.23,
+   "run": "sensitivity/depth_weight_0.4",
+   "runtime": 0.026,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1040.5,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "scoring",
+   "objective": 1040.5,
+   "run": "sensitivity/quality_without_value",
+   "runtime": 0.027,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1205.93,
+   "checks_passed": "yes",
+   "gap": 6.8e-05,
+   "group": "role weights",
+   "objective": 1205.85,
+   "run": "sensitivity/weakness_weights",
+   "runtime": 0.02,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1096.65,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "commitment",
+   "objective": 1096.65,
+   "run": "sensitivity/cunha_fixed",
+   "runtime": 0.013,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1080.48,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "United wage estimate",
+   "objective": 1080.48,
+   "run": "sensitivity/united_wages_by_bands",
+   "runtime": 0.041,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.96,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "club rules",
+   "objective": 1100.96,
+   "run": "sensitivity/rivals_like_other_clubs",
+   "runtime": 0.017,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1112.74,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "two-year rule",
+   "objective": 1112.74,
+   "run": "sensitivity/without_two_year_rule",
+   "runtime": 0.059,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1097.51,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: signing blocked",
+   "objective": 1097.51,
+   "run": "full_plans/without_Ritsu_Doan",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.2,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: signing blocked",
+   "objective": 1100.2,
+   "run": "full_plans/without_Bryan_Mbeumo",
+   "runtime": 0.015,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1095.67,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: signing blocked",
+   "objective": 1095.67,
+   "run": "full_plans/without_Lucas_Chevalier",
+   "runtime": 0.016,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1093.08,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: signing blocked",
+   "objective": 1093.08,
+   "run": "full_plans/without_Jonathan_David",
+   "runtime": 0.039,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1099.33,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: signing blocked",
+   "objective": 1099.33,
+   "run": "full_plans/without_\u00c9derson",
+   "runtime": 0.017,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.47,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: signing blocked",
+   "objective": 1100.47,
+   "run": "full_plans/without_Piero_Hincapi\u00e9",
+   "runtime": 0.017,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1093.82,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: sale blocked",
+   "objective": 1093.82,
+   "run": "full_plans/cannot_sell_Harry_Maguire",
+   "runtime": 0.032,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1080.81,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: sale blocked",
+   "objective": 1080.81,
+   "run": "full_plans/cannot_sell_Casemiro",
+   "runtime": 0.033,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1097.94,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: sale blocked",
+   "objective": 1097.93,
+   "run": "full_plans/cannot_sell_Luke_Shaw",
+   "runtime": 0.027,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1097.51,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1097.51,
+   "run": "direct/WB_Ritsu_Doan_B",
+   "runtime": 0.007,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1097.01,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1097.01,
+   "run": "direct/WB_Ritsu_Doan_C",
+   "runtime": 0.007,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1095.12,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1095.12,
+   "run": "direct/WB_Ritsu_Doan_D",
+   "runtime": 0.007,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.2,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1100.2,
+   "run": "direct/AM_Bryan_Mbeumo_B",
+   "runtime": 0.007,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1096.65,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1096.65,
+   "run": "direct/AM_Bryan_Mbeumo_C",
+   "runtime": 0.007,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1095.76,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1095.76,
+   "run": "direct/AM_Bryan_Mbeumo_D",
+   "runtime": 0.007,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1095.67,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1095.67,
+   "run": "direct/GK_Lucas_Chevalier_B",
+   "runtime": 0.004,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1095.42,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1095.42,
+   "run": "direct/GK_Lucas_Chevalier_C",
+   "runtime": 0.004,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1085.5,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1085.5,
+   "run": "direct/GK_Lucas_Chevalier_D",
+   "runtime": 0.004,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1090.74,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1090.74,
+   "run": "direct/ST_Jonathan_David_B",
+   "runtime": 0.005,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1089.89,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1089.89,
+   "run": "direct/ST_Jonathan_David_C",
+   "runtime": 0.005,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1086.71,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1086.71,
+   "run": "direct/ST_Jonathan_David_D",
+   "runtime": 0.005,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1093.81,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1093.81,
+   "run": "direct/CM_\u00c9derson_B",
+   "runtime": 0.009,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1091.89,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1091.89,
+   "run": "direct/CM_\u00c9derson_C",
+   "runtime": 0.008,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1090.9,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1090.9,
+   "run": "direct/CM_\u00c9derson_D",
+   "runtime": 0.008,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.47,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1100.47,
+   "run": "direct/CB_Piero_Hincapi\u00e9_B",
+   "runtime": 0.005,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1100.13,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1100.13,
+   "run": "direct/CB_Piero_Hincapi\u00e9_C",
+   "runtime": 0.005,
+   "status": "OPTIMAL"
+  },
+  {
+   "bound": 1099.02,
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "direct alternative",
+   "objective": 1099.02,
+   "run": "direct/CB_Piero_Hincapi\u00e9_D",
+   "runtime": 0.005,
+   "status": "OPTIMAL"
+  }
+ ],
+ "uncommitted_code_or_inputs": false,
+ "written": "2026-11-17T11:46:27"
+}

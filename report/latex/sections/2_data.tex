@@ -1,0 +1,48 @@
+% =====================================================================
+\section{Data and assumptions}\label{sec:data}
+% =====================================================================
+
+This section explains which records are used, which players enter the model, how quality is scored and how fees and wages are estimated. Observed records, estimates and team choices are kept apart, because they deserve different levels of trust.
+
+\subsection{Sources and the information cutoff}
+
+The main source is a public data set compiled from Transfermarkt \citep{dcaribou2026,transfermarkt}, with league appearances, starting line-ups and positions, match results, dated market valuations and dated transfers. Every dated table is cut at 31 May 2025, and euro values are converted at 0.8412 pounds per euro, the European Central Bank rate of 30 May 2025 \citep{ecb2025}. Undated profile fields are not treated as historical facts: the club at the cutoff comes from the player's last league appearance, and only the stored main position (a fallback for roles) and citizenship (for one fee rule) are used. United's wages come from a third-party payroll table for 2025/26 \citep{spotrac2025}, on the assumption that contracts were unchanged since May. The data contain no expected-goals, defensive or goalkeeping statistics, no injury records and no contract dates as they stood at the cutoff.
+
+\subsection{Players and roles}
+
+The existing squad has 24 players who were at United on 31 May 2025, reconciled from the February 2025 squad lists \citep{pl2025lists} and the appearance records (Appendix~\ref{app:data}, Table~\ref{tab:existing}). Four players whose contracts expired in June 2025 leave without a fee, four players on loan elsewhere are ignored (no sale, receipt or wage), and an agreed development signing and one player of unknown status are left out.
+
+Candidates are players in the five largest domestic leagues (England, Spain, Italy, Germany and France) who were 26 or younger at the cutoff, played at least 900 league minutes in 2024/25, have a dated valuation and are eligible for at least one role. These filters leave 806 candidates, who form, with the existing players, the \emph{common scoring reference} against which every score is calculated in every run. Fewer can be bought in the base run: 329 satisfy the two-year rule below, 9 of these play for Manchester City or Liverpool, which are assumed not to sell to United, and 24 would cost more than the \pounds 75m fee ceiling, which leaves 296. A move officially announced before the cutoff makes a candidate unavailable; a reported but unannounced agreement does not. The list of unavailable candidates has three names (Table~\ref{tab:handlists}): Mason Greenwood, excluded by a team ruling, and Giorgi Mamardashvili already fail the two-year rule and have no variables, so only Jeremie Frimpong, whose move to Liverpool was announced before the cutoff \citep{bein2025frimpong}, is blocked inside the model. Matheus Cunha, whose agreement United confirmed only on 1 June \citep{irishtimes2025cunha}, is therefore an ordinary candidate, and one sensitivity run fixes the arrival instead.
+
+A player may be allocated to every role in which the player started at least five times over the two seasons; a player with no such role falls back on the stored main position. The \emph{two-year rule} reflects the team's judgement that clubs rarely sell a recent signing: a candidate whose current spell at the selling club, traced through the club's youth and reserve teams, began on or after 1 June 2023 cannot be bought.
+
+\subsection{The quality proxy}
+
+Four components are computed from the 2023/24 and 2024/25 seasons, weighted 0.3 and 0.7: \emph{playing time}, league minutes over 90 times the main club's league matches; \emph{output}, goals plus assists per 90 minutes, or for CB and GK goals conceded per start, where fewer rank higher; \emph{team level}, the club's league points per match; and \emph{market value} at the cutoff. Each component becomes a percentile within the group $R$ of $n$ reference players eligible for the role:
+\begin{equation}\label{eq:percentile}
+\pi_p = 100 \times \frac{\left|\{ j \in R : v_j < v_p \}\right| + \tfrac{1}{2} \left|\{ j \in R : v_j = v_p \}\right|}{n},
+\end{equation}
+where $v_p$ is the component value of player $p$ and the tied count includes $p$. Output is ranked only among players with at least 900 weighted minutes (ten weighted starts for CB and GK), and the others receive the neutral value 50. With $\pi_{pgc}$ the percentile of player $p$ in role $g$ for component $c$ and $\theta_{gc}$ the weight in Table~\ref{tab:weights}, the score is
+\begin{equation}\label{eq:score}
+q_{pg} = \sum_{c} \theta_{gc}\, \pi_{pgc}.
+\end{equation}
+The team chose the weights before the first run with real players. Market value has more weight in defensive roles because the data say little about defending; since value also drives the fee, one run removes it from the score. Appendix~\ref{app:score} gives the formulas and two worked examples.
+
+\begin{table}[!htbp]
+\centering
+\caption{Component weights $\theta_{gc}$ of the quality proxy (team judgement). Each row adds to one.}\label{tab:weights}
+\begin{tabular}{@{}l r r r r@{}}
+\toprule
+Role & Playing time & Output & Team level & Market value \\
+\midrule
+ST, AM & 0.20 & 0.40 & 0.10 & 0.30 \\
+WB & 0.30 & 0.20 & 0.15 & 0.35 \\
+CM & 0.30 & 0.15 & 0.15 & 0.40 \\
+CB, GK & 0.30 & 0.10 & 0.20 & 0.40 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Fees, receipts and wages}
+
+A market value is an estimate, not an agreed price, so the purchase fee is a multiple of value: 1.1 in general, 1.3 for English players at Premier League clubs, 2.0 at Arsenal and 1.5 at Chelsea and Tottenham, 1.5 at four wealthy clubs with no need to sell (Paris Saint-Germain, Barcelona, Real Madrid and Bayern Munich) and 1.5 for regular starters at clubs that finished in their league's top four. Only the highest applicable multiple is used, and Appendix~\ref{app:data} gives the evidence behind the 1.3. A sale receipt is 0.9 times value. The existing players earn \pounds 133.38m a year. Candidates have no observed wages, so each receives a weekly wage band set by the fee under the base rule (Table~\ref{tab:wagebands}); the band stays fixed when a run changes fees, so that fee and wage effects can be studied separately. The free agent Jonathan David \citep{bein2025david} costs no fee but earns \pounds 7.80m a year. Fees and receipts are in millions of pounds (\pounds m) and wages in \pounds m per year. Table~\ref{tab:assumptions} in Appendix~\ref{app:data} summarises the inputs and the runs that test them.

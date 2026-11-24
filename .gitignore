@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Credentials
+.env
+gurobi.lic
+
+# Raw data: download from the data-v1 release (see data/raw/README.md)
+data/raw/transfermarkt/*.csv.gz
+
+# LaTeX build files
+report/latex/main.pdf
+report/latex/*.log
+report/latex/*.blg
+report/latex/*.aux

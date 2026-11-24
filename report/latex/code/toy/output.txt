@@ -1,0 +1,10 @@
+Net allowance 40 | status OPTIMAL
+  objective 234.0 | gap 0.0
+  bought ['D2', 'F1'] | sold ['A', 'C']
+  starters [('B', 'MID'), ('D2', 'DEF'), ('F1', 'FWD')]
+  fees 75.0 | receipts 35.0 | net spend 40.0 | wages 10.0
+Net allowance 30 | status OPTIMAL
+  objective 230.0 | gap 0.0
+  bought ['D2', 'F2', 'M1'] | sold ['A', 'B', 'C']
+  starters [('D2', 'DEF'), ('F2', 'FWD'), ('M1', 'MID')]
+  fees 95.0 | receipts 65.0 | net spend 30.0 | wages 10.0

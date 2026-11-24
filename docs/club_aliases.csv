@@ -1,0 +1,43 @@
+senior_club_id,senior_name,kind,value,reason,checked_on
+5,AC Milan,short name,Milan,"Milan U17, U19, U23 and Milan Futuro are the club's own sides",2026-11-18
+12,AS Roma,short name,AS Rom,AS Rom Youth is the club's youth side,2026-11-18
+13,Atlético de Madrid,short name,Atl. Madrid,"Atl. Madrid B (Atlético Madrileño), C, U17 and U19 are the club's own sides",2026-11-18
+16,Borussia Dortmund,short name,B. Dortmund,"B. Dortmund II, U17 and U19 are the club's own sides",2026-11-18
+18,Borussia Mönchengladbach,short name,M'gladbach,"M'gladbach II, U17, U19 and youth are the club's own sides",2026-11-18
+27,Bayern Munich,short name,FC Bayern,"FC Bayern II, U17 and U19 are the club's own sides",2026-11-18
+27,Bayern Munich,short name,B. München,B. München Yth. is read as Bayern München's youth side,2026-11-18
+39,1.FSV Mainz 05,short name,Mainz 05,"Mainz 05 U17, U19 and youth are the club's own sides",2026-11-18
+39,1.FSV Mainz 05,short name,FSV Mainz 05,FSV Mainz 05 II is the club's reserve side,2026-11-18
+86,SV Werder Bremen,short name,W. Bremen,"W. Bremen II, III, U17, U18, U19 and youth are the club's own sides",2026-11-18
+89,1.FC Union Berlin,short name,U. Berlin,"U. Berlin U17, U19 and youth are the club's own sides",2026-11-18
+131,FC Barcelona,short name,Barça,"Barça Atlètic, U16, U18, U19, youth and academy are the club's own sides",2026-11-18
+150,Real Betis Balompié,short name,Betis,"Betis B (Betis Deportivo), C and U19 are the club's own sides",2026-11-18
+269,Holstein Kiel,short name,Holst. Kiel,"Holst. Kiel II, U17 and U19 are the club's own sides",2026-11-18
+273,Stade Rennais FC,short name,Rennes,"Rennes B, U17 and U19 are the club's own sides",2026-11-18
+276,Hellas Verona,short name,Verona,"Verona U18, U19 and U20 are the club's own sides",2026-11-18
+331,CA Osasuna,short name,Osasuna,Osasuna B and U19 are the club's own sides,2026-11-18
+366,Real Valladolid CF,short name,R. Valladolid,R. Valladolid B is the club's reserve side,2026-11-18
+366,Real Valladolid CF,short name,Valladolid,Valladolid U19 and youth are the club's own sides,2026-11-18
+367,Rayo Vallecano,short name,Rayo,"Rayo B, C, U19 and youth are the club's own sides",2026-11-18
+368,Sevilla FC,short name,Sevilla,Sevilla B (Sevilla Atlético) and U17 are the club's own sides,2026-11-18
+405,Aston Villa,short name,A. Villa,A. Villa Yth. is the club's youth side,2026-11-18
+415,FC Toulouse,short name,Toulouse FC,Toulouse FC U17 is the club's youth side,2026-11-18
+418,Real Madrid,short name,RM,RM Castilla is the club's reserve side,2026-11-18
+418,Real Madrid,short name,R.Madrid,R.Madrid Yth. is the club's youth side,2026-11-18
+472,UD Las Palmas,short name,Las Palmas,"Las Palmas U18, U19 and youth are the club's own sides",2026-11-18
+618,AS Saint-Étienne,short name,St-Étienne,St-Étienne U17 and U19 are the club's own sides,2026-11-18
+621,Athletic Bilbao,side,6688,Bilbao Athletic is the club's reserve side; its name has no youth ending,2026-11-18
+667,RC Strasbourg Alsace,short name,Strasbourg,"Strasbourg U17, U18, U19 and youth are the club's own sides",2026-11-18
+681,Real Sociedad,short name,R. Sociedad,R. Sociedad U19 is the club's youth side,2026-11-18
+703,Nottingham Forest,short name,Nottingham,"Nottingham U18, U21, U23 and youth are read as Forest's own sides",2026-11-18
+714,RCD Espanyol Barcelona,short name,RCD Espanyol,RCD Espanyol B is the club's reserve side,2026-11-18
+738,Le Havre AC,short name,Le Havre,"Le Havre B, U17, U19 and youth are the club's own sides",2026-11-18
+749,FC Empoli,short name,Empoli FC,Empoli FC Youth is the club's youth side,2026-11-18
+873,Crystal Palace,short name,Palace,"Palace U18, U21 and U23 are the club's own sides",2026-11-18
+873,Crystal Palace,short name,C. Palace,C. Palace Yth. is the club's youth side,2026-11-18
+940,Celta de Vigo,short name,Celta Vigo,Celta Vigo B (Celta Fortuna) and youth are the club's own sides,2026-11-18
+940,Celta de Vigo,short name,Celta,Celta U19 is the club's youth side,2026-11-18
+1041,Olympique Lyon,short name,Olymp. Lyon,"Olymp. Lyon B, U17 and U19 are the club's own sides",2026-11-18
+1041,Olympique Lyon,short name,Ol. Lyon,Ol. Lyon Yth. is the club's youth side,2026-11-18
+1050,Villarreal CF,short name,FC Villarreal,FC Villarreal C is the club's third side,2026-11-18
+1421,Stade Reims,short name,Reims,Reims Yth. is the club's youth side,2026-11-18

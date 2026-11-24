@@ -1,0 +1,53 @@
+PASS Real Sociedad B belongs to Real Sociedad, Real Unión B to Real Unión | {3: 1, 4: 2, 11: 10, 13: 12, 21: 20, 31: 30}
+PASS Real Unión is not part of Real Sociedad | 
+PASS Man City U21 and Man Utd U21 go to different clubs | 
+PASS a short name entered by hand links Milan U19 to AC Milan | 
+PASS a side entered by hand links Bilbao Athletic to Athletic Bilbao | 
+PASS no side is linked to two clubs | 
+PASS Milan U19 is not linked to AC Milan by a guess | 
+PASS new signing after an earlier spell | 2024-08-22, signed for a fee
+PASS return from loan keeps the original signing | 2019-07-25, signed for a fee
+PASS loan made permanent dates from the loan | 2023-01-01, arrived without a recorded fee (loan or free transfer)
+PASS internal promotion dates from joining the youth side | 2015-07-01, joined the club's youth or reserve side from another club (no recorded fee)
+PASS signing from another club's youth side is an ordinary signing | 2024-07-13, signed for a fee
+PASS return through another club starts a new spell | 2023-08-01, joined the club's youth or reserve side from another club (no recorded fee)
+PASS same-day moves put in a chain | 
+PASS signing and loan back on one day, then return | 2022-08-16, signed for a fee
+PASS same-day moves that do not chain are reported | 
+PASS undated academy player with a dated record before the threshold is eligible | came through the club's youth system; in the club by 2019-07-01 (move between the club's own sides)
+PASS undated academy player with records only after the threshold is not verified | came through the club's youth system; no dated record in the club before 2023-06-01
+PASS no record at all is not verified | no move into the club on record; no dated record in the club before 2023-06-01
+PASS an unordered same-day history is not verified | same-day moves on 2022-01-01 could not be put in order
+PASS a documented joining date entered by hand is used | entered by hand: club announcement
+PASS Raoul Bellanova: current spell starts 2024-08-22 | signed for a fee
+PASS Raoul Bellanova is not eligible under the two-year rule | joined within two years
+PASS Liam Delap: current spell starts 2024-07-13 | signed for a fee
+PASS Liam Delap is not eligible under the two-year rule | joined within two years
+PASS Jon Aramburu: current spell starts 2023-08-01 | joined the club's youth or reserve side from another club (no recorded fee)
+PASS Jon Aramburu is not eligible under the two-year rule | joined within two years
+PASS Real Unión (12405) is not part of Real Sociedad (681) | 
+PASS Real Sociedad B (9899) is part of Real Sociedad (681) | 
+PASS Man City U21 (9265) is not part of Ipswich Town (677) | 
+PASS Arsenal U21 (9249) is not part of Manchester United (985) | 
+PASS Milan U19 (10958) is part of AC Milan (5) | 
+PASS FC Bayern II (28) is part of Bayern Munich (27) | 
+PASS Pavlovic: promotion from FC Bayern II is not a new signing | joined the club's youth or reserve side from another club (no recorded fee)
+PASS base candidates are all eligible under the two-year rule | 296 candidates
+PASS fee only 0.9: no candidate wage changes | 296 candidates, 0 not available in the base run
+PASS fee only 1.5: no candidate wage changes | 290 candidates, 0 not available in the base run
+PASS club rules removed: no candidate wage changes | 309 candidates, 13 not available in the base run
+PASS elite-club mark-up 2.0: no candidate wage changes | 290 candidates, 0 not available in the base run
+PASS fee only 1.5: fees do rise | 250 candidates cost more
+PASS candidate wages x0.9: fees unchanged, wages scaled | 
+PASS candidate wages x1.1: fees unchanged, wages scaled | 
+PASS combined fee-and-wage 0.9: wages are allowed to follow the fee | 49 wages move
+PASS fee only 0.9: free agent's fee is zero and wage unchanged | 
+PASS fee only 1.5: free agent's fee is zero and wage unchanged | 
+PASS club rules removed: free agent's fee is zero and wage unchanged | 
+PASS elite-club mark-up 2.0: free agent's fee is zero and wage unchanged | 
+PASS free agent worth 90: payable fee is zero, so within the ceiling | fee 0.0
+PASS free agent worth 90: wage still follows the value | wage 13.0
+PASS same player under contract: fee of 99 is above the ceiling | fee 99.0
+PASS every direct alternative starts in the needed role | 24 rows; 
+
+All focused checks passed.

@@ -1,0 +1,270 @@
+% =====================================================================
+% DBA5103 Operations Research: group project report
+% Manchester United, summer 2025 transfer window
+%
+% Compiler: XeLaTeX (in Overleaf: Menu > Settings > Compiler > XeLaTeX).
+% Bibliography: BibTeX with natbib (references.bib).
+% Fonts: TeX Gyre Termes and TeX Gyre Termes Math (Times family),
+%        Inconsolata for code. All are part of TeX Live.
+% A pdfLaTeX branch (newtx Times fonts) is included for convenience but
+% only the XeLaTeX build was compiled and checked. See README.md.
+%
+% The text of each section is in sections/ (one file per section), so
+% group members can edit different sections at the same time.
+% Tables in tables/ are generated from the saved outputs by
+% src/make_latex_tables.py. Edit captions in the section files,
+% not the table files. code/ holds copies of src/.
+% \teamnote{...} prints a red reminder for the team; none is used in the report.
+% =====================================================================
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{newtxtext,newtxmath}
+  \usepackage[varqu]{zi4}
+\else
+  \usepackage{fontspec}
+  \usepackage{unicode-math}
+  \setmainfont{texgyretermes}[
+    Extension=.otf, UprightFont=*-regular, BoldFont=*-bold,
+    ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+  \setmathfont{texgyretermes-math.otf}
+  \setmonofont{Inconsolatazi4-Regular.otf}[BoldFont=Inconsolatazi4-Bold.otf]
+\fi
+
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{etoolbox}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{array,booktabs,longtable}
+\usepackage{pdflscape}
+\usepackage{placeins}
+\usepackage[font=normalsize,labelfont=bf,skip=6pt]{caption}
+\usepackage{xcolor}
+\usepackage{pgfplots}
+\usepgfplotslibrary{groupplots}
+\pgfplotsset{compat=1.18}
+\definecolor{seriesblue}{HTML}{2A78D6}
+\usepackage{listings}
+\usepackage{enumitem}
+\usepackage[round,authoryear]{natbib}
+\usepackage{url}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+
+% ---------------------------------------------------------------------
+% Layout required by the project guideline: 12 pt Times-family text,
+% double-spaced prose, one-inch margins, page numbers on every page.
+% Tables, listings and the reference list are single-spaced.
+% ---------------------------------------------------------------------
+\doublespacing
+% For a quick draft preview only, \onehalfspacing may replace \doublespacing;
+% the submitted version should keep double spacing.
+\pagestyle{plain}
+
+% No word is split across lines with a hyphen
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\lefthyphenmin=62
+\righthyphenmin=62
+\uchyph=0
+\emergencystretch=3em
+
+\setlength{\parindent}{1.5em}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\setlist{nosep,leftmargin=1.5em}
+\renewcommand{\arraystretch}{1.15}
+\setlength{\tabcolsep}{4.5pt}
+
+% Single spacing inside long tables and multi-line equations, which are not prose
+\AtBeginEnvironment{longtable}{\setstretch{1}}
+\AtBeginEnvironment{align}{\setstretch{1}}
+
+% Let tables share pages with text instead of leaving half-empty float pages
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\bottomfraction}{0.7}
+\renewcommand{\textfraction}{0.12}
+\renewcommand{\floatpagefraction}{0.75}
+\setcounter{topnumber}{3}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}
+\setcounter{tocdepth}{2}
+\AtBeginEnvironment{thebibliography}{\setstretch{1}\raggedright}
+
+% Code listings: 12 pt monospaced and single-spaced (a documented presentation choice).
+% A line wider than the page wraps at a space and the continuation starts with an arrow.
+% Line breaks inside listings need a normal break penalty, so the document-wide
+% setting that forbids hyphenation is lifted inside listings only (no hyphen is shown).
+\definecolor{codegray}{gray}{0.40}
+\lstset{
+  language=Python,
+  basicstyle={\fontsize{12}{12.8}\selectfont\ttfamily\hyphenpenalty=0 \exhyphenpenalty=0 },
+  postbreak=\mbox{\textcolor{codegray}{$\hookrightarrow$}\space},
+  extendedchars=true,
+  literate={£}{{\pounds}}1 {Ø}{{\O}}1 {ø}{{\o}}1 {è}{{\`e}}1 {ó}{{\'o}}1
+           {ı}{{\i}}1 {ł}{{\l}}1 {Š}{{\v{S}}}1 {š}{{\v{s}}}1,
+  keywordstyle=\bfseries,
+  commentstyle=\color{codegray},
+  stringstyle=\color{black},
+  numbers=left,
+  numberstyle=\ttfamily\color{codegray},
+  numbersep=6pt,
+  xleftmargin=2.2em,
+  frame=lines,
+  columns=fixed,
+  basewidth=0.5em,
+  keepspaces=true,
+  showstringspaces=false,
+  breaklines=true,
+  breakatwhitespace=true,
+  upquote=true,
+  captionpos=t
+}
+\renewcommand{\lstlistingname}{Listing}
+
+% Long web addresses in the reference list and tables may break between
+% letters or digits, never after a hyphen, and no hyphen is added
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m
+  \do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\0\do\1\do\2\do\3\do\4
+  \do\5\do\6\do\7\do\8\do\9\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M
+  \do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z}
+\makeatother
+\Urlmuskip=0mu plus 1mu
+
+\newcommand{\teamnote}[1]{\textcolor{red}{[Team to complete: #1]}}
+\newcommand{\tablefile}[1]{\input{tables/#1}}
+
+% Appendix tables may float to fill pages, but \FloatBarrier at the end of each
+% appendix keeps every table inside its own appendix.
+\newenvironment{apptable}{\begin{table}[!htbp]\centering}{\end{table}}
+
+\begin{document}
+
+% =====================================================================
+% Title page
+% =====================================================================
+\begin{titlepage}
+\centering
+\setstretch{1.0}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\vspace*{0.2cm}
+
+{\large National University of Singapore\par}
+\vspace{0.12cm}
+Semester I, 2026/2027\par
+
+\vspace{0.55cm}
+
+{\fontsize{18}{23}\selectfont\bfseries
+Planning Manchester United's Summer 2025\\[5pt]
+Transfer Window with a Binary Integer Program\par}
+
+\vspace{0.4cm}
+
+{\large DBA5103 Operations Research and Analytics\par}
+\vspace{0.12cm}
+Group project report\par
+
+\vspace{0.4cm}
+
+\begin{minipage}{\textwidth}
+\centering
+\textbf{Instructor}\par
+\vspace{0.1cm}
+Prof.\ Zhenyu Hu\par
+\vspace{0.15cm}
+\textbf{Teaching Assistants}\par
+\vspace{0.1cm}
+Zhao Yipeng and Zhang Guoyun\par
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\large\bfseries Group 20\par}
+\vspace{0.2cm}
+
+{%
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}c@{}}
+Aman Raj Mohta \\
+Raisha Moira Shaqinna \\
+Swarupa Litke \\
+Ritzke Aisyarah \\
+Tawmo \\
+Sulistyo Agung Wibowo \\
+\end{tabular}\par
+\vspace{0.1cm}
+{\small Student IDs withheld in this public copy.\par}
+}
+
+\vspace{0.3cm}
+22 November 2026\par
+
+\vspace{0.5cm}
+
+\begin{minipage}{0.96\textwidth}
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+{\centering\bfseries Abstract\par}
+\vspace{0.18cm}
+
+This report models Manchester United's summer 2025 transfer window
+as a binary integer linear program. Historical match, transfer and
+valuation records through 31 May 2025, together with disclosed wage
+and profile approximations, inform purchases, sales, squad selection
+and role assignments in a 3-4-2-1 formation. The model maximises a
+role-based quality proxy subject to transfer and wage allowances,
+positional cover, registration rules and transfer limits. Under the
+base assumptions, Gurobi finds an optimal plan with six purchases
+and three sales, net spending of \pounds 198.69m against a
+\pounds 250m allowance, and annual wages of \pounds 147.94m against
+a \pounds 148m allowance. The tested scenarios show greater
+sensitivity to wages and arrival limits than to the transfer
+allowance. Later player outcomes are presented descriptively
+and do not establish the plan's sporting effectiveness.
+\par
+
+\end{minipage}
+
+\end{titlepage}
+
+\setcounter{page}{2}
+\begin{singlespace}
+\tableofcontents
+\end{singlespace}
+\clearpage
+
+\input{sections/1_problem}
+\input{sections/2_data}
+\input{sections/3_model}
+\input{sections/4_method}
+\input{sections/5_results}
+\input{sections/6_evaluation}
+\input{sections/statement_on_assistance}
+
+% =====================================================================
+\begin{singlespace}
+\bibliographystyle{plainnat}
+\bibliography{references}
+\end{singlespace}
+
+% =====================================================================
+\clearpage
+\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
+\appendix
+\input{sections/appendix_A_data}
+\input{sections/appendix_B_results}
+\input{sections/appendix_C_validation}
+\input{sections/appendix_D_code}
+\input{sections/appendix_E_history}
+
+\end{document}

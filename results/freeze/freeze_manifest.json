@@ -1,0 +1,128 @@
+{
+ "base_params": {
+  "B": 250,
+  "F0": 0,
+  "G": [
+   "GK",
+   "CB",
+   "WB",
+   "CM",
+   "AM",
+   "ST"
+  ],
+  "TB": 6,
+  "TS": 6,
+  "W": 148,
+  "fee_cap": 75,
+  "k": {
+   "AM": 2,
+   "CB": 3,
+   "CM": 2,
+   "GK": 1,
+   "ST": 1,
+   "WB": 2
+  },
+  "l": {
+   "AM": 4,
+   "CB": 5,
+   "CM": 4,
+   "GK": 2,
+   "ST": 2,
+   "WB": 4
+  },
+  "lam": 0.0,
+  "mu": 0.3,
+  "non_hg_cap": 17,
+  "omega": {
+   "AM": 1.0,
+   "CB": 1.0,
+   "CM": 1.0,
+   "GK": 1.0,
+   "ST": 1.0,
+   "WB": 1.0
+  },
+  "senior_cap": 25,
+  "u": {
+   "AM": 6,
+   "CB": 7,
+   "CM": 5,
+   "GK": 3,
+   "ST": 3,
+   "WB": 5
+  }
+ },
+ "base_settings": {
+  "alpha": 1.1,
+  "alpha_english_pl": 1.3,
+  "beta": 0.9,
+  "blocked_clubs": [
+   "Manchester City",
+   "Liverpool FC"
+  ],
+  "candidate_wage_factor": 1.0,
+  "candidates": true,
+  "club_multiplier": {
+   "Arsenal FC": 2.0,
+   "Chelsea FC": 1.5,
+   "Tottenham Hotspur": 1.5
+  },
+  "elite_club_multiplier": 1.5,
+  "elite_clubs": [
+   "Paris Saint-Germain",
+   "FC Barcelona",
+   "Real Madrid",
+   "Bayern Munich"
+  ],
+  "fixed_arrivals": {},
+  "key_player_multiplier": 1.5,
+  "quality": "quality",
+  "two_year_rule": true,
+  "united_wages": "table",
+  "wage_follows_fee": false
+ },
+ "candidates_considered": 281,
+ "code_commit": "da33a32a5c1da2139460c750ede53bee1f1bb2c7",
+ "frozen_at": "2026-11-17T11:46:37",
+ "frozen_file_sha256": {
+  "candidates_considered.csv": "01ab31ca6b998772645480ebc20b3f3bf335febd91339213e2a85c837381640d",
+  "direct_alternatives.csv": "54bb27a382c906c0934aca946b537719cfacd1eac0de6abd20a0d0f6ed3933c3",
+  "evaluation_plan.md": "f57fc4a173dc70b571632511907d97cf00092857c568be426b9bafea66f2a777",
+  "full_plan_alternatives.csv": "ecf2262f13f1b6270088d76cb81b88339aa857e78a4da036dc7852a2ad6e1506",
+  "preferred_plan.csv": "ebc6095ea43032f01a5352074d555b6469741e13c789349b9673b6fde91db6ce",
+  "preferred_plan_settings.json": "c8b56e4e9536afaed6c604796a2fefc46b976495173d9101a1401fee1e30ccde",
+  "run_manifest.json": "10b3bdebe6f6b61e687d18c3d60c52d83b8031575de18a9226dd5fbd77ada86a",
+  "runs_summary.csv": "367ba49589a4da7398404d0fa2efebeff3752f0bb9f14304ddce196e923277ac",
+  "shortlist_review.csv": "9e77a7925015a73486941cb470c6ead91eb5a0a1b4e20fc5a59e28990fadc703"
+ },
+ "input_sha256": {
+  "data/manual/united_wages.csv": "36f37138def942dd45e6d1ec91817b50ca77cc586b4ebacaa1b5161b92c62f6f",
+  "data/manual/united_wages_hand_entered.csv": "205d22d32eb6873ff1a91811c0ac032f784fd4229cc745c75f0b9119d0628d5c",
+  "data/processed/club_seasons.csv": "d1fcf19a8a9fd1ed217dfc2088ffc612321e0263cbaf767ccabcb5fec5b01ef6",
+  "data/processed/player_role_starts.csv": "622119d12be715f319e8a0ec02b4b558d1ae5234a717b91c74a0917cc3837574",
+  "data/processed/player_seasons.csv": "f6dca8cbd6ee01ae6c1fa6833650df2bc7b610a158808d2b9e069859206c92fc",
+  "data/processed/players_at_cutoff.csv": "c691b792824be7285b8c9b213ff2ee39f904935ca35a579f8417d16a828a1c0b",
+  "data/processed/pool_players.csv": "fef38258bde4881f148cf259fcec60216245ea3abef1aa43dfa5024dcac64f96",
+  "data/processed/pool_roles.csv": "dd386b3978daba0675fa92dcffd0df673c5bb3dc5823f9ba1c702a411040cc5d",
+  "data/processed/scores.csv": "9335050980223fdcc7bb5591ea9b8933e0386eef5c4aea1ce202e4f5ce0da355",
+  "docs/free_agents.csv": "2d3494cc3249490ff3bc291763a79eddd70cb96f7df9d4ab9d1bf4dd4275d89f",
+  "docs/joining_date_overrides.csv": "1f4fa84e59830c8e2031bc5cfc1dbe955b12b8dab07eca5afb7897652b5ff96b",
+  "docs/likelihood_notes.csv": "559f4ef010a5df74fa0e4dded3cce75ccc6c96a65f493f5baf393b054c64711d",
+  "docs/roster_reconciliation.csv": "01c60a4bfd5ed55a310ac0fb0eeda67feca8b8c43cd843600efa93225e88207a",
+  "docs/shortlist_checks.csv": "24b7f47876105cd61c5ec0ae82381289e68eba150d56a3553a7c41cad47ca504",
+  "docs/unavailable_candidates.csv": "7f321451b39c6275a6d4baacf116ee3f1fc59aea05326479c3e03265f498c547"
+ },
+ "note": "Retrospective study. The freeze documents the procedure; it is not a claim of a plan made in 2025.",
+ "sales": [
+  "Harry Maguire",
+  "Casemiro",
+  "Luke Shaw"
+ ],
+ "signings": [
+  "Ritsu Doan (WB)",
+  "Bryan Mbeumo (AM)",
+  "Lucas Chevalier (GK)",
+  "Jonathan David (ST)",
+  "\u00c9derson (CM)",
+  "Piero Hincapi\u00e9 (CB)"
+ ]
+}

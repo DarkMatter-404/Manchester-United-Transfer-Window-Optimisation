@@ -1,0 +1,25 @@
+need,plan,player,club,age,role,starts,quality_in_role,fee_gbp_m,wage_gbp_m,likelihood,reason,objective,change_from_base
+WB,A,Ritsu Doan,SC Freiburg,26,WB,yes,81.2,20.4,5.72,possible,regular player at a club outside the top four,1100.96,0.0
+WB,B,Rayan Aït-Nouri,Wolverhampton Wanderers,23,WB,yes,77.8,32.4,5.72,likely,club finished 15th or lower,1097.51,-3.45
+WB,C,Bafodé Diakité,LOSC Lille,24,WB,yes,77.2,23.1,5.72,possible,regular player at a club outside the top four,1097.01,-3.95
+WB,D,Weston McKennie,Juventus FC,26,WB,yes,75.4,22.2,5.72,possible,at a top-four club but played under 70% of its league minutes,1095.12,-5.84
+AM,A,Bryan Mbeumo,Brentford FC,25,AM,yes,88.3,50.9,10.4,possible,regular player at a club outside the top four,1100.96,0.0
+AM,B,Rafael Leão,AC Milan,25,AM,yes,87.6,69.4,10.4,possible,regular player at a club outside the top four,1100.2,-0.76
+AM,C,Matheus Cunha,Wolverhampton Wanderers,26,AM,yes,84.0,55.5,10.4,likely,club finished 15th or lower,1096.65,-4.31
+AM,D,Álex Baena,Villarreal CF,23,AM,yes,83.1,46.3,7.8,possible,regular player at a club outside the top four,1095.76,-5.2
+GK,A,Lucas Chevalier,LOSC Lille,23,GK,yes,88.3,27.8,5.72,possible,regular player at a club outside the top four,1100.96,0.0
+GK,B,Marcin Bulka,OGC Nice,25,GK,yes,83.0,25.2,5.72,doubtful,regular starter at a top-four club,1095.67,-5.29
+GK,C,Marco Carnesecchi,Atalanta BC,24,GK,yes,82.7,31.5,5.72,doubtful,regular starter at a top-four club,1095.42,-5.54
+GK,D,Joan García,RCD Espanyol Barcelona,24,GK,yes,72.8,18.5,3.9,doubtful,reported on 26 May 2025 to have agreed terms in principle with Barcelona; not announced by the cutoff,1085.5,-15.46
+ST,A,Jonathan David,LOSC Lille,25,ST,yes,86.1,0.0,7.8,likely,leaving the club without a fee,1100.96,0.0
+ST,B,Jonathan Burkardt,1.FSV Mainz 05,24,ST,yes,75.8,32.4,5.72,possible,regular player at a club outside the top four,1090.74,-10.22
+ST,C,Dušan Vlahović,Juventus FC,25,ST,yes,75.0,41.6,7.8,possible,at a top-four club but played under 70% of its league minutes,1089.89,-11.07
+ST,D,Evann Guessand,OGC Nice,23,ST,yes,71.8,31.5,5.72,doubtful,regular starter at a top-four club,1086.71,-14.25
+CM,A,Éderson,Atalanta BC,25,CM,yes,86.5,63.1,10.4,doubtful,regular starter at a top-four club,1100.96,0.0
+CM,B,Martín Zubimendi,Real Sociedad,26,CM,yes,79.4,55.5,10.4,doubtful,reported on 28 May 2025 to have agreed a move to Arsenal; not announced by the cutoff,1093.81,-7.15
+CM,C,Enzo Millot,VfB Stuttgart,22,CM,yes,77.4,32.4,5.72,possible,regular player at a club outside the top four,1091.89,-9.07
+CM,D,Pablo Barrios,Atlético de Madrid,21,CM,yes,76.5,46.3,7.8,possible,at a top-four club but played under 70% of its league minutes,1090.9,-10.06
+CB,A,Piero Hincapié,Bayer 04 Leverkusen,23,CB,yes,87.6,63.1,10.4,doubtful,regular starter at a top-four club,1100.96,0.0
+CB,B,Levi Colwill,Chelsea FC,22,CB,yes,87.2,69.4,10.4,doubtful,plays for a direct rival,1100.47,-0.49
+CB,C,Dani Vivian,Athletic Bilbao,25,CB,yes,86.8,50.5,10.4,doubtful,regular starter at a top-four club,1100.13,-0.83
+CB,D,Edmond Tapsoba,Bayer 04 Leverkusen,26,CB,yes,85.7,50.5,10.4,doubtful,regular starter at a top-four club,1099.02,-1.94

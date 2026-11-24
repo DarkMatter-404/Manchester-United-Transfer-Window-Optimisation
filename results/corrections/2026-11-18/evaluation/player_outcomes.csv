@@ -1,0 +1,33 @@
+group,need,plan,player_id,player,clubs_played_for,main_club,main_club_league,main_club_league_minutes,main_club_league_matches,share_of_main_club_league_minutes,main_club_starts,main_club_goals,main_club_assists,main_club_goals_assists_per_90,main_club_team_conceded_per_start,season_league_minutes_all_clubs,season_goals_all_clubs,season_assists_all_clubs,value_at_cutoff_gbp_m,value_latest_gbp_m,value_date,value_change_pct,note
+base signing,WB,A,358504,Ritsu Doan,1,Eintracht Frankfurt,L1,2379,34,0.7775,28,5,5,0.38,2.07,2379,5,5,18.5,14.3,2026-05-27,-22.7,
+direct alternative,WB,B,578391,Rayan Aït-Nouri,1,Manchester City,GB1,976,38,0.2854,12,0,2,0.18,0.92,976,0,2,29.4,33.6,2026-06-03,14.3,
+direct alternative,WB,C,463605,Bafodé Diakité,1,AFC Bournemouth,GB1,1275,38,0.3728,15,0,0,0.0,1.87,1275,0,0,21.0,21.0,2026-06-03,0.0,
+direct alternative,WB,D,332697,Weston McKennie,1,Juventus FC,IT1,2841,38,0.8307,32,5,6,0.35,0.94,2841,5,6,20.2,25.2,2026-05-29,25.0,
+base signing,AM,A,413039,Bryan Mbeumo,1,Manchester United,GB1,2625,38,0.7675,31,11,3,0.48,1.35,2625,11,3,46.3,63.1,2026-06-03,36.4,
+direct alternative,AM,B,357164,Rafael Leão,1,AC Milan,IT1,1861,38,0.5442,23,9,3,0.58,0.96,1861,9,3,63.1,42.1,2026-05-29,-33.3,
+direct alternative,AM,C,517894,Matheus Cunha,1,Manchester United,GB1,2503,38,0.7319,29,10,4,0.5,1.41,2503,10,4,50.5,63.1,2026-06-03,25.0,
+direct alternative,AM,D,548111,Álex Baena,1,Atlético de Madrid,ES1,1572,38,0.4596,21,2,3,0.29,1.29,1572,2,3,42.1,33.6,2026-06-05,-20.0,
+base signing,GK,A,463600,Lucas Chevalier,1,Paris Saint-Germain,FR1,1530,34,0.5,17,0,0,0.0,0.76,1530,0,0,25.2,21.0,2026-06-01,-16.7,
+direct alternative,GK,B,465955,Marcin Bulka,,,,,,,,,,,,,,,16.8,10.1,2026-06-04,-40.0,no league minutes in the covered leagues in 2025/26
+direct alternative,GK,C,459763,Marco Carnesecchi,1,Atalanta BC,IT1,3330,38,0.9737,37,0,0,0.0,0.95,3330,0,0,21.0,25.2,2026-05-29,20.0,
+direct alternative,GK,D,561613,Joan García,1,FC Barcelona,ES1,2700,38,0.7895,30,0,0,0.0,0.7,2700,0,0,16.8,37.9,2026-06-05,125.0,
+base signing,ST,A,533738,Jonathan David,1,Juventus FC,IT1,1784,38,0.5216,20,6,4,0.5,0.75,1784,6,4,37.9,25.2,2026-05-29,-33.3,
+direct alternative,ST,B,333647,Jonathan Burkardt,1,Eintracht Frankfurt,L1,1340,34,0.4379,15,13,1,0.94,1.73,1340,13,1,29.4,25.2,2026-05-27,-14.3,
+direct alternative,ST,C,357498,Dušan Vlahović,1,Juventus FC,IT1,970,38,0.2836,11,7,1,0.74,1.18,970,7,1,37.9,29.4,2026-05-29,-22.2,
+direct alternative,ST,D,500689,Evann Guessand,2,Aston Villa,GB1,588,38,0.1719,6,0,0,0.0,1.83,916,1,1,21.0,21.0,2026-06-03,0.0,played for 2 clubs; main-club columns use that club only
+base signing,CM,A,607854,Éderson,1,Atalanta BC,IT1,2235,38,0.6535,26,2,1,0.12,0.81,2235,2,1,42.1,37.9,2026-05-29,-10.0,
+direct alternative,CM,B,423440,Martín Zubimendi,1,Arsenal FC,GB1,3002,38,0.8778,34,5,1,0.18,0.79,3002,5,1,50.5,63.1,2026-06-03,25.0,
+direct alternative,CM,C,569366,Enzo Millot,,,,,,,,,,,,,,,29.4,21.0,2026-06-04,-28.6,no league minutes in the covered leagues in 2025/26
+direct alternative,CM,D,775605,Pablo Barrios,1,Atlético de Madrid,ES1,1666,38,0.4871,20,1,1,0.11,0.85,1666,1,1,42.1,46.3,2026-06-05,10.0,
+base signing,CB,A,659813,Piero Hincapié,2,Arsenal FC,GB1,1792,38,0.524,20,1,2,0.15,1.0,1882,1,2,42.1,42.1,2026-06-03,0.0,played for 2 clubs; main-club columns use that club only
+direct alternative,CB,B,614258,Levi Colwill,1,Chelsea FC,GB1,225,38,0.0658,2,0,0,0.0,1.5,225,0,0,46.3,42.1,2026-06-03,-9.1,
+direct alternative,CB,C,524000,Dani Vivian,1,Athletic Bilbao,ES1,2563,38,0.7494,28,1,0,0.04,1.68,2563,1,0,33.6,16.8,2026-06-05,-50.0,
+direct alternative,CB,D,564545,Edmond Tapsoba,1,Bayer 04 Leverkusen,L1,2576,34,0.8418,29,5,3,0.28,1.31,2576,5,3,33.6,29.4,2026-05-27,-12.5,
+sold in the base plan,,,177907,Harry Maguire,1,Manchester United,GB1,1655,38,0.4839,19,1,2,0.16,1.21,1655,1,2,10.9,6.7,2026-06-03,-38.5,
+sold in the base plan,,,16306,Casemiro,1,Manchester United,GB1,2589,38,0.757,33,9,2,0.38,1.27,2589,9,2,8.4,5.0,2026-06-03,-40.0,
+sold in the base plan,,,183288,Luke Shaw,1,Manchester United,GB1,3233,38,0.9453,38,1,1,0.06,1.32,3233,1,1,10.1,6.7,2026-06-03,-33.3,
+actual United signing,,,517894,Matheus Cunha,1,Manchester United,GB1,2503,38,0.7319,29,10,4,0.5,1.41,2503,10,4,50.5,63.1,2026-06-03,25.0,
+actual United signing,,,1283997,Diego León,,,,,,,,,,,,,,,3.4,3.4,2026-06-03,0.0,no league minutes in the covered leagues in 2025/26
+actual United signing,,,413039,Bryan Mbeumo,1,Manchester United,GB1,2625,38,0.7675,31,11,3,0.48,1.35,2625,11,3,46.3,63.1,2026-06-03,36.4,
+actual United signing,,,627442,Benjamin Sesko,1,Manchester United,GB1,1637,38,0.4787,17,11,1,0.66,1.47,1637,11,1,54.7,63.1,2026-06-03,15.4,
+actual United signing,,,503883,Senne Lammens,2,Manchester United,GB1,2880,38,0.8421,32,0,0,0.0,1.22,3240,0,0,6.3,29.4,2026-06-03,366.7,played for 2 clubs; main-club columns use that club only

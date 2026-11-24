@@ -1,0 +1,15 @@
+% =====================================================================
+\section{Solution method and validation}\label{sec:method}
+% =====================================================================
+
+\subsection{Implementation and solver}
+
+The model is written in Python 3.12 and solved with Gurobi 14.0 under an academic licence \citep{gurobi2026}. One function builds and solves every run, so the small test cases and the real runs share the same constraints (Appendix~\ref{app:code}). Gurobi solves integer linear programs by branch and bound on linear-programming relaxations: a relaxation, in which variables may take fractional values, gives an upper bound on the best objective, and a whole-number plan is reported as optimal when the relative gap between this bound and the plan is within the default tolerance of $10^{-4}$.
+
+The base run has 1,502 binary variables and 1,096 linear constraints. Gurobi reported status OPTIMAL with a gap of zero after 0.019 seconds. All 56 runs of the corrected set (the comparison and base runs, 27 sensitivity runs, 9 alternative full plans and 18 direct alternatives) ended with status OPTIMAL and no time limit; four have small positive gaps of at most $9.1 \times 10^{-5}$, within the tolerance. The additional runs of Section~\ref{sec:results}, a repeat of the base run followed by 13 changed scenarios and 7 plans with a protected wage limit, also ended OPTIMAL.
+
+The linear relaxation of the base model has an optimal value of 1,101.04, only 0.08 points above the integer optimum of 1,100.96. Only three of the 1,502 variables are fractional, and all describe one player: Luke Shaw is 99.2\% sold, which uses the last of the wage room. Gurobi solved the integer model at the root node without branching. With the base plan's sales and purchases fixed, the relaxation returns whole numbers and the same objective, as the network-flow structure of Section~\ref{sec:structure} predicts. The dual prices of the relaxation are compared with the integer results in Section~\ref{sec:limits}.
+
+\subsection{Validation}
+
+Small invented cases were compared with optima worked out by hand and with a search over every possible plan, focused checks tested the data rules, a separate function recomputed every limit and the objective of every run from the chosen players, the inputs were built twice with identical results, and the evaluation was recomputed from the raw records. All checks passed (Table~\ref{tab:validation}). With the solver status, they show that each plan is optimal for its inputs, not that the estimated fees, wages or weights are accurate.

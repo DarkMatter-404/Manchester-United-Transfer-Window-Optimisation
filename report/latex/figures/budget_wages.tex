@@ -1,0 +1,37 @@
+% Figure: objective of the optimal plan against the net transfer allowance (a)
+% and against the annual wage allowance (b). Each point is a separate run.
+% Data: tables/fig_budget.dat and tables/fig_wages.dat, written by
+% src/make_latex_tables.py from the saved run summaries. Do not type values here.
+\begin{figure}[!htbp]
+\centering
+\begin{tikzpicture}
+\begin{groupplot}[
+  group style={group size=2 by 1, horizontal sep=0.55cm, y descriptions at=edge left},
+  width=0.515\textwidth, height=6.2cm,
+  ymin=1040, ymax=1140, ytick={1040,1060,...,1140},
+  yticklabel style={/pgf/number format/1000 sep={\mathord{,}}},
+  xticklabel style={/pgf/number format/1000 sep={}},
+  tick label style={font=\small}, label style={font=\small}, title style={font=\small, yshift=-2pt},
+  axis lines*=left, ymajorgrids, grid style={black!12},
+  tick align=outside, tick style={black!60}, axis line style={black!60},
+  clip=false,
+]
+\nextgroupplot[title={(a) Net transfer allowance},
+  xlabel={Net transfer allowance (\pounds m)}, ylabel={Objective (proxy points)},
+  xmin=-15, xmax=315, xtick={0,50,...,300}]
+\addplot[seriesblue, line width=1pt, mark=*, mark size=1.9pt] table[x=allowance, y=objective] {tables/fig_budget.dat};
+\addplot[only marks, mark=o, mark size=4.2pt, black, line width=0.7pt]
+  table[x=allowance, y=objective, restrict x to domain=249:251] {tables/fig_budget.dat};
+\node[font=\footnotesize, anchor=north] at (axis cs:250,1097) {base};
+\node[font=\footnotesize, anchor=south, align=center, text=black!75] at (axis cs:250,1105) {plan unchanged\\from \pounds 200m};
+\nextgroupplot[title={(b) Annual wage allowance},
+  xlabel={Annual wage allowance (\pounds m)},
+  xmin=128, xmax=188, xtick={130,140,...,180}]
+\addplot[seriesblue, line width=1pt, mark=*, mark size=1.9pt] table[x=allowance, y=objective] {tables/fig_wages.dat};
+\addplot[only marks, mark=o, mark size=4.2pt, black, line width=0.7pt]
+  table[x=allowance, y=objective, restrict x to domain=147.9:148.1] {tables/fig_wages.dat};
+\node[font=\footnotesize, anchor=north west] at (axis cs:148.5,1098) {base};
+\end{groupplot}
+\end{tikzpicture}
+\caption{Objective of the optimal plan at each tested allowance, with every other input as in the base case. Each point is a separate run of the model; the lines only join neighbouring runs, and plans between the tested levels were not computed. The highest wage allowance, \pounds 183m, gives the same plan as removing the wage limit. Without transfers the objective is 876.47, below the range shown. Values are listed in Tables~\ref{tab:allruns} and~\ref{tab:extraruns}.}\label{fig:limits}
+\end{figure}

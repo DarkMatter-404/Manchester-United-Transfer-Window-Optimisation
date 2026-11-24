@@ -1,0 +1,9 @@
+player_id,name,status,fee,receipt,wage,homegrown,senior_reg,availability,development
+A,A,E,,20,2,1,1,1,0
+B,B,E,,30,3,0,1,1,0
+C,C,E,,15,2,1,1,1,0
+D1,D1,C,45,,4,0,1,1,0
+D2,D2,C,15,,2,0,1,1,0
+M1,M1,C,55,,5,0,1,1,0
+F1,F1,C,60,,5,0,1,1,0
+F2,F2,C,25,,3,0,0,1,0

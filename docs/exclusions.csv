@@ -1,0 +1,12 @@
+step,filter,players
+1,with league minutes in the 14 covered leagues,6761
+2,already in the United roster file,33
+3,outside the candidate leagues,4090
+4,older than the age limit or age unknown,1137
+5,below the minutes threshold,689
+6,no valuation before the cutoff,6
+7,no eligible role,0
+8,candidates kept,806
+9,of these: current spell began within two years of the cutoff,470
+10,of these: start of current spell not verified,7
+11,of these: eligible under the two-year rule,329

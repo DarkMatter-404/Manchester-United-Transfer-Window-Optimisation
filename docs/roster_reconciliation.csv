@@ -1,0 +1,38 @@
+player_id,name,date_of_birth,feb_2025_list,homegrown_mark,senior_place_2025_26,status_at_cutoff,model_set,evidence,evidence_date
+240306,Bruno Fernandes,1994-09-08,senior,0,1,At the club,E,Senior list of 7 Feb 2025 (S02); United appearances to 25 May 2025 (S01),2025-05-25
+234509,André Onana,1996-04-02,senior,0,1,At the club,E,Senior list (S02); United appearances to 21 May 2025 (S01),2025-05-21
+340456,Noussair Mazraoui,1997-11-14,senior,0,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+357147,Diogo Dalot,1999-03-18,senior,0,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+326031,Matthijs de Ligt,1999-08-12,senior,0,1,At the club,E,Senior list (S02); United appearances to 4 May 2025 (S01),2025-05-04
+177907,Harry Maguire,1993-03-05,senior,1,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+536835,Amad Diallo,2002-07-11,senior,1,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+476701,Manuel Ugarte,2001-04-11,senior,0,1,At the club,E,Senior list (S02); United appearances to 16 May 2025 (S01),2025-05-16
+16306,Casemiro,1992-02-23,senior,0,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+480762,Lisandro Martínez,1998-01-18,senior,0,1,At the club,E,Senior list (S02); last United appearance 2 Feb 2025 (S01). Reason for the absence since then is not in the data,2025-02-07
+435648,Joshua Zirkzee,2001-05-22,senior,0,1,At the club,E,Senior list (S02); United appearances to 21 May 2025 (S01),2025-05-21
+346483,Mason Mount,1999-01-10,senior,1,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+336077,Altay Bayındır,1998-04-14,senior,0,1,At the club,E,Senior list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+183288,Luke Shaw,1995-07-12,senior,1,1,At the club,E,Senior list (S02); United appearances to 21 May 2025 (S01),2025-05-21
+610442,Rasmus Højlund,2003-02-04,under21,,1,At the club,E,Under-21 list (S02); United appearances to 25 May 2025 (S01). Born before 1 Jan 2004 so a senior place is needed in 2025/26. Not home-grown: joined from Atalanta in 2023,2025-05-25
+811779,Alejandro Garnacho,2004-07-01,under21,,0,At the club,E,Under-21 list (S02); United appearances to 21 May 2025 (S01),2025-05-21
+820374,Kobbie Mainoo,2005-04-19,under21,,0,At the club,E,Under-21 list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+923831,Leny Yoro,2005-11-13,under21,,0,At the club,E,Under-21 list (S02); United appearances to 21 May 2025 (S01),2025-05-21
+926952,Patrick Dorgu,2004-10-26,under21,,0,At the club,E,Under-21 list (S02); joined from Lecce on 2 Feb 2025 and appeared for United to 25 May 2025 (S01),2025-05-25
+654253,Toby Collyer,2004-01-03,under21,,0,At the club,E,Under-21 list (S02); United appearances to 16 Mar 2025 (S01),2025-03-16
+1011738,Harry Amass,2007-03-16,under21,,0,At the club,E,Under-21 list (S02); United appearances to 11 May 2025 (S01),2025-05-11
+1078163,Ayden Heaven,2006-09-22,under21,,0,At the club,E,Under-21 list (S02); joined from Arsenal on 1 Feb 2025 and appeared for United to 25 May 2025 (S01),2025-05-25
+1042886,Chido Obi,2007-11-29,under21,,0,At the club,E,Under-21 list (S02); United appearances to 25 May 2025 (S01),2025-05-25
+911424,Tyler Fredricson,2005-02-23,under21,,0,At the club,E,Under-21 list (S02); United appearances to 4 May 2025 (S01),2025-05-04
+69633,Christian Eriksen,1992-02-14,senior,0,1,Leaving at contract expiry,D,Club statement confirming departure at the end of the season (S09),2025-05-25
+184573,Victor Lindelöf,1994-07-17,senior,0,1,Leaving at contract expiry,D,Club statement confirming departure at the end of the season (S09),2025-05-25
+42412,Jonny Evans,1988-01-03,senior,1,1,Leaving at contract expiry,D,Club statement confirming departure at the end of the season (S09),2025-05-25
+34130,Tom Heaton,1986-04-15,senior,1,1,Contract ending June 2025,D,One-year extension reported 2 Jul 2024 (S13). A further deal was announced only after the cutoff and no renewal is assumed,2024-07-02
+620362,Dermot Mee,2002-11-20,senior,1,1,Not established,to verify,Senior list (S02); no first-team appearance in the data; contract status not found,2025-02-07
+258923,Marcus Rashford,1997-10-31,not listed,,1,On loan at Aston Villa,excluded loan,Loan announced by Aston Villa (S10); transfer row dated 2 Feb 2025 and Villa appearances to 22 Apr 2025 (S01),2025-02-02
+602105,Antony,2000-02-24,not listed,,1,On loan at Real Betis,excluded loan,Transfer row dated 25 Jan 2025 with no fee and Betis appearances to 23 May 2025 (S01). Club announcement still to be cited,2025-01-25
+339340,Tyrell Malacia,1999-08-17,not listed,,1,On loan at PSV,excluded loan,Transfer row dated 4 Feb 2025 with no fee and PSV appearances to 14 May 2025 (S01). Club announcement still to be cited,2025-02-04
+401173,Jadon Sancho,2000-03-25,not listed,,1,On loan at Chelsea,excluded loan,Transfer row dated 30 Aug 2024 with no fee and Chelsea appearances to 25 May 2025 (S01). Club announcement and loan terms still to be cited,2024-08-30
+315969,Scott McTominay,1996-12-08,not listed,,1,Sold to Napoli,left before cutoff,Transfer row dated 30 Aug 2024 with a fee (S01),2024-08-30
+676318,Facundo Pellistri,2001-12-20,not listed,,1,Sold to Panathinaikos,left before cutoff,Transfer row dated 21 Aug 2024 with a fee (S01),2024-08-21
+1283997,Diego León,2007-04-03,not at the club,,0,Arrival agreed for summer 2025,excluded development signing,Team ruling of 16 Nov 2026: left out of the model as a development signing outside the first-team pool; no senior match in the covered leagues before the cutoff. Agreement reported 13 Dec 2024 (S11),2024-12-13
+517894,Matheus Cunha,1999-05-27,not at the club,,1,Release clause reported met 27 May 2025; club statement 1 Jun 2025,C,"Team ruling of 16 Nov 2026: not treated as committed at the cutoff, so an ordinary candidate. Reports of 27-28 May 2025 and the club statement of 1 Jun 2025 (S12); reported fee GBP 62.5m, used only in a sensitivity run that fixes this arrival",2025-05-27

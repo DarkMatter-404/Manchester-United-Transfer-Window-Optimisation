@@ -1,0 +1,696 @@
+player_id,name,club_name,league,age_at_cutoff,minutes_2024,reason
+251309,Dennis Geiger,TSG 1899 Hoffenheim,L1,26,729,below the minutes threshold
+293281,Jacob Bruun Larsen,VfB Stuttgart,L1,26,800,below the minutes threshold
+314288,Lukas Nmecha,VfL Wolfsburg,L1,26,455,below the minutes threshold
+315862,Filippo Melegoni,Genoa CFC,IT1,26,87,below the minutes threshold
+315867,Gianluca Scamacca,Atalanta BC,IT1,26,5,below the minutes threshold
+318470,Matvey Safonov,Paris Saint-Germain,FR1,26,878,below the minutes threshold
+324819,Maxime Bernauer,AS Saint-Étienne,FR1,26,762,below the minutes threshold
+328770,Kjetil Haug,FC Toulouse,FR1,26,497,below the minutes threshold
+331496,Valery Fernández,RCD Mallorca,ES1,25,295,below the minutes threshold
+331560,Takehiro Tomiyasu,Arsenal FC,GB1,26,6,below the minutes threshold
+334213,Lukas Daschner,VfL Bochum,L1,26,406,below the minutes threshold
+334999,Finn Becker,TSG 1899 Hoffenheim,L1,24,666,below the minutes threshold
+337036,Florent Muslija,SC Freiburg,L1,26,160,below the minutes threshold
+338629,Sebastiaan Bornauw,VfL Wolfsburg,L1,26,784,below the minutes threshold
+340177,Thibault De Smet,Stade Reims,FR1,26,190,below the minutes threshold
+340325,Reiss Nelson,Fulham FC,GB1,25,488,below the minutes threshold
+342039,Yannik Keitel,VfB Stuttgart,L1,25,265,below the minutes threshold
+342877,Enzo Ebosse,Udinese Calcio,IT1,26,90,below the minutes threshold
+342967,Niklas Beste,SC Freiburg,L1,26,695,below the minutes threshold
+343337,Fiete Arp,Holstein Kiel,L1,25,698,below the minutes threshold
+344598,Dan-Axel Zagadou,VfB Stuttgart,L1,25,27,below the minutes threshold
+346890,Noah Okafor,SSC Napoli,IT1,25,448,below the minutes threshold
+353826,Robert Gumny,FC Augsburg,L1,26,268,below the minutes threshold
+353892,Hiroki Ito,Bayern Munich,L1,26,249,below the minutes threshold
+354909,Giorgio Altare,Venezia FC,IT1,26,751,below the minutes threshold
+357658,Mark Travers,AFC Bournemouth,GB1,26,450,below the minutes threshold
+357770,Dinko Horkas,UD Las Palmas,ES1,26,1083,no valuation before the cutoff
+358032,Cyril Ngonge,SSC Napoli,IT1,25,202,below the minutes threshold
+361093,Sven Botman,Newcastle United,GB1,25,415,below the minutes threshold
+361575,Tymoteusz Puchacz,Holstein Kiel,L1,26,395,below the minutes threshold
+364133,Pietro Pellegri,FC Empoli,IT1,24,414,below the minutes threshold
+364245,Jordan Teze,AS Monaco,FR1,25,606,below the minutes threshold
+365172,Patson Daka,Leicester City,GB1,26,721,below the minutes threshold
+367466,Thierry Correia,Valencia CF,ES1,26,771,below the minutes threshold
+367992,Jesper Karlsson,US Lecce,IT1,26,791,below the minutes threshold
+369316,Ferdi Kadıoğlu,Brighton & Hove Albion,GB1,25,491,below the minutes threshold
+371816,Dimitry Bertaud,Montpellier HSC,FR1,26,360,below the minutes threshold
+372720,Nicholas Pierini,Venezia FC,IT1,26,82,below the minutes threshold
+381706,Arvid Brorsson,AC Monza,IT1,26,359,below the minutes threshold
+388363,Maximilian Bauer,FC Augsburg,L1,25,656,below the minutes threshold
+388513,Mateu Morey,RCD Mallorca,ES1,25,740,below the minutes threshold
+392085,Nicolò Zaniolo,ACF Fiorentina,IT1,25,685,below the minutes threshold
+392570,Marco Sala,US Lecce,IT1,25,329,below the minutes threshold
+392710,Lennard Maloney,1.FSV Mainz 05,L1,25,788,below the minutes threshold
+392770,Angel Gomes,LOSC Lille,FR1,24,737,below the minutes threshold
+392775,Ryan Sessegnon,Fulham FC,GB1,25,580,below the minutes threshold
+393321,James Sands,FC St. Pauli,L1,24,452,below the minutes threshold
+395512,Antoine Bernede,Hellas Verona,IT1,26,593,below the minutes threshold
+400546,Nikolas Nartey,VfB Stuttgart,L1,25,21,below the minutes threshold
+404839,Andriy Lunin,Real Madrid,ES1,26,630,below the minutes threshold
+405686,Reda Khadra,Stade Reims,FR1,23,75,below the minutes threshold
+406806,Emil Bohinen,Genoa CFC,IT1,26,164,below the minutes threshold
+409517,Yorbe Vertessen,1.FC Union Berlin,L1,24,716,below the minutes threshold
+412366,Brenner,Udinese Calcio,IT1,25,385,below the minutes threshold
+412934,Eros Maddy,AJ Auxerre,FR1,24,13,below the minutes threshold
+420808,George Hirst,Ipswich Town,GB1,26,647,below the minutes threshold
+422460,Dani Gómez,Valencia CF,ES1,26,526,below the minutes threshold
+422951,Victor Nelsson,Associazione Sportiva Roma,IT1,26,470,below the minutes threshold
+424015,Nathan Patterson,Everton FC,GB1,23,345,below the minutes threshold
+426192,Ben Brereton Díaz,Southampton FC,GB1,26,448,below the minutes threshold
+428016,Brandon Austin,Tottenham Hotspur,GB1,26,90,below the minutes threshold
+430310,Andrew Irving,West Ham United,GB1,25,162,below the minutes threshold
+431811,Ola Solbakken,FC Empoli,IT1,26,754,below the minutes threshold
+432671,Luca Philipp,TSG 1899 Hoffenheim,L1,24,540,below the minutes threshold
+433183,Tommy Doyle,Wolverhampton Wanderers,GB1,23,476,below the minutes threshold
+444211,Will Smallbone,Southampton FC,GB1,25,682,below the minutes threshold
+452068,Ayman Azhil,Borussia Dortmund,L1,24,23,below the minutes threshold
+453742,Ben Voll,FC St. Pauli,L1,24,91,below the minutes threshold
+454386,Adrian Benedyczak,Parma Calcio 1913,IT1,24,207,below the minutes threshold
+456492,Faride Alidou,Hellas Verona,IT1,23,68,below the minutes threshold
+457736,Tijjani Noslin,Società Sportiva Lazio S.p.A.,IT1,25,845,below the minutes threshold
+458178,Jack Taylor,Ipswich Town,GB1,26,838,below the minutes threshold
+459151,Nicolò Cambiaghi,Bologna Football Club 1909,IT1,24,611,below the minutes threshold
+459945,Nunzio Lella,Venezia FC,IT1,24,5,below the minutes threshold
+461617,Rodrigo Riquelme,Atlético de Madrid,ES1,25,507,below the minutes threshold
+463603,Benoît Badiashile,Chelsea FC,GB1,24,333,below the minutes threshold
+464333,Ivan Nekic,Holstein Kiel,L1,24,72,below the minutes threshold
+466783,Arnau Tenas,Paris Saint-Germain,FR1,24,90,below the minutes threshold
+466810,Ansu Fati,FC Barcelona,ES1,22,232,below the minutes threshold
+467563,Armel Bella-Kotchap,Southampton FC,GB1,23,329,below the minutes threshold
+467720,Youssoufa Moukoko,OGC Nice,FR1,20,199,below the minutes threshold
+468539,Daniel Peretz,Bayern Munich,L1,24,270,below the minutes threshold
+470596,Paris Maghoma,Brentford FC,GB1,24,112,below the minutes threshold
+470618,Denis Genreau,FC Toulouse,FR1,26,220,below the minutes threshold
+471474,Javi Martínez,CA Osasuna,ES1,25,5,below the minutes threshold
+471690,Max Aarons,Valencia CF,ES1,25,203,below the minutes threshold
+474701,Crysencio Summerville,West Ham United,GB1,23,780,below the minutes threshold
+475188,Kiernan Dewsbury-Hall,Chelsea FC,GB1,26,258,below the minutes threshold
+475413,Sacha Boey,Bayern Munich,L1,24,594,below the minutes threshold
+480267,Ronald Araujo,FC Barcelona,ES1,26,757,below the minutes threshold
+481675,Christos Mandas,Società Sportiva Lazio S.p.A.,IT1,23,810,below the minutes threshold
+483046,Josip Stanisic,Bayern Munich,L1,25,874,below the minutes threshold
+484743,Gabriel Barès,Montpellier HSC,FR1,24,50,below the minutes threshold
+485747,Thomas Keller,1. Fußballclub Heidenheim 1846,L1,25,146,below the minutes threshold
+486046,Maarten Vandevoordt,RB Leipzig,L1,23,428,below the minutes threshold
+486604,Vitezslav Jaros,Liverpool FC,GB1,23,11,below the minutes threshold
+488052,Matthias Braunöder,Como 1907,IT1,23,265,below the minutes threshold
+488784,Magnus Kofod Andersen,Venezia FC,IT1,26,692,below the minutes threshold
+488935,Hákon Valdimarsson,Brentford FC,GB1,23,144,below the minutes threshold
+490426,Krépin Diatta,AS Monaco,FR1,26,496,below the minutes threshold
+490609,Lasse Rieß,1.FSV Mainz 05,L1,23,180,below the minutes threshold
+494236,Andy Pelmard,UD Las Palmas,ES1,25,332,below the minutes threshold
+494880,Jorge Cuenca,Fulham FC,GB1,25,350,below the minutes threshold
+495629,Hugo Guillamón,Valencia CF,ES1,25,360,below the minutes threshold
+500054,David Jurásek,TSG 1899 Hoffenheim,L1,24,615,below the minutes threshold
+501049,Erik Ahlstrand,FC St. Pauli,L1,23,40,below the minutes threshold
+503770,Folarin Balogun,AS Monaco,FR1,23,613,below the minutes threshold
+503881,Aster Vranckx,VfL Wolfsburg,L1,22,552,below the minutes threshold
+503990,Nathan Wood,Southampton FC,GB1,23,772,below the minutes threshold
+504148,Tariq Lamptey,Brighton & Hove Albion,GB1,24,860,below the minutes threshold
+504215,Giovanni Reyna,Borussia Dortmund,L1,22,341,below the minutes threshold
+507341,Fabian Rieder,VfB Stuttgart,L1,23,867,below the minutes threshold
+507345,Leonidas Stergiou,VfB Stuttgart,L1,23,856,below the minutes threshold
+512385,Luis Sinisterra,AFC Bournemouth,GB1,25,230,below the minutes threshold
+513970,Julián Araujo,AFC Bournemouth,GB1,23,498,below the minutes threshold
+515624,Henri Koudossou,FC Augsburg,L1,25,735,below the minutes threshold
+519184,Amar Dedić,Olympique Marseille,FR1,22,309,below the minutes threshold
+522223,Connor Metcalfe,FC St. Pauli,L1,25,356,below the minutes threshold
+522681,Ben Lhassine Kone,Como 1907,IT1,25,47,below the minutes threshold
+524010,Oier Zarraga,Udinese Calcio,IT1,26,891,below the minutes threshold
+524937,Álex Domínguez,FC Toulouse,FR1,26,18,below the minutes threshold
+525140,Goduine Koyalipou,RC Lens,FR1,25,893,below the minutes threshold
+525155,Grégoire Coudert,Stade Brestois 29,FR1,26,180,below the minutes threshold
+526466,Elias Saad,FC St. Pauli,L1,25,902,no valuation before the cutoff
+528892,Harry Clarke,Ipswich Town,GB1,24,378,below the minutes threshold
+530173,Julian Niehues,1. Fußballclub Heidenheim 1846,L1,24,149,below the minutes threshold
+531065,Oussama El Azzouzi,Bologna Football Club 1909,IT1,24,17,below the minutes threshold
+531949,Ignatius Ganago,FC Nantes,FR1,26,232,below the minutes threshold
+532776,Amine Adli,Bayer 04 Leverkusen,L1,25,759,below the minutes threshold
+533354,Facundo Garcés,Deportivo Alavés,ES1,25,675,below the minutes threshold
+535740,Giuseppe Ciocci,Cagliari Calcio,IT1,23,8,below the minutes threshold
+535834,Eliot Matazo,AS Monaco,FR1,23,67,below the minutes threshold
+536482,Junior Dina Ebimbe,Eintracht Frankfurt,L1,24,291,below the minutes threshold
+537171,Semuel Pizzignacco,AC Monza,IT1,23,736,below the minutes threshold
+537860,Mykhaylo Mudryk,Chelsea FC,GB1,24,146,below the minutes threshold
+538874,Terem Moffi,OGC Nice,FR1,26,53,below the minutes threshold
+538971,Naouirou Ahamada,Stade Rennais FC,FR1,23,55,below the minutes threshold
+538996,Tanguy Nianzou,Sevilla FC,ES1,22,520,below the minutes threshold
+539665,Fredrik Oppegård,AJ Auxerre,FR1,22,544,below the minutes threshold
+539798,Luca Jaquez,VfB Stuttgart,L1,21,252,below the minutes threshold
+543387,Cheick Doucouré,Crystal Palace,GB1,25,445,below the minutes threshold
+543537,Seydouba Cissé,CD Leganés,ES1,24,2452,no valuation before the cutoff
+544148,Tomas Cvancara,Borussia Mönchengladbach,L1,24,818,below the minutes threshold
+545332,Mikkel Kaufmann,1. Fußballclub Heidenheim 1846,L1,24,370,below the minutes threshold
+545538,Lameck Banda,US Lecce,IT1,24,609,below the minutes threshold
+548188,Germán Valera,Valencia CF,ES1,23,142,below the minutes threshold
+548347,Melvin Zinga,Angers SCO,FR1,23,90,below the minutes threshold
+548348,Kiliann Sildillia,SC Freiburg,L1,23,791,below the minutes threshold
+550829,Matej Kovar,Bayer 04 Leverkusen,L1,25,450,below the minutes threshold
+551182,Fran Vieites,Real Betis Balompié,ES1,26,360,below the minutes threshold
+555076,Romain Faivre,Stade Brestois 29,FR1,26,899,below the minutes threshold
+555106,Filip Marchwinski,US Lecce,IT1,23,14,below the minutes threshold
+555143,Arsen Zakharyan,Real Sociedad,ES1,22,71,below the minutes threshold
+557147,José Gragera,RCD Espanyol Barcelona,ES1,25,569,below the minutes threshold
+557612,Sékou Mara,RC Strasbourg Alsace,FR1,22,759,below the minutes threshold
+559263,Fábio Carvalho,Brentford FC,GB1,22,445,below the minutes threshold
+562049,Edoardo Bove,ACF Fiorentina,IT1,23,856,below the minutes threshold
+562742,Leo Román,RCD Mallorca,ES1,24,630,below the minutes threshold
+562948,Hyun-seok Hong,1.FSV Mainz 05,L1,25,770,below the minutes threshold
+565822,Harvey Elliott,Liverpool FC,GB1,22,360,below the minutes threshold
+566025,Mohamed Abdelmonem,OGC Nice,FR1,26,855,below the minutes threshold
+566613,Bjarki Bjarkason,Venezia FC,IT1,25,159,below the minutes threshold
+567309,Naatan Skyttä,FC Toulouse,FR1,23,4,below the minutes threshold
+568005,Jeremy Sarmiento,Brighton & Hove Albion,GB1,22,8,below the minutes threshold
+569031,Umut Tohumcu,TSG 1899 Hoffenheim,L1,20,369,below the minutes threshold
+569033,Armindo Sieb,1.FSV Mainz 05,L1,22,752,below the minutes threshold
+569457,Tim Breithaupt,FC Augsburg,L1,23,122,below the minutes threshold
+569866,Roberto López,CD Leganés,ES1,25,389,below the minutes threshold
+571271,Ivan Smolcic,Como 1907,IT1,24,629,below the minutes threshold
+571604,Giorgio Scalvini,Atalanta BC,IT1,21,274,below the minutes threshold
+571743,Armando Broja,Everton FC,GB1,23,332,below the minutes threshold
+574201,Grant-Leon Ranos,Borussia Mönchengladbach,L1,21,18,below the minutes threshold
+574385,Mohamed Daramy,Stade Reims,FR1,23,14,below the minutes threshold
+575319,Kandet Diawara,Le Havre AC,FR1,25,3,below the minutes threshold
+579263,Augustine Boakye,AS Saint-Étienne,FR1,24,732,below the minutes threshold
+580560,Jon Pacheco,Real Sociedad,ES1,24,851,below the minutes threshold
+580747,Yvann Maçon,AS Saint-Étienne,FR1,26,769,below the minutes threshold
+581330,Eiran Cashin,Brighton & Hove Albion,GB1,23,19,below the minutes threshold
+581672,Samuel Iling-Junior,Bologna Football Club 1909,IT1,21,112,below the minutes threshold
+581781,Enzo Loiodice,UD Las Palmas,ES1,24,677,below the minutes threshold
+583046,Medon Berisha,US Lecce,IT1,21,714,below the minutes threshold
+583199,James McAtee,Manchester City,GB1,22,342,below the minutes threshold
+584254,Maximilian Breunig,1. Fußballclub Heidenheim 1846,L1,24,342,below the minutes threshold
+585323,Filip Jørgensen,Chelsea FC,GB1,23,540,below the minutes threshold
+587019,Fin Stevens,FC St. Pauli,L1,22,1,below the minutes threshold
+591193,Niels Nkounkou,Eintracht Frankfurt,L1,24,378,below the minutes threshold
+596821,Scott Banks,FC St. Pauli,L1,23,106,below the minutes threshold
+599663,Faris Moumbagna,Olympique Marseille,FR1,24,8,below the minutes threshold
+601143,Nikolas Veratschnig,1.FSV Mainz 05,L1,22,358,below the minutes threshold
+603891,Emmanuel Ekong,FC Empoli,IT1,22,171,below the minutes threshold
+604327,Gabriel Vidovic,Bayern Munich,L1,21,25,below the minutes threshold
+604359,Yusuf Kabadayi,FC Augsburg,L1,21,66,below the minutes threshold
+605268,Igor Matanovic,Eintracht Frankfurt,L1,22,300,below the minutes threshold
+606119,Phil Harres,Holstein Kiel,L1,23,1545,no valuation before the cutoff
+607226,Loum Tchaouna,Società Sportiva Lazio S.p.A.,IT1,21,647,below the minutes threshold
+607720,Jonas Urbig,Bayern Munich,L1,21,720,below the minutes threshold
+608382,Adrián Rodríguez,Deportivo Alavés,ES1,24,121,below the minutes threshold
+609556,William Osula,Newcastle United,GB1,21,124,below the minutes threshold
+610335,Iván Jaime,Valencia CF,ES1,24,737,below the minutes threshold
+610581,Ali Al-Hamadi,Ipswich Town,GB1,23,125,below the minutes threshold
+610608,Dominik Javorcek,Holstein Kiel,L1,22,381,below the minutes threshold
+611793,James Hill,AFC Bournemouth,GB1,23,449,below the minutes threshold
+614742,Drissa Camara,Parma Calcio 1913,IT1,23,432,below the minutes threshold
+615350,Cenk Özkacar,Real Valladolid CF,ES1,24,756,below the minutes threshold
+617021,Ben Old,AS Saint-Étienne,FR1,22,523,below the minutes threshold
+618898,Erencan Yardımcı,TSG 1899 Hoffenheim,L1,23,311,below the minutes threshold
+620217,Robin Hranac,TSG 1899 Hoffenheim,L1,25,219,below the minutes threshold
+620313,Lucas Gourna-Douath,Associazione Sportiva Roma,IT1,21,227,below the minutes threshold
+620598,Ameen Al-Dakhil,VfB Stuttgart,L1,23,436,below the minutes threshold
+621193,Kasey McAteer,Leicester City,GB1,23,853,below the minutes threshold
+621993,Andrew Omobamidele,RC Strasbourg Alsace,FR1,22,537,below the minutes threshold
+622988,Fran Pérez,Valencia CF,ES1,22,552,below the minutes threshold
+624258,Conor Bradley,Liverpool FC,GB1,21,748,below the minutes threshold
+625655,Jon Magunazelaia,Real Sociedad,ES1,23,6,below the minutes threshold
+625657,Unai Marrero,Real Sociedad,ES1,23,180,below the minutes threshold
+625660,Jon Ander Olasagasti,Real Sociedad,ES1,24,852,below the minutes threshold
+627228,Yan Couto,Borussia Dortmund,L1,22,887,below the minutes threshold
+627356,Yannik Lührs,Borussia Dortmund,L1,21,126,below the minutes threshold
+628451,Roméo Lavia,Chelsea FC,GB1,21,802,below the minutes threshold
+629588,Nathan Ngoumou,Borussia Mönchengladbach,L1,25,828,below the minutes threshold
+630995,Rodri Sánchez,Real Betis Balompié,ES1,25,117,below the minutes threshold
+631002,Raúl García,CA Osasuna,ES1,24,731,below the minutes threshold
+631007,Filippo Terracciano,AC Milan,IT1,22,534,below the minutes threshold
+631693,Jesús Owono,Deportivo Alavés,ES1,24,486,below the minutes threshold
+631927,Saud Abdulhamid,Associazione Sportiva Roma,IT1,25,205,below the minutes threshold
+632349,Jarell Quansah,Liverpool FC,GB1,22,488,below the minutes threshold
+632741,Iker Losada,Celta de Vigo,ES1,23,687,below the minutes threshold
+633056,Tamás Nikitscher,Real Valladolid CF,ES1,25,855,below the minutes threshold
+633992,Enzo Le Fée,Associazione Sportiva Roma,IT1,25,319,below the minutes threshold
+634105,Alberto Marí,Valencia CF,ES1,23,6,below the minutes threshold
+635645,Aurèle Amenda,Eintracht Frankfurt,L1,21,89,below the minutes threshold
+636686,Arnau Rafús,Real Valladolid CF,ES1,22,90,below the minutes threshold
+636697,Arnau Solà,Villarreal CF,ES1,22,12,below the minutes threshold
+638793,Tajon Buchanan,Villarreal CF,ES1,26,501,below the minutes threshold
+638964,Nathan Butler-Oyedeji,Arsenal FC,GB1,22,6,below the minutes threshold
+640109,Martín Satriano,RC Lens,FR1,24,81,below the minutes threshold
+641537,Tommaso Baldanzi,Associazione Sportiva Roma,IT1,22,814,below the minutes threshold
+644032,Cheikh Niasse,Hellas Verona,IT1,25,757,below the minutes threshold
+645686,Lamare Bogarde,Aston Villa,GB1,21,475,below the minutes threshold
+646698,Gabriel Misehouy,Girona FC,ES1,19,250,below the minutes threshold
+648032,James Abankwah,Udinese Calcio,IT1,21,85,below the minutes threshold
+648046,Evan Ferguson,West Ham United,GB1,20,388,below the minutes threshold
+649016,El Bilal Touré,VfB Stuttgart,L1,23,350,below the minutes threshold
+649020,Boubacar Traoré,Wolverhampton Wanderers,GB1,23,1,below the minutes threshold
+649317,Jhon Durán,Aston Villa,GB1,21,626,below the minutes threshold
+649452,Issa Kaboré,SV Werder Bremen,L1,24,315,below the minutes threshold
+650104,Zinédine Ould Khaled,Angers SCO,FR1,25,340,below the minutes threshold
+650966,Samuele Vignato,AC Monza,IT1,21,461,below the minutes threshold
+650999,Federico Accornero,Genoa CFC,IT1,21,4,below the minutes threshold
+654991,Samuel Mbangula,Juventus FC,IT1,21,699,below the minutes threshold
+655009,Richie Sagrado,Venezia FC,IT1,21,143,below the minutes threshold
+655456,Saba Sazonov,Torino FC,IT1,23,2,below the minutes threshold
+656441,Jean Onana,Genoa CFC,IT1,25,343,below the minutes threshold
+658269,Víctor Meseguer,Real Valladolid CF,ES1,25,410,below the minutes threshold
+658534,Lasso Coulibaly,AJ Auxerre,FR1,22,42,below the minutes threshold
+659459,Carney Chukwuemeka,Borussia Dortmund,L1,21,245,below the minutes threshold
+659513,Soumaïla Coulibaly,Stade Brestois 29,FR1,21,437,below the minutes threshold
+659520,Bilal Nadir,Olympique Marseille,FR1,21,379,below the minutes threshold
+659542,Elye Wahi,Eintracht Frankfurt,L1,22,766,below the minutes threshold
+660342,Gabriel Charpentier,Parma Calcio 1913,IT1,26,264,below the minutes threshold
+661207,Oscar Bobb,Manchester City,GB1,21,14,below the minutes threshold
+661212,Mathias Løvik,Parma Calcio 1913,IT1,21,86,below the minutes threshold
+662261,Rafa Marín,SSC Napoli,IT1,23,139,below the minutes threshold
+663244,Jota Silva,Nottingham Forest,GB1,25,840,below the minutes threshold
+665390,Jaden Philogene,Ipswich Town,GB1,23,800,below the minutes threshold
+666234,Mohamed Simakan,RB Leipzig,L1,25,55,below the minutes threshold
+666268,Daniel Fila,Venezia FC,IT1,22,495,below the minutes threshold
+666974,Mikayil Faye,Stade Rennais FC,FR1,20,689,below the minutes threshold
+666977,Aliou Baldé,VfL Bochum,L1,22,87,below the minutes threshold
+667121,Rodrigo Gomes,Wolverhampton Wanderers,GB1,21,799,below the minutes threshold
+668183,Nico Serrano,Athletic Bilbao,ES1,22,110,below the minutes threshold
+668210,Ferran Ruiz,Girona FC,ES1,22,17,below the minutes threshold
+668276,Hugo Novoa,Deportivo Alavés,ES1,22,234,below the minutes threshold
+670688,Youssef Chermiti,Everton FC,GB1,21,42,below the minutes threshold
+670845,Omari Forson,AC Monza,IT1,20,217,below the minutes threshold
+670848,Divin Mubama,Manchester City,GB1,20,27,below the minutes threshold
+670883,Dane Scarlett,Tottenham Hotspur,GB1,21,31,below the minutes threshold
+671649,Álvaro Djaló,Athletic Bilbao,ES1,25,658,below the minutes threshold
+671799,Rui Modesto,Udinese Calcio,IT1,25,595,below the minutes threshold
+672381,Jonathan Rowe,Olympique Marseille,FR1,22,794,below the minutes threshold
+682588,Mateo Mejía,Sevilla FC,ES1,22,10,below the minutes threshold
+683812,John Tolkin,Holstein Kiel,L1,22,739,below the minutes threshold
+684062,Hianga'a Mbock,Stade Brestois 29,FR1,25,20,below the minutes threshold
+684318,Samuel Bamba,VfL Bochum,L1,21,23,below the minutes threshold
+686965,Juan Cabal,Juventus FC,IT1,24,460,below the minutes threshold
+689637,Chadi Riad,Crystal Palace,GB1,21,90,below the minutes threshold
+690429,Robert Wagner,FC St. Pauli,L1,21,403,below the minutes threshold
+692208,Pelayo Fernández,Rayo Vallecano,ES1,22,97,below the minutes threshold
+695422,Théo De Percin,AJ Auxerre,FR1,24,180,below the minutes threshold
+695454,Chiquinho,RCD Mallorca,ES1,25,147,below the minutes threshold
+696028,Noah Pesch,Borussia Mönchengladbach,L1,20,5,below the minutes threshold
+696346,Jay Stansfield,Fulham FC,GB1,22,1,below the minutes threshold
+696589,Tim Iroegbunam,Everton FC,GB1,21,564,below the minutes threshold
+698546,Vanja Vlahović,Atalanta BC,IT1,21,57,below the minutes threshold
+698560,Cheick Condé,Venezia FC,IT1,24,145,below the minutes threshold
+699442,Kacper Urbański,AC Monza,IT1,20,746,below the minutes threshold
+700106,Brajan Gruda,Brighton & Hove Albion,GB1,21,681,below the minutes threshold
+701757,Keke Topp,SV Werder Bremen,L1,21,238,below the minutes threshold
+706138,Javi Llabrés,RCD Mallorca,ES1,22,58,below the minutes threshold
+707359,Etienne Eto'o,Rayo Vallecano,ES1,22,38,below the minutes threshold
+707572,Pau Víctor,FC Barcelona,ES1,23,307,below the minutes threshold
+708678,Isaak Touré,Udinese Calcio,IT1,22,736,below the minutes threshold
+709767,Ji-soo Kim,Brentford FC,GB1,20,28,below the minutes threshold
+709969,Ilias Akhomach,Villarreal CF,ES1,21,587,below the minutes threshold
+709971,Xavi Moreno,Real Valladolid CF,ES1,20,45,below the minutes threshold
+709997,Lorenzo Aguado,Real Madrid,ES1,22,4,below the minutes threshold
+710004,Peter Federico,Getafe CF,ES1,22,465,below the minutes threshold
+710484,Mario Maroto,Real Valladolid CF,ES1,21,63,below the minutes threshold
+710677,Iker Muñoz,CA Osasuna,ES1,22,598,below the minutes threshold
+710679,Iker Benito,CA Osasuna,ES1,22,35,below the minutes threshold
+711394,Javi Martón,Athletic Bilbao,ES1,26,50,below the minutes threshold
+711517,Kevin Paredes,VfL Wolfsburg,L1,22,125,below the minutes threshold
+711626,Darío Benavides,Sevilla FC,ES1,22,4,below the minutes threshold
+711996,Warmed Omari,Olympique Lyon,FR1,25,7,below the minutes threshold
+713787,Jhoanner Chávez,RC Lens,FR1,23,599,below the minutes threshold
+716276,Yerson Mosquera,Wolverhampton Wanderers,GB1,24,442,below the minutes threshold
+718034,Abde Rebbach,Deportivo Alavés,ES1,26,385,below the minutes threshold
+718312,Hamzat Ojediran,RC Lens,FR1,21,401,below the minutes threshold
+719442,David Da Costa,RC Lens,FR1,24,349,below the minutes threshold
+719694,Andu Kelati,Holstein Kiel,L1,22,286,below the minutes threshold
+719720,David Argüelles,Getafe CF,ES1,23,6,below the minutes threshold
+720038,Pablo Torre,FC Barcelona,ES1,22,308,below the minutes threshold
+720162,Justin Diehl,VfB Stuttgart,L1,20,98,below the minutes threshold
+722351,Sergio Arribas,Real Betis Balompié,ES1,22,90,below the minutes threshold
+724069,Kevin Martins,AC Monza,IT1,20,178,below the minutes threshold
+724104,Fabio Chiarodia,Borussia Mönchengladbach,L1,19,373,below the minutes threshold
+724108,Aaron Ciammaglichella,Torino FC,IT1,20,1,below the minutes threshold
+725912,Antonín Kinský,Tottenham Hotspur,GB1,22,540,below the minutes threshold
+728733,Brooke Norton-Cuffy,Genoa CFC,IT1,21,721,below the minutes threshold
+729264,Welington,Southampton FC,GB1,24,480,below the minutes threshold
+729872,Igor Miladinovic,AS Saint-Étienne,FR1,21,23,below the minutes threshold
+731491,Franco Carboni,Venezia FC,IT1,22,223,below the minutes threshold
+731525,Rareș Burnete,US Lecce,IT1,21,24,below the minutes threshold
+732165,Ronnie Edwards,Southampton FC,GB1,22,12,below the minutes threshold
+739443,Igor Thiago,Brentford FC,GB1,23,169,below the minutes threshold
+741090,Jonas Rouhi,Juventus FC,IT1,21,207,below the minutes threshold
+741258,Sergi Domínguez,FC Barcelona,ES1,20,173,below the minutes threshold
+741292,Iker Bravo,Udinese Calcio,IT1,20,662,below the minutes threshold
+742451,Carlos Forbs,Wolverhampton Wanderers,GB1,21,265,below the minutes threshold
+742521,Jhon Solís,Girona FC,ES1,20,524,below the minutes threshold
+743387,Stanis Idumbo,Sevilla FC,ES1,19,278,below the minutes threshold
+743413,Nico O'Reilly,Manchester City,GB1,20,527,below the minutes threshold
+743498,Wilson Odobert,Tottenham Hotspur,GB1,20,849,below the minutes threshold
+743522,Enzo Caumont,Angers SCO,FR1,21,32,below the minutes threshold
+743597,Matheus França,Crystal Palace,GB1,21,52,below the minutes threshold
+744728,Arijon Ibrahimovic,Società Sportiva Lazio S.p.A.,IT1,19,8,below the minutes threshold
+745075,David Preu,1.FC Union Berlin,L1,20,119,below the minutes threshold
+745173,Mamadou Coulibaly,AS Monaco,FR1,21,7,below the minutes threshold
+745191,Ramón Sosa,Nottingham Forest,GB1,25,280,below the minutes threshold
+745202,Yllan Okou,Hellas Verona,IT1,22,1,below the minutes threshold
+746740,Daniel Jebbison,AFC Bournemouth,GB1,21,105,below the minutes threshold
+746833,Caleb Wiley,RC Strasbourg Alsace,FR1,20,267,below the minutes threshold
+747009,Justin Devenny,Crystal Palace,GB1,21,496,below the minutes threshold
+748319,Carlos Alcaraz,Everton FC,GB1,22,771,below the minutes threshold
+750904,Tom Louchet,OGC Nice,FR1,22,766,below the minutes threshold
+766723,Manu Bueno,Sevilla FC,ES1,20,134,below the minutes threshold
+767229,Diego Hormigo,Sevilla FC,ES1,22,38,below the minutes threshold
+769063,Luka Romero,Deportivo Alavés,ES1,20,197,below the minutes threshold
+770407,Elysée Logbo,Le Havre AC,FR1,21,26,below the minutes threshold
+770438,Mathéo Bodmer,Le Havre AC,FR1,21,5,below the minutes threshold
+777005,Mert Kömür,FC Augsburg,L1,19,646,below the minutes threshold
+777308,Zain Silcott-Duberry,AFC Bournemouth,GB1,19,1,below the minutes threshold
+782632,Jibril Othman,AS Saint-Étienne,FR1,21,4,below the minutes threshold
+787618,Valentín Carboni,Olympique Marseille,FR1,20,100,below the minutes threshold
+796213,Nelson Weiper,1.FSV Mainz 05,L1,20,698,below the minutes threshold
+796221,Mats Pannewig,VfL Bochum,L1,20,257,below the minutes threshold
+797572,Stefan Lekovic,AC Monza,IT1,21,364,below the minutes threshold
+798404,Alidu Seidu,Stade Rennais FC,FR1,24,807,below the minutes threshold
+804711,Ousmane Camara,Angers SCO,FR1,22,253,below the minutes threshold
+805908,Bradley Locko,Stade Brestois 29,FR1,23,97,below the minutes threshold
+806948,Frank Feller,1. Fußballclub Heidenheim 1846,L1,21,120,below the minutes threshold
+807165,Bamo Meïté,Montpellier HSC,FR1,23,452,below the minutes threshold
+808509,Danilo,Nottingham Forest,GB1,24,276,below the minutes threshold
+808664,Florian Micheler,TSG 1899 Hoffenheim,L1,20,31,below the minutes threshold
+809498,Luca Kerber,1. Fußballclub Heidenheim 1846,L1,23,774,below the minutes threshold
+810108,Paul Hennrich,TSG 1899 Hoffenheim,L1,20,11,below the minutes threshold
+810909,Lucas Michal,AS Monaco,FR1,19,110,below the minutes threshold
+812654,Rareș Ilie,OGC Nice,FR1,22,11,below the minutes threshold
+814976,Martin Adeline,Stade Reims,FR1,21,25,below the minutes threshold
+815078,Jordy Makengo,SC Freiburg,L1,23,736,below the minutes threshold
+815567,Andrea Mazza,AC Monza,IT1,21,7,below the minutes threshold
+816580,Tiago Santos,LOSC Lille,FR1,22,405,below the minutes threshold
+816585,Can Uzun,Eintracht Frankfurt,L1,19,668,below the minutes threshold
+818448,Alessandro Marcandalli,Venezia FC,IT1,22,402,below the minutes threshold
+818888,Antonio Raimondo,Venezia FC,IT1,21,86,below the minutes threshold
+819215,Julien Duranville,Borussia Dortmund,L1,19,275,below the minutes threshold
+821522,Alfie Pond,Wolverhampton Wanderers,GB1,21,1,below the minutes threshold
+822458,Bamba Dieng,Angers SCO,FR1,25,524,below the minutes threshold
+822958,Tim Drexler,TSG 1899 Hoffenheim,L1,20,356,below the minutes threshold
+823486,Michael Kayode,Brentford FC,GB1,20,652,below the minutes threshold
+825437,Ilyes Housni,Le Havre AC,FR1,20,227,below the minutes threshold
+825438,Sékou Doucouré,FC Nantes,FR1,20,11,below the minutes threshold
+829838,Hennes Behrens,TSG 1899 Hoffenheim,L1,20,28,below the minutes threshold
+830108,Julián Malatini,SV Werder Bremen,L1,24,452,below the minutes threshold
+830890,Marvin Senaya,RC Strasbourg Alsace,FR1,24,220,below the minutes threshold
+834463,Iker Córdoba,Valencia CF,ES1,19,13,below the minutes threshold
+834470,Dani Rodríguez,FC Barcelona,ES1,19,38,below the minutes threshold
+834483,Álex Padilla,Athletic Bilbao,ES1,21,320,below the minutes threshold
+834486,Raúl Chasco,Real Valladolid CF,ES1,21,129,below the minutes threshold
+838236,Marin Ljubicic,1.FC Union Berlin,L1,23,271,below the minutes threshold
+841121,John Patrick,Stade Reims,FR1,21,587,below the minutes threshold
+845321,Kaelan Casey,West Ham United,GB1,20,1,below the minutes threshold
+845809,Lewis Orford,West Ham United,GB1,19,47,below the minutes threshold
+846310,Oscar Højlund,Eintracht Frankfurt,L1,20,713,below the minutes threshold
+848682,Kosta Nedeljkovic,RB Leipzig,L1,19,599,below the minutes threshold
+854097,Stefan Dzodic,Montpellier HSC,FR1,20,240,below the minutes threshold
+854721,Ben Winterburn,AFC Bournemouth,GB1,20,22,below the minutes threshold
+855134,Skelly Alvero,SV Werder Bremen,L1,23,231,below the minutes threshold
+855215,Ange Loïc N'Gatta,AJ Auxerre,FR1,21,11,below the minutes threshold
+855256,Alex Scott,AFC Bournemouth,GB1,21,751,below the minutes threshold
+856479,Roman Dixon,Everton FC,GB1,20,90,below the minutes threshold
+856530,Mateo Pellegrino,Parma Calcio 1913,IT1,23,739,below the minutes threshold
+857830,Daniel Luna,RCD Mallorca,ES1,22,18,below the minutes threshold
+861981,Alan Matturro,Genoa CFC,IT1,20,896,below the minutes threshold
+862297,Nasser Djiga,Wolverhampton Wanderers,GB1,22,65,below the minutes threshold
+863759,Bruno Ogbus,SC Freiburg,L1,19,17,below the minutes threshold
+864121,Abdul Fatawu,Leicester City,GB1,21,577,below the minutes threshold
+866247,Tommaso Rubino,ACF Fiorentina,IT1,18,7,below the minutes threshold
+866579,Cole Campbell,Borussia Dortmund,L1,19,19,below the minutes threshold
+867137,Alessandro Circati,Parma Calcio 1913,IT1,21,540,below the minutes threshold
+867711,Will Alves,Leicester City,GB1,20,1,below the minutes threshold
+872184,Tadeo Allende,Celta de Vigo,ES1,26,1,below the minutes threshold
+874538,Ryan Trevitt,Brentford FC,GB1,22,3,below the minutes threshold
+876298,Matteo Prati,Cagliari Calcio,IT1,21,573,below the minutes threshold
+876400,Simone Pafundi,Udinese Calcio,IT1,19,107,below the minutes threshold
+879768,Will Lankshear,Tottenham Hotspur,GB1,20,10,below the minutes threshold
+881610,David Ankeye,Genoa CFC,IT1,23,42,below the minutes threshold
+882710,Ramón Martínez,Sevilla FC,ES1,22,258,below the minutes threshold
+883122,Anas Haj Mohamed,Parma Calcio 1913,IT1,20,443,below the minutes threshold
+883349,Kevin Zeroli,AC Monza,IT1,20,406,below the minutes threshold
+883865,Rafik Messali,FC Toulouse,FR1,22,453,below the minutes threshold
+884810,Kjell Wätjen,Borussia Dortmund,L1,19,15,below the minutes threshold
+884820,Almugera Kabar,Borussia Dortmund,L1,18,135,below the minutes threshold
+885230,Nicola Pintus,Cagliari Calcio,IT1,20,3,below the minutes threshold
+887638,Davide Bartesaghi,AC Milan,IT1,19,118,below the minutes threshold
+890719,Ethan Nwaneri,Arsenal FC,GB1,18,889,below the minutes threshold
+891379,Nordine Kandil,RC Strasbourg Alsace,FR1,23,9,below the minutes threshold
+891998,Antoine Mendy,OGC Nice,FR1,21,818,below the minutes threshold
+892926,Leandro Antonetti,Sevilla FC,ES1,22,26,below the minutes threshold
+894324,Bob Murphy Omoregbe,AC Milan,IT1,21,2,below the minutes threshold
+895458,Adrián Pica,Deportivo Alavés,ES1,23,496,below the minutes threshold
+895480,Adu Ares,Athletic Bilbao,ES1,23,18,below the minutes threshold
+895937,Marco Palestra,Atalanta BC,IT1,20,217,below the minutes threshold
+897423,David Odogu,VfL Wolfsburg,L1,18,194,below the minutes threshold
+897424,Assan Ouédraogo,RB Leipzig,L1,19,47,below the minutes threshold
+897481,Eric da Silva Moreira,Nottingham Forest,GB1,19,28,below the minutes threshold
+902573,Mateusz Kowalski,Parma Calcio 1913,IT1,19,57,below the minutes threshold
+903666,Ethan Mbappé,LOSC Lille,FR1,18,217,below the minutes threshold
+903693,Senny Mayulu,Paris Saint-Germain,FR1,19,800,below the minutes threshold
+904712,Justin Smith,RCD Espanyol Barcelona,ES1,22,209,below the minutes threshold
+908621,Nabil Aberdin,Getafe CF,ES1,22,264,below the minutes threshold
+911328,Mohamed Kaba,US Lecce,IT1,23,441,below the minutes threshold
+913539,Estanis Pedrola,Bologna Football Club 1909,IT1,21,8,below the minutes threshold
+914934,Henrik Meister,Stade Rennais FC,FR1,21,59,below the minutes threshold
+916014,Isra Domínguez,Sevilla FC,ES1,22,17,below the minutes threshold
+917778,Rémy Labeau Lascary,RC Lens,FR1,22,635,below the minutes threshold
+917817,Tom Pouilly,RC Lens,FR1,21,271,below the minutes threshold
+918251,Yoann Cissé,AJ Auxerre,FR1,20,4,below the minutes threshold
+919515,Jeanuël Belocian,Bayer 04 Leverkusen,L1,20,66,below the minutes threshold
+921655,Ismaël Koné,Stade Rennais FC,FR1,22,825,below the minutes threshold
+922563,Oliver Scarles,West Ham United,GB1,19,663,below the minutes threshold
+922769,Lewis Miley,Newcastle United,GB1,19,304,below the minutes threshold
+923595,Max Moerstedt,TSG 1899 Hoffenheim,L1,19,449,below the minutes threshold
+923945,Noahkai Banks,FC Augsburg,L1,18,274,below the minutes threshold
+924117,Finn Jeltsch,VfB Stuttgart,L1,18,778,below the minutes threshold
+924349,Issa Doumbia,Venezia FC,IT1,21,935,no valuation before the cutoff
+924800,Axel Camblan,Stade Brestois 29,FR1,21,24,below the minutes threshold
+925848,Lorenzo Anghelè,Juventus FC,IT1,20,5,below the minutes threshold
+926301,Tiago Pereira Cardoso,Borussia Mönchengladbach,L1,19,379,below the minutes threshold
+926763,Chuki,Real Valladolid CF,ES1,21,727,below the minutes threshold
+926849,Adrián Niño,Atlético de Madrid,ES1,20,20,below the minutes threshold
+927353,Johan Manzambi,SC Freiburg,L1,19,333,below the minutes threshold
+928323,Ibrahim Salah,Stade Brestois 29,FR1,23,354,below the minutes threshold
+933900,Samuel Amo-Ameyaw,RC Strasbourg Alsace,FR1,18,343,below the minutes threshold
+933908,Ángel Ortiz,Real Betis Balompié,ES1,20,353,below the minutes threshold
+934527,Alieu Njie,Torino FC,IT1,20,381,below the minutes threshold
+934878,Jeff Ekhator,Genoa CFC,IT1,18,759,below the minutes threshold
+935230,Gonzalo García,Real Madrid,ES1,21,53,below the minutes threshold
+935231,Víctor Muñoz,Real Madrid,ES1,21,34,below the minutes threshold
+935777,Jacopo Seghetti,FC Empoli,IT1,20,90,below the minutes threshold
+936684,Saad El Haddad,Venezia FC,IT1,19,27,below the minutes threshold
+936745,Ismaël Konaté,FC Empoli,IT1,19,106,below the minutes threshold
+936755,Alberto Manzoni,Atalanta BC,IT1,19,5,below the minutes threshold
+936842,Michael Golding,Leicester City,GB1,19,1,below the minutes threshold
+936874,Tyrique George,Chelsea FC,GB1,19,178,below the minutes threshold
+937945,Dani Díaz,Real Sociedad,ES1,18,9,below the minutes threshold
+937955,Héctor Fort,FC Barcelona,ES1,18,578,below the minutes threshold
+938146,Adam Aznou,Real Valladolid CF,ES1,18,889,below the minutes threshold
+938158,Marc Guiu,Chelsea FC,GB1,19,70,below the minutes threshold
+939290,Jayden Danns,Liverpool FC,GB1,19,10,below the minutes threshold
+939374,Yoel Lago,Celta de Vigo,ES1,21,583,below the minutes threshold
+941869,Yellu Santiago,Getafe CF,ES1,21,364,below the minutes threshold
+941883,Martín Tejón,Valencia CF,ES1,21,45,below the minutes threshold
+942497,Jahmai Simpson-Pusey,Manchester City,GB1,19,95,below the minutes threshold
+942814,Lorenzo Tosto,FC Empoli,IT1,19,1,below the minutes threshold
+944427,Edhy Zuliani,FC Toulouse,FR1,20,8,below the minutes threshold
+944570,Vasilije Adžić,Juventus FC,IT1,19,39,below the minutes threshold
+945709,Dani Requena,Villarreal CF,ES1,21,9,below the minutes threshold
+947360,Kassoum Ouattara,AS Monaco,FR1,20,390,below the minutes threshold
+947431,David López,RCD Mallorca,ES1,22,170,below the minutes threshold
+948275,Álvaro Rodríguez,Getafe CF,ES1,20,847,below the minutes threshold
+948278,Jacobo Ramón,Real Madrid,ES1,20,203,below the minutes threshold
+948279,Chema Andrés,Real Madrid,ES1,20,10,below the minutes threshold
+948537,Anrie Chase,VfB Stuttgart,L1,21,729,below the minutes threshold
+949116,Ro Abajas,Valencia CF,ES1,22,66,below the minutes threshold
+949489,Abdoulaye Keita,Getafe CF,ES1,22,94,below the minutes threshold
+950593,Damián Pizarro,Udinese Calcio,IT1,20,14,below the minutes threshold
+954104,Jayden Meghoma,Brentford FC,GB1,18,4,below the minutes threshold
+955263,Kévin Pedro,AS Saint-Étienne,FR1,19,9,below the minutes threshold
+955356,Saïmon Bouabré,AS Monaco,FR1,18,96,below the minutes threshold
+955448,Tidiam Gomis,RB Leipzig,L1,18,148,below the minutes threshold
+955449,Alexi Koum,Olympique Marseille,FR1,19,11,below the minutes threshold
+957461,Andrés Gómez,Stade Rennais FC,FR1,22,369,below the minutes threshold
+958647,Ümit Akdağ,FC Toulouse,FR1,21,503,below the minutes threshold
+960941,Jacopo Bacci,FC Empoli,IT1,19,29,below the minutes threshold
+961087,Pablo García,Real Betis Balompié,ES1,18,36,below the minutes threshold
+962124,Daniel Yáñez,Real Madrid,ES1,18,1,below the minutes threshold
+962145,Arkaitz Mariezkurrena,Real Sociedad,ES1,20,236,below the minutes threshold
+964087,Alphadjo Cissè,Hellas Verona,IT1,18,7,below the minutes threshold
+964190,Luken Beitia,Real Sociedad,ES1,20,7,below the minutes threshold
+967319,Romain Esse,Crystal Palace,GB1,20,136,below the minutes threshold
+970279,Jacques Ekomié,Angers SCO,FR1,21,695,below the minutes threshold
+970364,Yaël Mouanga,Montpellier HSC,FR1,19,946,no valuation before the cutoff
+971570,Endrick,Real Madrid,ES1,18,352,below the minutes threshold
+974894,David Mokwa,TSG 1899 Hoffenheim,L1,21,20,below the minutes threshold
+974996,Aaron Malouda,LOSC Lille,FR1,19,1,below the minutes threshold
+977464,Arthur,Bayer 04 Leverkusen,L1,22,744,below the minutes threshold
+977877,Ayanda Sishuba,Stade Rennais FC,FR1,20,2,below the minutes threshold
+979766,Mathis Lambourde,Hellas Verona,IT1,19,82,below the minutes threshold
+979773,Téo Barišić,Olympique Lyon,FR1,20,1,below the minutes threshold
+980576,Amine Salama,Stade Reims,FR1,24,361,below the minutes threshold
+980632,Sergiu Perciun,Torino FC,IT1,19,148,below the minutes threshold
+981977,Axel Guéguin,Montpellier HSC,FR1,20,22,below the minutes threshold
+982097,Shumaira Mheuka,Chelsea FC,GB1,17,1,below the minutes threshold
+982267,Ibrahim Sulemana,Atalanta BC,IT1,22,282,below the minutes threshold
+982393,Lucas Mincarelli,Montpellier HSC,FR1,21,714,below the minutes threshold
+984699,Yaël Nandjou,OGC Nice,FR1,19,155,below the minutes threshold
+986261,Ayman Aiki,AS Saint-Étienne,FR1,19,124,below the minutes threshold
+986262,Junior Ndiaye,Montpellier HSC,FR1,20,433,below the minutes threshold
+986288,Sidiki Chérif,Angers SCO,FR1,18,322,below the minutes threshold
+986298,Joachim Kayi Sanda,Southampton FC,GB1,18,12,below the minutes threshold
+988964,Mattia Liberali,AC Milan,IT1,18,62,below the minutes threshold
+990732,Ousmane Touré,LOSC Lille,FR1,20,5,below the minutes threshold
+991487,Abdoul Ouattara,RC Strasbourg Alsace,FR1,19,462,below the minutes threshold
+991744,Luka Topalović,Inter Milan,IT1,19,10,below the minutes threshold
+991800,Luís Guilherme,West Ham United,GB1,19,139,below the minutes threshold
+992686,Martial Godo,Fulham FC,GB1,22,21,below the minutes threshold
+993645,Tomás Palacios,AC Monza,IT1,22,455,below the minutes threshold
+994536,Claudio Echeverri,Manchester City,GB1,19,5,below the minutes threshold
+996453,Maat Daniel Caprini,ACF Fiorentina,IT1,19,7,below the minutes threshold
+996897,Diego Gómez,Brighton & Hove Albion,GB1,22,511,below the minutes threshold
+997861,Kauã Santos,Eintracht Frankfurt,L1,22,765,below the minutes threshold
+999229,Jérémy Sebas,RC Strasbourg Alsace,FR1,22,184,below the minutes threshold
+1000136,Gorka Rivera,Getafe CF,ES1,20,19,below the minutes threshold
+1004344,Ali Dembélé,Torino FC,IT1,21,383,below the minutes threshold
+1004619,Dehmaine Tabibou,FC Nantes,FR1,20,88,below the minutes threshold
+1004708,Josh Acheampong,Chelsea FC,GB1,19,169,below the minutes threshold
+1004723,Fellipe Jack,Como 1907,IT1,19,166,below the minutes threshold
+1004834,George Ilenikhena,AS Monaco,FR1,18,708,below the minutes threshold
+1005575,Vitor Reis,Manchester City,GB1,19,1,below the minutes threshold
+1009658,Julio Soler,AFC Bournemouth,GB1,20,9,below the minutes threshold
+1009766,David Otorbi,Valencia CF,ES1,17,13,below the minutes threshold
+1010854,Mathis Amougou,Chelsea FC,GB1,19,864,below the minutes threshold
+1011131,Josh King,Fulham FC,GB1,18,127,below the minutes threshold
+1011147,Mikey Moore,Tottenham Hotspur,GB1,17,361,below the minutes threshold
+1015624,Óscar Perea,RC Strasbourg Alsace,FR1,19,12,below the minutes threshold
+1017912,Simon Cara,Montpellier HSC,FR1,20,7,below the minutes threshold
+1018259,Gift Orban,TSG 1899 Hoffenheim,L1,22,876,below the minutes threshold
+1018920,Marc Bernal,FC Barcelona,ES1,18,244,below the minutes threshold
+1019950,Théo Chennahi,Montpellier HSC,FR1,20,180,below the minutes threshold
+1027557,Plamedi Nsingi,FC Nantes,FR1,24,16,below the minutes threshold
+1030153,Justin Bourgault,Stade Brestois 29,FR1,19,123,below the minutes threshold
+1030425,Thiago Ojeda,Villarreal CF,ES1,22,7,below the minutes threshold
+1031774,Jarzinho Malanga,VfB Stuttgart,L1,18,1,below the minutes threshold
+1034853,Nobel Mendy,Real Betis Balompié,ES1,20,107,below the minutes threshold
+1035659,Younes Lachaab,LOSC Lille,FR1,20,7,below the minutes threshold
+1038950,Karl Etta Eyong,Villarreal CF,ES1,21,33,below the minutes threshold
+1040080,Tommaso Gabellini,Torino FC,IT1,18,9,below the minutes threshold
+1044893,Yaya Fofana,Stade Reims,FR1,20,638,below the minutes threshold
+1045124,Jay Robinson,Southampton FC,GB1,18,135,below the minutes threshold
+1047097,Yoram Zague,Paris Saint-Germain,FR1,19,183,below the minutes threshold
+1047104,Yanis Issoufou,Montpellier HSC,FR1,18,75,below the minutes threshold
+1047256,Asher Agbinone,Crystal Palace,GB1,19,4,below the minutes threshold
+1047261,Caleb Kporha,Crystal Palace,GB1,18,11,below the minutes threshold
+1048147,Federico Cassa,Atalanta BC,IT1,19,12,below the minutes threshold
+1048496,Ben Viadere,AJ Auxerre,FR1,19,4,below the minutes threshold
+1049598,Diego Pugno,Juventus FC,IT1,18,6,below the minutes threshold
+1052287,Marwann Nzuzi,AS Saint-Étienne,FR1,21,126,below the minutes threshold
+1052291,Beres Owusu,AS Saint-Étienne,FR1,21,90,below the minutes threshold
+1053147,Mahamadou Diawara,Le Havre AC,FR1,20,594,below the minutes threshold
+1054429,Carlos Guirao,Real Betis Balompié,ES1,22,112,below the minutes threshold
+1054839,Mamadou Diakhon,Stade Reims,FR1,19,842,below the minutes threshold
+1054934,Maroan Sannadi,Athletic Bilbao,ES1,24,752,below the minutes threshold
+1055220,Fran González,Real Madrid,ES1,19,90,below the minutes threshold
+1056966,Peio Canales,Athletic Bilbao,ES1,20,255,below the minutes threshold
+1056971,Aingeru Olabarrieta,Athletic Bilbao,ES1,19,55,below the minutes threshold
+1057820,Jeremy Agbonifo,RC Lens,FR1,19,296,below the minutes threshold
+1058354,Matteo Palma,Udinese Calcio,IT1,17,4,below the minutes threshold
+1058368,Francesco Camarda,AC Milan,IT1,17,199,below the minutes threshold
+1058369,Thomas Campaniello,FC Empoli,IT1,17,23,below the minutes threshold
+1058515,Kacper Koscierski,VfL Bochum,L1,17,6,below the minutes threshold
+1061260,Iago Parente,Real Valladolid CF,ES1,19,72,below the minutes threshold
+1061283,Mateo Flores,Real Betis Balompié,ES1,21,149,below the minutes threshold
+1061656,Iker Almena,Girona FC,ES1,21,46,below the minutes threshold
+1061660,Selvi Clua,Girona FC,ES1,20,163,below the minutes threshold
+1061820,Lorenzo Venturino,Genoa CFC,IT1,18,163,below the minutes threshold
+1063329,Andrés García,Aston Villa,GB1,22,317,below the minutes threshold
+1063553,Pau Cabanes,Deportivo Alavés,ES1,20,341,below the minutes threshold
+1063574,Jan Salas,RCD Mallorca,ES1,19,39,below the minutes threshold
+1064471,Fer López,Celta de Vigo,ES1,21,625,below the minutes threshold
+1067168,Harry Howell,Brighton & Hove Albion,GB1,17,6,below the minutes threshold
+1067904,Bazoumana Touré,TSG 1899 Hoffenheim,L1,19,609,below the minutes threshold
+1069512,Jonah Kusi-Asare,Bayern Munich,L1,17,2,below the minutes threshold
+1073032,Ike Orazi,Stade Reims,FR1,17,1,below the minutes threshold
+1073997,Shio Fukuda,Borussia Mönchengladbach,L1,21,55,below the minutes threshold
+1074526,Viggo Gebel,RB Leipzig,L1,17,13,below the minutes threshold
+1075574,Amidou Doumbouya,OGC Nice,FR1,17,44,below the minutes threshold
+1075575,Marius Courcoul,Angers SCO,FR1,18,306,below the minutes threshold
+1075589,Enzo Sternal,Olympique Marseille,FR1,18,22,below the minutes threshold
+1077175,Honest Ahanor,Genoa CFC,IT1,17,270,below the minutes threshold
+1077670,Axel Tape,Paris Saint-Germain,FR1,17,180,below the minutes threshold
+1078326,Noah Edjouma,FC Toulouse,FR1,19,163,below the minutes threshold
+1081219,Othmane Maamma,Montpellier HSC,FR1,19,327,below the minutes threshold
+1083164,Lior Kassa,Genoa CFC,IT1,19,225,below the minutes threshold
+1086375,Gustavo Nunes,Brentford FC,GB1,19,11,below the minutes threshold
+1086636,Gabriel Moscardo,Stade Reims,FR1,19,80,below the minutes threshold
+1089802,Remy Rees-Dottin,AFC Bournemouth,GB1,19,1,below the minutes threshold
+1093482,Nicolas Pays,Montpellier HSC,FR1,21,445,below the minutes threshold
+1096744,Lanroy Machine,Angers SCO,FR1,19,7,below the minutes threshold
+1101641,Justin Kalumba,Angers SCO,FR1,20,29,below the minutes threshold
+1103958,Prosper Peter,Angers SCO,FR1,17,25,below the minutes threshold
+1107733,Harrison Armstrong,Everton FC,GB1,18,47,below the minutes threshold
+1108203,Min-su Kim,Girona FC,ES1,19,20,below the minutes threshold
+1108478,Alejandro Gomes Rodríguez,Olympique Lyon,FR1,17,19,below the minutes threshold
+1111663,Kingstone Mutandwa,Cagliari Calcio,IT1,22,121,below the minutes threshold
+1111820,Junior Ajayi,Hellas Verona,IT1,20,11,below the minutes threshold
+1119453,Herba Guirassy,FC Nantes,FR1,18,337,below the minutes threshold
+1119456,Louis Leroux,FC Nantes,FR1,19,813,below the minutes threshold
+1120228,Endika Buján,Athletic Bilbao,ES1,22,6,below the minutes threshold
+1126894,Malcolm Jeng,Stade Reims,FR1,20,107,below the minutes threshold
+1130445,Abdoul Koné,Stade Reims,FR1,20,131,below the minutes threshold
+1131161,Robinio Vaz,Olympique Marseille,FR1,18,74,below the minutes threshold
+1132292,Faik Sakar,RB Leipzig,L1,17,1,below the minutes threshold
+1132634,Martial Tia,Stade Reims,FR1,18,170,below the minutes threshold
+1134878,Diego Martín,UD Las Palmas,ES1,21,38,below the minutes threshold
+1135364,Olabade Aluko,Leicester City,GB1,18,1,below the minutes threshold
+1137808,Hiroki Sekine,Stade Reims,FR1,22,884,below the minutes threshold
+1141560,Kader Meïté,Stade Rennais FC,FR1,17,537,below the minutes threshold
+1141628,Yunus Konak,Brentford FC,GB1,19,37,below the minutes threshold
+1144700,Matías Moreno,ACF Fiorentina,IT1,21,144,below the minutes threshold
+1144999,Luck Zogbé,Stade Brestois 29,FR1,20,636,below the minutes threshold
+1160813,Kembo Diliwidi,RC Lens,FR1,19,3,below the minutes threshold
+1160814,Rayan Fofana,RC Lens,FR1,19,24,below the minutes threshold
+1164331,Ismael Bekhoucha,Getafe CF,ES1,20,65,below the minutes threshold
+1169436,Vladyslav Krapyvtsov,Girona FC,ES1,19,180,below the minutes threshold
+1170286,Darryl Bakola,Olympique Marseille,FR1,17,12,below the minutes threshold
+1171764,Jake Evans,Leicester City,GB1,16,21,below the minutes threshold
+1176345,Mahamadou Nagida,Stade Rennais FC,FR1,19,430,below the minutes threshold
+1176519,Adrián Arnu,Real Valladolid CF,ES1,18,45,below the minutes threshold
+1178721,Rafel Bauzà,RCD Espanyol Barcelona,ES1,20,182,below the minutes threshold
+1179130,Gabin Capuano,RC Lens,FR1,19,10,below the minutes threshold
+1180835,Issiaga Camara,OGC Nice,FR1,20,16,below the minutes threshold
+1183575,Pape Diong,RC Strasbourg Alsace,FR1,18,75,below the minutes threshold
+1183719,Keyliane Abdallah,Olympique Marseille,FR1,19,2,below the minutes threshold
+1185888,Ibrahim Mbaye,Paris Saint-Germain,FR1,17,336,below the minutes threshold
+1186789,Kyllian Antonio,RC Lens,FR1,17,139,below the minutes threshold
+1188619,Alessio Cacciamani,Torino FC,IT1,17,29,below the minutes threshold
+1193867,Pedro Lima,Wolverhampton Wanderers,GB1,18,70,below the minutes threshold
+1200289,Hamidou Makalou,Stade Brestois 29,FR1,18,28,below the minutes threshold
+1200419,Djylian N'Guessan,AS Saint-Étienne,FR1,16,178,below the minutes threshold
+1203026,Wilfried Ndollo Bille,Montpellier HSC,FR1,20,397,below the minutes threshold
+1204959,Roger Hinojo,RCD Espanyol Barcelona,ES1,20,8,below the minutes threshold
+1210422,Aboubacar Bassinga,UD Las Palmas,ES1,19,3,below the minutes threshold
+1228320,Pape Sissoko,Stade Reims,FR1,19,44,below the minutes threshold
+1230661,Mateus Mané,Wolverhampton Wanderers,GB1,17,1,below the minutes threshold
+1231401,Victor Orakpo,OGC Nice,FR1,19,32,below the minutes threshold
+1237306,Hafiz Umar Ibrahim,Stade Reims,FR1,19,386,below the minutes threshold
+1237907,Saliou Diop,Stade Brestois 29,FR1,20,3,below the minutes threshold
+1241211,Rudy Matondo,AJ Auxerre,FR1,17,62,below the minutes threshold
+1245948,Jeremy Monga,Leicester City,GB1,15,105,below the minutes threshold
+1255616,Alberto Risco,Getafe CF,ES1,19,64,below the minutes threshold
+1271065,Valentín Pezzolesi,UD Las Palmas,ES1,18,5,below the minutes threshold
+1275040,Noham Kamara,Paris Saint-Germain,FR1,18,75,below the minutes threshold
+1280281,Abdoulie Ceesay,FC St. Pauli,L1,21,54,below the minutes threshold
+1296876,Marc Domènech,RCD Mallorca,ES1,18,298,below the minutes threshold
+1305792,Álvaro García Pascual,Sevilla FC,ES1,22,409,below the minutes threshold
+1310513,Aristide Zossou,AJ Auxerre,FR1,19,13,below the minutes threshold
+1314671,Bernard Nguene,OGC Nice,FR1,18,12,below the minutes threshold
+1337084,Papa Ba,Girona FC,ES1,21,47,below the minutes threshold
+1338984,Sergio Viera,UD Las Palmas,ES1,20,96,below the minutes threshold
+1363293,Patrick Zabi,Stade Reims,FR1,18,17,below the minutes threshold
+1365799,Arturo Rodríguez,UD Las Palmas,ES1,18,20,below the minutes threshold
+1367276,Ibrahim Alani,Real Valladolid CF,ES1,18,159,below the minutes threshold
+1390649,Yan Diomande,CD Leganés,ES1,18,542,below the minutes threshold
+1411351,Josito González,UD Las Palmas,ES1,19,10,below the minutes threshold

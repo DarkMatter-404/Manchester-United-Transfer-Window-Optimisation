@@ -1,0 +1,84 @@
+{
+ "base": {
+  "fractional_by_kind": {
+   "buy": 0,
+   "cover": 1,
+   "sell": 1,
+   "squad": 1,
+   "start": 0
+  },
+  "fractional_variables": 3,
+  "integer_nodes_explored": 1,
+  "integer_objective_from_model_code": 1100.959,
+  "integer_objective_from_saved_model": 1100.959,
+  "relaxation_minus_integer": 0.0805,
+  "relaxation_objective": 1101.0395,
+  "rows_of_relaxation": {
+   "arrivals": {
+    "dual_price": 23.587,
+    "slack": 0.0
+   },
+   "net_spend": {
+    "dual_price": 0.0,
+    "slack": 51.2391
+   },
+   "non_homegrown": {
+    "dual_price": 0.0,
+    "slack": 1.0
+   },
+   "sales": {
+    "dual_price": 0.0,
+    "slack": 3.0077
+   },
+   "senior_list": {
+    "dual_price": 0.0,
+    "slack": 6.9923
+   },
+   "wages": {
+    "dual_price": 1.3423,
+    "slack": 0.0
+   }
+  }
+ },
+ "transactions_fixed": {
+  "fractional_by_kind": {
+   "buy": 0,
+   "cover": 0,
+   "sell": 0,
+   "squad": 0,
+   "start": 0
+  },
+  "fractional_variables": 0,
+  "integer_nodes_explored": 1,
+  "integer_objective_from_model_code": 1100.959,
+  "integer_objective_from_saved_model": 1100.959,
+  "relaxation_minus_integer": 0.0,
+  "relaxation_objective": 1100.959,
+  "rows_of_relaxation": {
+   "arrivals": {
+    "dual_price": 0.0,
+    "slack": 0.0
+   },
+   "net_spend": {
+    "dual_price": 0.0,
+    "slack": 51.309
+   },
+   "non_homegrown": {
+    "dual_price": 0.0,
+    "slack": 1.0
+   },
+   "sales": {
+    "dual_price": 0.0,
+    "slack": 3.0
+   },
+   "senior_list": {
+    "dual_price": 0.0,
+    "slack": 7.0
+   },
+   "wages": {
+    "dual_price": 0.0,
+    "slack": 0.06
+   }
+  }
+ }
+}

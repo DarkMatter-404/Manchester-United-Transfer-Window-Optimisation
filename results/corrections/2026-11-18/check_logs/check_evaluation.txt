@@ -1,0 +1,19 @@
+PASS one row per group and player | 32 rows
+PASS one row per player and club | 30 rows
+PASS every evaluated player id comes from the frozen lists or the reviewed arrivals | 
+PASS each player id has one name | 
+PASS memberships and distinct players counted | 32 memberships, 30 distinct players
+PASS every club row: minutes, matches and share recomputed from raw rows | 30 rows; 
+PASS no raw league minutes left out of the club rows | 0 left out
+PASS player summaries: main club share, season totals and missing values | 
+PASS case present: one club | Bafodé Diakité, Benjamin Sesko, Bryan Mbeumo, Casemiro, Dani Vivian, Dušan Vlahović, Edmond Tapsoba, Harry Maguire, Joan
+PASS case present: two clubs, same league | Evann Guessand
+PASS case present: two clubs, different leagues | Piero Hincapié, Senne Lammens
+      Evann Guessand: Aston Villa 588 min of 38 matches, Crystal Palace 328 min of 38 matches | main-club share 0.1719 | season total over main club's matches would be 0.2678
+      Senne Lammens: Manchester United 2880 min of 38 matches, Royal Antwerp FC 360 min of 30 matches | main-club share 0.8421 | season total over main club's matches would be 0.9474
+      Piero Hincapié: Arsenal FC 1792 min of 38 matches, Bayer 04 Leverkusen 90 min of 34 matches | main-club share 0.524 | season total over main club's matches would be 0.5503
+PASS missing outcomes kept blank, not zero | 3 without league minutes: Marcin Bulka, Enzo Millot, Diego León
+PASS actual-signing group is exactly the reviewed permanent arrivals | Matheus Cunha, Diego León, Bryan Mbeumo, Benjamin Sesko, Senne Lammens
+PASS no comparison move after 1 September 2025 | 
+
+All evaluation checks passed.

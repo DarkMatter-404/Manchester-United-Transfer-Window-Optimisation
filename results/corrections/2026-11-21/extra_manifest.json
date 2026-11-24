@@ -1,0 +1,221 @@
+{
+ "code_commit": "801366c5dc33dad18a0c81e6a200700bcc524f9c",
+ "command": "python aman/src/extra_runs.py --out aman/results/corrections/2026-11-21",
+ "gurobi": "14.0.0",
+ "note": "Additional analysis after the freeze and after the 2025/26 outcomes were examined. Same inputs and model as the corrected runs of 18 November 2026; the recommendation is unchanged.",
+ "playing_time_audit": {
+  "affected_base_purchases": [],
+  "affected_base_sales": [],
+  "affected_existing_players": [
+   "Patrick Dorgu"
+  ],
+  "player_seasons": 1497,
+  "player_seasons_at_two_or_more_clubs": 164,
+  "players_affected": 153,
+  "reference_players": 830
+ },
+ "python": "3.12.11",
+ "robust_method_toy_checks": [
+  {
+   "W": 10,
+   "gamma": 0,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  },
+  {
+   "W": 11,
+   "gamma": 0,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  },
+  {
+   "W": 12,
+   "gamma": 0,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  },
+  {
+   "W": 10,
+   "gamma": 1,
+   "method": 223.0,
+   "passed": "yes",
+   "search": 223.0
+  },
+  {
+   "W": 11,
+   "gamma": 1,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  },
+  {
+   "W": 12,
+   "gamma": 1,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  },
+  {
+   "W": 10,
+   "gamma": 2,
+   "method": 223.0,
+   "passed": "yes",
+   "search": 223.0
+  },
+  {
+   "W": 11,
+   "gamma": 2,
+   "method": 223.0,
+   "passed": "yes",
+   "search": 223.0
+  },
+  {
+   "W": 12,
+   "gamma": 2,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  },
+  {
+   "W": 10,
+   "gamma": 3,
+   "method": 223.0,
+   "passed": "yes",
+   "search": 223.0
+  },
+  {
+   "W": 11,
+   "gamma": 3,
+   "method": 223.0,
+   "passed": "yes",
+   "search": 223.0
+  },
+  {
+   "W": 12,
+   "gamma": 3,
+   "method": 234.0,
+   "passed": "yes",
+   "search": 234.0
+  }
+ ],
+ "runs": [
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "base",
+   "objective": 1100.96,
+   "run": "extra/base",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "wage allowance",
+   "objective": 1088.26,
+   "run": "extra/wage_allowance_141",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "wage allowance",
+   "objective": 1107.81,
+   "run": "extra/wage_allowance_155",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "wage allowance",
+   "objective": 1114.62,
+   "run": "extra/wage_allowance_162",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "wage allowance",
+   "objective": 1119.83,
+   "run": "extra/wage_allowance_169",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "wage allowance",
+   "objective": 1121.05,
+   "run": "extra/wage_allowance_176",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 4e-06,
+   "group": "wage allowance",
+   "objective": 1129.44,
+   "run": "extra/wage_allowance_183",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "arrivals limit",
+   "objective": 1121.48,
+   "run": "extra/arrivals_7",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "non-homegrown limit",
+   "objective": 1100.96,
+   "run": "extra/non_homegrown_16",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "non-homegrown limit",
+   "objective": 1100.96,
+   "run": "extra/non_homegrown_18",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "depth weight",
+   "objective": 889.0,
+   "run": "extra/depth_weight_0",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "forced sale",
+   "objective": 1097.93,
+   "run": "extra/must_sell_Mount",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "forced sale",
+   "objective": 1090.95,
+   "run": "extra/must_sell_Hojlund",
+   "status": "OPTIMAL"
+  },
+  {
+   "checks_passed": "yes",
+   "gap": 0.0,
+   "group": "full plan: two signings blocked",
+   "objective": 1098.5,
+   "run": "extra/without_Hincapie_and_Ederson",
+   "status": "OPTIMAL"
+  }
+ ],
+ "uncommitted_code_or_inputs": false,
+ "wage_deviation": 0.1,
+ "written": "2026-11-22T04:24:17"
+}

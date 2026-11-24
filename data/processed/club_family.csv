@@ -1,0 +1,674 @@
+member_club_id,member_names,senior_club_id,senior_names,basis
+17,B. Dortmund II,16,Bor. Dortmund | Borussia Dortmund | Dortmund,name 'B. Dortmund II' is one of the senior club's names with a youth ending
+28,FC Bayern II,27,Bayern Munich,name 'FC Bayern II' is one of the senior club's names with a youth ending
+87,W. Bremen II,86,SV Werder Bremen | Werder Bremen,name 'W. Bremen II' is one of the senior club's names with a youth ending
+102,Stuttgart II,79,Stuttgart | VfB Stuttgart,name 'Stuttgart II' is one of the senior club's names with a youth ending
+143,Wolfsburg II,82,VfL Wolfsburg | Wolfsburg,name 'Wolfsburg II' is one of the senior club's names with a youth ending
+177,E. Frankfurt II,24,E. Frankfurt | Eintracht Frankfurt | Frankfurt,name 'E. Frankfurt II' is one of the senior club's names with a youth ending
+211,Leverkusen II,15,B. Leverkusen | Bayer 04 Leverkusen | Leverkusen,name 'Leverkusen II' is one of the senior club's names with a youth ending
+225,St. Pauli II,35,FC St. Pauli | St. Pauli,name 'St. Pauli II' is one of the senior club's names with a youth ending
+245,SC Freiburg II,60,Freiburg | SC Freiburg,name 'SC Freiburg II' is one of the senior club's names with a youth ending
+446,VfL Bochum II,80,VfL Bochum,name 'VfL Bochum II' is one of the senior club's names with a youth ending
+851,FSV Mainz 05 II,39,1.FSV Mainz 05 | Mainz,name 'FSV Mainz 05 II' is one of the senior club's names with a youth ending
+983,Hoffenheim II,533,Hoffenheim | TSG 1899 Hoffenheim | TSG Hoffenheim,name 'Hoffenheim II' is one of the senior club's names with a youth ending
+1006,M'gladbach II,18,Bor. M'gladbach | Borussia Mönchengladbach | Mönchengladbach,name 'M'gladbach II' is one of the senior club's names with a youth ending
+1171,Holst. Kiel II,269,Holstein Kiel,name 'Holst. Kiel II' is one of the senior club's names with a youth ending
+1462,FC Bayern U19,27,Bayern Munich,name 'FC Bayern U19' is one of the senior club's names with a youth ending
+1464,B. Dortmund U19,16,Bor. Dortmund | Borussia Dortmund | Dortmund,name 'B. Dortmund U19' is one of the senior club's names with a youth ending
+2464,Barcelona B | Barça Atlètic,131,Barcelona | FC Barcelona,name 'Barça Atlètic' is one of the senior club's names with a youth ending
+2470,Barça U19,131,Barcelona | FC Barcelona,name 'Barça U19' is one of the senior club's names with a youth ending
+2486,St. Pauli U19,35,FC St. Pauli | St. Pauli,name 'St. Pauli U19' is one of the senior club's names with a youth ending
+2491,W. Bremen U19,86,SV Werder Bremen | Werder Bremen,name 'W. Bremen U19' is one of the senior club's names with a youth ending
+2517,Stuttgart U19,79,Stuttgart | VfB Stuttgart,name 'Stuttgart U19' is one of the senior club's names with a youth ending
+2824,Ajax U19,610,Ajax | Ajax Amsterdam,name 'Ajax U19' is one of the senior club's names with a youth ending
+2862,Feyenoord U19,234,Feyenoord | Feyenoord Rotterdam,name 'Feyenoord U19' is one of the senior club's names with a youth ending
+2865,Betis B | Betis Deportivo,150,Real Betis | Real Betis Balompié,name 'Betis B' is one of the senior club's names with a youth ending
+2868,Real Madrid C,418,Real Madrid,name 'Real Madrid C' is one of the senior club's names with a youth ending
+2987,Motherwell FC U20,987,Motherwell FC,name 'Motherwell FC U20' is one of the senior club's names with a youth ending
+3046,Aberdeen FC U20,370,Aberdeen FC,name 'Aberdeen FC U20' is one of the senior club's names with a youth ending
+3494,KRC Genk U19,1184,Genk | KRC Genk,name 'KRC Genk U19' is one of the senior club's names with a youth ending
+3679,Atl. Madrid B | Atl. Madrileño,13,Atlético | Atlético Madrid | Atlético de Madrid,name 'Atl. Madrid B' is one of the senior club's names with a youth ending
+3791,KAA Gent U19,157,KAA Gent,name 'KAA Gent U19' is one of the senior club's names with a youth ending
+3862,VfL Bochum U19,80,VfL Bochum,name 'VfL Bochum U19' is one of the senior club's names with a youth ending
+3996,Atromitos U19 | Atromitos U20,3060,APS Atromitos Athinon | Atromitos,name 'Atromitos U20' is one of the senior club's names with a youth ending
+4042,SC Freiburg U19,60,Freiburg | SC Freiburg,name 'SC Freiburg U19' is one of the senior club's names with a youth ending
+4121,M'gladbach U19,18,Bor. M'gladbach | Borussia Mönchengladbach | Mönchengladbach,name 'M'gladbach U19' is one of the senior club's names with a youth ending
+4521,Besiktas U21,114,Besiktas | Beşiktaş Jimnastik Kulübü,name 'Besiktas U21' is one of the senior club's names with a youth ending
+4575,PSV U19,383,PSV | PSV Eindhoven,name 'PSV U19' is one of the senior club's names with a youth ending
+4694,Utrecht U19,200,FC Utrecht | Utrecht,name 'Utrecht U19' is one of the senior club's names with a youth ending
+4713,Leverkusen U19,15,B. Leverkusen | Bayer 04 Leverkusen | Leverkusen,name 'Leverkusen U19' is one of the senior club's names with a youth ending
+4778,Willem II U19 | Willem II/RKC-19,403,Willem II | Willem II Tilburg,name 'Willem II U19' is one of the senior club's names with a youth ending
+4779,Heerenveen U19,306,Heerenveen | SC Heerenveen,name 'Heerenveen U19' is one of the senior club's names with a youth ending
+4780,FC Augsburg U19,167,Augsburg | FC Augsburg,name 'FC Augsburg U19' is one of the senior club's names with a youth ending
+5232,Juventus Youth,506,Juventus | Juventus FC,name 'Juventus Youth' is one of the senior club's names with a youth ending
+5242,Man Utd U18,985,Man Utd | Manchester United,name 'Man Utd U18' is one of the senior club's names with a youth ending
+5243,Parma U19,130,Parma | Parma Calcio 1913,name 'Parma U19' is one of the senior club's names with a youth ending
+5343,Wolfsburg U19,82,VfL Wolfsburg | Wolfsburg,name 'Wolfsburg U19' is one of the senior club's names with a youth ending
+5369,Mainz 05 U19,39,1.FSV Mainz 05 | Mainz,name 'Mainz 05 U19' is one of the senior club's names with a youth ending
+5372,Frankfurt U19,24,E. Frankfurt | Eintracht Frankfurt | Frankfurt,name 'Frankfurt U19' is one of the senior club's names with a youth ending
+5379,FC Augsburg II,167,Augsburg | FC Augsburg,name 'FC Augsburg II' is one of the senior club's names with a youth ending
+5380,Inter U19 | Inter U20,46,Inter | Inter Milan,name 'Inter U20' is one of the senior club's names with a youth ending
+5618,Lecce U19 | Lecce U20,1005,Lecce | US Lecce,name 'Lecce U20' is one of the senior club's names with a youth ending
+5663,Cagliari Youth,1390,Cagliari | Cagliari Calcio,name 'Cagliari Youth' is one of the senior club's names with a youth ending
+5679,Arsenal U18,11,Arsenal | Arsenal FC,name 'Arsenal U18' is one of the senior club's names with a youth ending
+6182,Valencia B,1049,Valencia | Valencia CF,name 'Valencia B' is one of the senior club's names with a youth ending
+6199,Aberdeen FC B,370,Aberdeen FC,name 'Aberdeen FC B' is one of the senior club's names with a youth ending
+6200,FC Twente U19 | Twente/Her U19,317,FC Twente | FC Twente Enschede | Twente FC,name 'FC Twente U19' is one of the senior club's names with a youth ending
+6326,Paris SG U19,583,PSG | Paris SG | Paris Saint-Germain,name 'Paris SG U19' is one of the senior club's names with a youth ending
+6357,St. Mirren B,465,St. Mirren | St. Mirren FC,name 'St. Mirren B' is one of the senior club's names with a youth ending
+6572,Montpellier B,969,Montpellier | Montpellier HSC,name 'Montpellier B' is one of the senior club's names with a youth ending
+6688,Bilbao Athletic,621,Athletic | Athletic Bilbao | Athletic Club,entered by hand after review
+6767,RM Castilla,418,Real Madrid,name 'RM Castilla' is one of the senior club's names with a youth ending
+6869,Holst. Kiel U19,269,Holstein Kiel,name 'Holst. Kiel U19' is one of the senior club's names with a youth ending
+6893,Southampton U18,180,Southampton | Southampton FC,name 'Southampton U18' is one of the senior club's names with a youth ending
+6918,Chelsea U18,631,Chelsea | Chelsea FC,name 'Chelsea U18' is one of the senior club's names with a youth ending
+6920,Everton U18,29,Everton | Everton FC,name 'Everton U18' is one of the senior club's names with a youth ending
+6922,Liverpool U18,31,Liverpool | Liverpool FC,name 'Liverpool U18' is one of the senior club's names with a youth ending
+6930,Man City U18,281,Man City | Manchester City,name 'Man City U18' is one of the senior club's names with a youth ending
+6933,Aston Villa U18,405,Aston Villa,name 'Aston Villa U18' is one of the senior club's names with a youth ending
+6942,Fulham U18,931,Fulham | Fulham FC,name 'Fulham U18' is one of the senior club's names with a youth ending
+6943,Newcastle U18,762,Newcastle | Newcastle United,name 'Newcastle U18' is one of the senior club's names with a youth ending
+6945,Palace U21 | Palace U23,873,Crystal Palace,name 'Palace U23' is one of the senior club's names with a youth ending
+6950,Palace U18,873,Crystal Palace,name 'Palace U18' is one of the senior club's names with a youth ending
+7078,R. Valladolid B | Valladolid Prom,366,Real Valladolid | Real Valladolid CF,name 'R. Valladolid B' is one of the senior club's names with a youth ending
+7112,Rangers U20,124,Rangers | Rangers FC,name 'Rangers U20' is one of the senior club's names with a youth ending
+7462,NAC Breda U19,132,NAC Breda,name 'NAC Breda U19' is one of the senior club's names with a youth ending
+7487,Kayserispor U21,3205,Kayserispor,name 'Kayserispor U21' is one of the senior club's names with a youth ending
+7632,AEK Athens U19 | AEK Athens U20 | AEK Athens U21,2441,AEK Athens | Athlitiki Enosi Konstantinoupoleos,name 'AEK Athens U21' is one of the senior club's names with a youth ending
+7661,Olympiacos U19 | Olympiacos U20 | Olympiacos U21,683,Olympiacos | Olympiakos Syndesmos Filathlon Peiraios,name 'Olympiacos U21' is one of the senior club's names with a youth ending
+7802,U. Berlin U19,89,1.FC Union Berlin | Union Berlin,name 'U. Berlin U19' is one of the senior club's names with a youth ending
+7804,Fenerbahce U21,36,Fenerbahce | Fenerbahçe,name 'Fenerbahce U21' is one of the senior club's names with a youth ending
+7813,Olymp. Lyon U19,1041,Lyon | Olympique Lyon,name 'Olymp. Lyon U19' is one of the senior club's names with a youth ending
+7817,AJ Auxerre U19,290,AJ Auxerre,name 'AJ Auxerre U19' is one of the senior club's names with a youth ending
+7874,Rennes U19,273,Stade Rennais | Stade Rennais FC,name 'Rennes U19' is one of the senior club's names with a youth ending
+7875,LOSC Lille U19,1082,LOSC Lille | Lille,name 'LOSC Lille U19' is one of the senior club's names with a youth ending
+7968,R. Strasbourg B,667,R. Strasbourg | RC Strasbourg Alsace,name 'R. Strasbourg B' is one of the senior club's names with a youth ending
+8058,Marseille U19,244,Marseille | Olympique Marseille,name 'Marseille U19' is one of the senior club's names with a youth ending
+8105,Rio Ave FC U19,2425,Rio Ave | Rio Ave FC,name 'Rio Ave FC U19' is one of the senior club's names with a youth ending
+8152,RC Lens B,826,Lens | RC Lens,name 'RC Lens B' is one of the senior club's names with a youth ending
+8154,Rennes B,273,Stade Rennais | Stade Rennais FC,name 'Rennes B' is one of the senior club's names with a youth ending
+8158,OGC Nice B,417,Nice | OGC Nice,name 'OGC Nice B' is one of the senior club's names with a youth ending
+8492,Empoli U19 | Empoli U20,749,Empoli | FC Empoli,name 'Empoli U20' is one of the senior club's names with a youth ending
+8494,RCD Mallorca B,237,RCD Mallorca,name 'RCD Mallorca B' is one of the senior club's names with a youth ending
+8505,Fiorentina U19 | Fiorentina U20,430,ACF Fiorentina | Fiorentina,name 'Fiorentina U20' is one of the senior club's names with a youth ending
+8510,Getafe CF B,3709,Getafe | Getafe CF,name 'Getafe CF B' is one of the senior club's names with a youth ending
+8511,PAOK U19 | PAOK U20 | PAOK U21,1091,PAOK | PAOK Salonika | Panthessalonikios Athlitikos Omilos Konstantinoupoliton,name 'PAOK U21' is one of the senior club's names with a youth ending
+8512,Paris SG B,583,PSG | Paris SG | Paris Saint-Germain,name 'Paris SG B' is one of the senior club's names with a youth ending
+8515,Saint-Étienne B,618,AS Saint-Étienne | Saint-Étienne,name 'Saint-Étienne B' is one of the senior club's names with a youth ending
+8516,Osasuna B,331,CA Osasuna,name 'Osasuna B' is one of the senior club's names with a youth ending
+8517,Genoa U19 | Genoa U20,252,Genoa | Genoa CFC,name 'Genoa U20' is one of the senior club's names with a youth ending
+8519,Sevilla Atl. | Sevilla B,368,Sevilla FC,name 'Sevilla B' is one of the senior club's names with a youth ending
+8521,Heerenveen U17,306,Heerenveen | SC Heerenveen,name 'Heerenveen U17' is one of the senior club's names with a youth ending
+8523,NAC Breda U21,132,NAC Breda,name 'NAC Breda U21' is one of the senior club's names with a youth ending
+8524,Marseille B,244,Marseille | Olympique Marseille,name 'Marseille B' is one of the senior club's names with a youth ending
+8733,Celta Fortuna | Celta Vigo B,940,Celta de Vigo,name 'Celta Vigo B' is one of the senior club's names with a youth ending
+8815,Bröndby IF U19,206,Bröndby IF,name 'Bröndby IF U19' is one of the senior club's names with a youth ending
+8817,Ajax U21,610,Ajax | Ajax Amsterdam,name 'Ajax U21' is one of the senior club's names with a youth ending
+8880,Alavés B,1108,Alavés | Deportivo Alavés,name 'Alavés B' is one of the senior club's names with a youth ending
+8881,Alavés Youth,1108,Alavés | Deportivo Alavés,name 'Alavés Youth' is one of the senior club's names with a youth ending
+8889,Benfica U19,294,Benfica | SL Benfica,name 'Benfica U19' is one of the senior club's names with a youth ending
+8924,Celtic U20,371,Celtic | Celtic FC,name 'Celtic U20' is one of the senior club's names with a youth ending
+8925,Hoffenheim U19,533,Hoffenheim | TSG 1899 Hoffenheim | TSG Hoffenheim,name 'Hoffenheim U19' is one of the senior club's names with a youth ending
+8945,Dundee FC U20,511,Dundee FC,name 'Dundee FC U20' is one of the senior club's names with a youth ending
+8997,W. Bremen III,86,SV Werder Bremen | Werder Bremen,name 'W. Bremen III' is one of the senior club's names with a youth ending
+9005,Willem II U21,403,Willem II | Willem II Tilburg,name 'Willem II U21' is one of the senior club's names with a youth ending
+9043,Celtic B,371,Celtic | Celtic FC,name 'Celtic B' is one of the senior club's names with a youth ending
+9046,Kilmarnock FC U20,2553,Kilmarnock FC,name 'Kilmarnock FC U20' is one of the senior club's names with a youth ending
+9054,Midtjylland U19,865,FC Midtjylland | Midtjylland,name 'Midtjylland U19' is one of the senior club's names with a youth ending
+9066,AGF/Viby IF U19 | Aarhus GF U19,678,Aarhus GF,name 'Aarhus GF U19' is one of the senior club's names with a youth ending
+9113,Aalborg BK U19,1053,Aalborg BK,name 'Aalborg BK U19' is one of the senior club's names with a youth ending
+9249,Arsenal Res. | Arsenal U21 | Arsenal U23,11,Arsenal | Arsenal FC,name 'Arsenal U23' is one of the senior club's names with a youth ending
+9250,Chelsea Res. | Chelsea U21 | Chelsea U23,631,Chelsea | Chelsea FC,name 'Chelsea U23' is one of the senior club's names with a youth ending
+9251,Man Utd Res. | Man Utd U21 | Man Utd U23,985,Man Utd | Manchester United,name 'Man Utd U23' is one of the senior club's names with a youth ending
+9252,Liverpool Res. | Liverpool U21 | Liverpool U23,31,Liverpool | Liverpool FC,name 'Liverpool U23' is one of the senior club's names with a youth ending
+9253,Newcastle Res. | Newcastle U21 | Newcastle U23,762,Newcastle | Newcastle United,name 'Newcastle U23' is one of the senior club's names with a youth ending
+9254,Tottenham Res. | Tottenham U21 | Tottenham U23,148,Tottenham | Tottenham Hotspur,name 'Tottenham U23' is one of the senior club's names with a youth ending
+9261,Everton Res. | Everton U21 | Everton U23,29,Everton | Everton FC,name 'Everton U23' is one of the senior club's names with a youth ending
+9262,Fulham FC U21 | Fulham Res. | Fulham U21 | Fulham U23,931,Fulham | Fulham FC,name 'Fulham U23' is one of the senior club's names with a youth ending
+9265,Man City Res. | Man City U21 | Man City U23,281,Man City | Manchester City,name 'Man City U23' is one of the senior club's names with a youth ending
+9267,West Ham Res. | West Ham U21 | West Ham U23,379,West Ham | West Ham United,name 'West Ham U23' is one of the senior club's names with a youth ending
+9371,Toulouse B,415,FC Toulouse | Toulouse,name 'Toulouse B' is one of the senior club's names with a youth ending
+9372,Toulouse U19,415,FC Toulouse | Toulouse,name 'Toulouse U19' is one of the senior club's names with a youth ending
+9478,Espanyol U19,714,Espanyol | RCD Espanyol Barcelona,name 'Espanyol U19' is one of the senior club's names with a youth ending
+9495,Lazio Youth,398,Lazio | Società Sportiva Lazio S.p.A.,name 'Lazio Youth' is one of the senior club's names with a youth ending
+9606,Brighton U18,1237,Brighton | Brighton & Hove Albion,name 'Brighton U18' is one of the senior club's names with a youth ending
+9668,Monaco B | Monaco U21,162,AS Monaco | Monaco,name 'Monaco U21' is one of the senior club's names with a youth ending
+9669,Monaco U19,162,AS Monaco | Monaco,name 'Monaco U19' is one of the senior club's names with a youth ending
+9712,Lyngby BK Youth,369,Lyngby BK | Lyngby Boldklub,name 'Lyngby BK Youth' is one of the senior club's names with a youth ending
+9715,PSV U21,383,PSV | PSV Eindhoven,name 'PSV U21' is one of the senior club's names with a youth ending
+9844,FC Porto U19,720,FC Porto | Porto,name 'FC Porto U19' is one of the senior club's names with a youth ending
+9899,Real Sociedad B,681,Real Sociedad,name 'Real Sociedad B' is one of the senior club's names with a youth ending
+9900,R. Sociedad U19,681,Real Sociedad,name 'R. Sociedad U19' is one of the senior club's names with a youth ending
+9955,West Ham U18,379,West Ham | West Ham United,name 'West Ham U18' is one of the senior club's names with a youth ending
+10006,Ipswich U18,677,Ipswich | Ipswich Town,name 'Ipswich U18' is one of the senior club's names with a youth ending
+10200,Valencia U19,1049,Valencia | Valencia CF,name 'Valencia U19' is one of the senior club's names with a youth ending
+10283,Sporting U19,336,Sporting | Sporting CP,name 'Sporting U19' is one of the senior club's names with a youth ending
+10330,Benfica B,294,Benfica | SL Benfica,name 'Benfica B' is one of the senior club's names with a youth ending
+10331,FC Porto B,720,FC Porto | Porto,name 'FC Porto B' is one of the senior club's names with a youth ending
+10445,Sönderjyske U19,5817,SönderjyskE | Sönderjyske | Sönderjyske Fodbold,name 'Sönderjyske U19' is one of the senior club's names with a youth ending
+10446,Trabzonspor U21,449,Trabzonspor,name 'Trabzonspor U21' is one of the senior club's names with a youth ending
+10517,St. Mirren FC U20,465,St. Mirren | St. Mirren FC,name 'St. Mirren FC U20' is one of the senior club's names with a youth ending
+10520,Ross County FC U20,2759,Ross County | Ross County FC,name 'Ross County FC U20' is one of the senior club's names with a youth ending
+10552,St. Johnstone FC U20,2578,St. Johnstone | St. Johnstone FC,name 'St. Johnstone FC U20' is one of the senior club's names with a youth ending
+10666,Union SG U21 | Union SG U23,3948,Union SG | Union Saint-Gilloise,name 'Union SG U23' is one of the senior club's names with a youth ending
+10773,RCD Espanyol B,714,Espanyol | RCD Espanyol Barcelona,name 'RCD Espanyol B' is one of the senior club's names with a youth ending
+10789,Braga B,1075,Braga | SC Braga,name 'Braga B' is one of the senior club's names with a youth ending
+10820,AJ Auxerre B,290,AJ Auxerre,name 'AJ Auxerre B' is one of the senior club's names with a youth ending
+10824,RC Lens U19,826,Lens | RC Lens,name 'RC Lens U19' is one of the senior club's names with a youth ending
+10850,FC Nantes B,995,FC Nantes,name 'FC Nantes B' is one of the senior club's names with a youth ending
+10851,FC Nantes U19,995,FC Nantes,name 'FC Nantes U19' is one of the senior club's names with a youth ending
+10852,Montpellier U19,969,Montpellier | Montpellier HSC,name 'Montpellier U19' is one of the senior club's names with a youth ending
+10949,Sporting B,336,Sporting | Sporting CP,name 'Sporting B' is one of the senior club's names with a youth ending
+10958,Milan U19 | Milan U20,5,AC Milan,name 'Milan U20' is one of the senior club's names with a youth ending
+10959,Udinese U19 | Udinese U20,410,Udinese | Udinese Calcio,name 'Udinese U20' is one of the senior club's names with a youth ending
+10967,Vejle BK Youth,443,Vejle BK | Vejle Boldklub,name 'Vejle BK Youth' is one of the senior club's names with a youth ending
+11008,Juventus U19 | Juventus U20,506,Juventus | Juventus FC,name 'Juventus U20' is one of the senior club's names with a youth ending
+11199,Strasbourg U19,667,R. Strasbourg | RC Strasbourg Alsace,name 'Strasbourg U19' is one of the senior club's names with a youth ending
+11204,Stade Reims B,1421,Stade Reims,name 'Stade Reims B' is one of the senior club's names with a youth ending
+11368,AZ Alkmaar U21,1090,AZ Alkmaar,name 'AZ Alkmaar U21' is one of the senior club's names with a youth ending
+11502,Galatasaray U21,141,Galatasaray,name 'Galatasaray U21' is one of the senior club's names with a youth ending
+11614,UD Las Palmas C,472,UD Las Palmas,name 'UD Las Palmas C' is one of the senior club's names with a youth ending
+11674,Valladolid U19,366,Real Valladolid | Real Valladolid CF,name 'Valladolid U19' is one of the senior club's names with a youth ending
+11676,Cagliari U19 | Cagliari U20,1390,Cagliari | Cagliari Calcio,name 'Cagliari U20' is one of the senior club's names with a youth ending
+11744,Khimki II,3719,FC Khimki (-2025) | Khimki,name 'Khimki II' is one of the senior club's names with a youth ending
+11746,Rostov II,1083,FK Rostov | Rostov,name 'Rostov II' is one of the senior club's names with a youth ending
+11747,KS Samara II,2696,KS Samara | PFK Krylya Sovetov Samara,name 'KS Samara II' is one of the senior club's names with a youth ending
+11749,Loko Moscow II,932,"Loko Moscow | Loko Moskau | Футбольный клуб ""Локомотив"" Москва",name 'Loko Moscow II' is one of the senior club's names with a youth ending
+11750,Rubin Kazan II,2698,FC Rubin Kazan | Rubin Kazan,name 'Rubin Kazan II' is one of the senior club's names with a youth ending
+11755,CSKA Moscow II,2410,CSKA Moscow | PFK CSKA Moskva,name 'CSKA Moscow II' is one of the senior club's names with a youth ending
+11845,M'gladbach Yth.,18,Bor. M'gladbach | Borussia Mönchengladbach | Mönchengladbach,name 'M'gladbach Yth.' is one of the senior club's names with a youth ending
+11874,Leverkusen Yth.,15,B. Leverkusen | Bayer 04 Leverkusen | Leverkusen,name 'Leverkusen Yth.' is one of the senior club's names with a youth ending
+11894,VfL Bochum Yth.,80,VfL Bochum,name 'VfL Bochum Yth.' is one of the senior club's names with a youth ending
+11896,Dortmund Yth.,16,Bor. Dortmund | Borussia Dortmund | Dortmund,name 'Dortmund Yth.' is one of the senior club's names with a youth ending
+11972,Villarreal CF B,1050,Villarreal | Villarreal CF,name 'Villarreal CF B' is one of the senior club's names with a youth ending
+11973,KV Mechelen U19,354,KV Mechelen,name 'KV Mechelen U19' is one of the senior club's names with a youth ending
+11997,Roma U19 | Roma U20,12,AS Roma | Associazione Sportiva Roma | Roma,name 'Roma U20' is one of the senior club's names with a youth ending
+11998,Atalanta U19 | Atalanta U20,800,Atalanta | Atalanta BC,name 'Atalanta U20' is one of the senior club's names with a youth ending
+12012,W. Bremen Yth.,86,SV Werder Bremen | Werder Bremen,name 'W. Bremen Yth.' is one of the senior club's names with a youth ending
+12016,Frankfurt Yth.,24,E. Frankfurt | Eintracht Frankfurt | Frankfurt,name 'Frankfurt Yth.' is one of the senior club's names with a youth ending
+12124,Aston Villa Res. | Aston Villa U21 | Aston Villa U23,405,Aston Villa,name 'Aston Villa U23' is one of the senior club's names with a youth ending
+12130,Torino U19 | Torino U20,416,Torino | Torino FC,name 'Torino U20' is one of the senior club's names with a youth ending
+12221,Heidenheim II,2036,1. Fußballclub Heidenheim 1846 | Heidenheim,name 'Heidenheim II' is one of the senior club's names with a youth ending
+12278,Le Havre U19,738,Le Havre AC,name 'Le Havre U19' is one of the senior club's names with a youth ending
+12319,Sevilla FC C,368,Sevilla FC,name 'Sevilla FC C' is one of the senior club's names with a youth ending
+12331,Sporting Atlco. | Sporting B,336,Sporting | Sporting CP,name 'Sporting B' is one of the senior club's names with a youth ending
+12412,Chornomorets II,6992,Chornomorets | Chornomorets Odesa,name 'Chornomorets II' is one of the senior club's names with a youth ending
+12516,Kryvbas II,3592,Kryvbas | Kryvbas Kryvyi Rig,name 'Kryvbas II' is one of the senior club's names with a youth ending
+12573,Rangers B,124,Rangers | Rangers FC,name 'Rangers B' is one of the senior club's names with a youth ending
+12666,Atl. Madrid C,13,Atlético | Atlético Madrid | Atlético de Madrid,name 'Atl. Madrid C' is one of the senior club's names with a youth ending
+12745,St-Étienne U19,618,AS Saint-Étienne | Saint-Étienne,name 'St-Étienne U19' is one of the senior club's names with a youth ending
+12764,Olymp. Lyon B,1041,Lyon | Olympique Lyon,name 'Olymp. Lyon B' is one of the senior club's names with a youth ending
+12765,LOSC Lille B,1082,LOSC Lille | Lille,name 'LOSC Lille B' is one of the senior club's names with a youth ending
+12769,Angers SCO U19,1420,Angers SCO,name 'Angers SCO U19' is one of the senior club's names with a youth ending
+12774,Stade Reims U19,1421,Stade Reims,name 'Stade Reims U19' is one of the senior club's names with a youth ending
+12780,Kasimpasa U21,10484,Kasimpasa,name 'Kasimpasa U21' is one of the senior club's names with a youth ending
+12799,Nottingham U18,703,Nott'm Forest | Nottingham Forest | Nottm Forest,name 'Nottingham U18' is one of the senior club's names with a youth ending
+12801,Wolves U18,543,Wolverhampton Wanderers | Wolves,name 'Wolves U18' is one of the senior club's names with a youth ending
+12812,Fiorentina Yth.,430,ACF Fiorentina | Fiorentina,name 'Fiorentina Yth.' is one of the senior club's names with a youth ending
+12816,Lazio U19 | Lazio U20,398,Lazio | Società Sportiva Lazio S.p.A.,name 'Lazio U20' is one of the senior club's names with a youth ending
+12819,Napoli U19 | Napoli U20,6195,Napoli | SSC Napoli,name 'Napoli U20' is one of the senior club's names with a youth ending
+12821,Wolfsburg Yth.,82,VfL Wolfsburg | Wolfsburg,name 'Wolfsburg Yth.' is one of the senior club's names with a youth ending
+12853,FC Villarreal C,1050,Villarreal | Villarreal CF,name 'FC Villarreal C' is one of the senior club's names with a youth ending
+12964,Braga U19,1075,Braga | SC Braga,name 'Braga U19' is one of the senior club's names with a youth ending
+13248,Hibernian FC U20,903,Hibernian FC,name 'Hibernian FC U20' is one of the senior club's names with a youth ending
+13711,Real Madrid U17,418,Real Madrid,name 'Real Madrid U17' is one of the senior club's names with a youth ending
+14281,Dynamo Kyiv U17,338,Dynamo Kyiv,name 'Dynamo Kyiv U17' is one of the senior club's names with a youth ending
+14321,Barça U16,131,Barcelona | FC Barcelona,name 'Barça U16' is one of the senior club's names with a youth ending
+14363,Lyngby BK U19,369,Lyngby BK | Lyngby Boldklub,name 'Lyngby BK U19' is one of the senior club's names with a youth ending
+14389,Leicester U18,1003,Leicester | Leicester City,name 'Leicester U18' is one of the senior club's names with a youth ending
+14431,Empoli FC Youth,749,Empoli | FC Empoli,name 'Empoli FC Youth' is one of the senior club's names with a youth ending
+14565,Sivasspor U21,2381,Sivasspor,name 'Sivasspor U21' is one of the senior club's names with a youth ending
+14648,Bournemouth U18,989,AFC Bournemouth | Bournemouth,name 'Bournemouth U18' is one of the senior club's names with a youth ending
+14685,Sevilla FC Yth.,368,Sevilla FC,name 'Sevilla FC Yth.' is one of the senior club's names with a youth ending
+14694,Como U19,1047,Como | Como 1907,name 'Como U19' is one of the senior club's names with a youth ending
+14725,FC Groning. U21 | FC Groningen U21 | Gron./Cam. U21 | Groningen U21,202,FC Groningen,name 'FC Groningen U21' is one of the senior club's names with a youth ending
+14734,Atl. Madrid U17,13,Atlético | Atlético Madrid | Atlético de Madrid,name 'Atl. Madrid U17' is one of the senior club's names with a youth ending
+14737,Espanyol Youth,714,Espanyol | RCD Espanyol Barcelona,name 'Espanyol Youth' is one of the senior club's names with a youth ending
+14738,Getafe CF Youth,3709,Getafe | Getafe CF,name 'Getafe CF Youth' is one of the senior club's names with a youth ending
+14740,Villarreal Yth.,1050,Villarreal | Villarreal CF,name 'Villarreal Yth.' is one of the senior club's names with a youth ending
+14743,Real Betis Yth.,150,Real Betis | Real Betis Balompié,name 'Real Betis Yth.' is one of the senior club's names with a youth ending
+14746,Valladolid Yth.,366,Real Valladolid | Real Valladolid CF,name 'Valladolid Yth.' is one of the senior club's names with a youth ending
+14784,OFI Crete U19,653,OFI Crete | OFI Crete FC | Omilos Filathlon Irakliou FC,name 'OFI Crete U19' is one of the senior club's names with a youth ending
+14789,Betis C,150,Real Betis | Real Betis Balompié,name 'Betis C' is one of the senior club's names with a youth ending
+14822,Heidenheim U19,2036,1. Fußballclub Heidenheim 1846 | Heidenheim,name 'Heidenheim U19' is one of the senior club's names with a youth ending
+14848,Bologna U19 | Bologna U20,1025,Bologna | Bologna Football Club 1909,name 'Bologna U20' is one of the senior club's names with a youth ending
+14920,Hellas Verona Y,276,Hellas Verona,name 'Hellas Verona Y' is one of the senior club's names with a youth ending
+14940,Almere City U19 | FC Omniworld U19,723,Almere City | Almere City FC | FC Omniworld,name 'FC Omniworld U19' is one of the senior club's names with a youth ending
+14967,Real Sociedad Y,681,Real Sociedad,name 'Real Sociedad Y' is one of the senior club's names with a youth ending
+14997,Brentford U18,1148,Brentford | Brentford FC,name 'Brentford U18' is one of the senior club's names with a youth ending
+15020,Antalyaspor U21,589,Antalyaspor,name 'Antalyaspor U21' is one of the senior club's names with a youth ending
+15022,C. Rizespor U21,126,C. Rizespor | Caykur Rizespor,name 'C. Rizespor U21' is one of the senior club's names with a youth ending
+15025,Konyaspor U21,2293,Konyaspor,name 'Konyaspor U21' is one of the senior club's names with a youth ending
+15080,Rayo B,367,Rayo Vallecano,name 'Rayo B' is one of the senior club's names with a youth ending
+15083,Inter U20,46,Inter | Inter Milan,name 'Inter U20' is one of the senior club's names with a youth ending
+15101,Arsenal FC U20,11,Arsenal | Arsenal FC,name 'Arsenal FC U20' is one of the senior club's names with a youth ending
+15274,Basaksehir U21 | Büyüksehir B. II | Istanbul BB U21,6890,Basaksehir | Basaksehir FK | Büyüksehir Bld | Istanbul BBSK,name 'Basaksehir U21' is one of the senior club's names with a youth ending
+15439,Le Havre B,738,Le Havre AC,name 'Le Havre B' is one of the senior club's names with a youth ending
+15466,Inter B,46,Inter | Inter Milan,name 'Inter B' is one of the senior club's names with a youth ending
+15509,Celta U19,940,Celta de Vigo,name 'Celta U19' is one of the senior club's names with a youth ending
+15561,Nacional U19,982,CD Nacional | Nacional,name 'Nacional U19' is one of the senior club's names with a youth ending
+15567,Gil Vicente U19 | Gil Vicente Y19,2424,Gil Vicente | Gil Vicente FC,name 'Gil Vicente U19' is one of the senior club's names with a youth ending
+15570,Moreirense U19,979,Moreirense | Moreirense FC,name 'Moreirense U19' is one of the senior club's names with a youth ending
+15587,PEC Zwolle U19,1269,FC Zwolle | PEC Zwolle,name 'PEC Zwolle U19' is one of the senior club's names with a youth ending
+15595,Santa Clara U19,2423,CD Santa Clara | Santa Clara,name 'Santa Clara U19' is one of the senior club's names with a youth ending
+15605,Estoril U19,1465,Estoril | Estoril Praia | GD Estoril Praia,name 'Estoril U19' is one of the senior club's names with a youth ending
+15644,VBK Kolding U19 | Vejle BK U19,443,Vejle BK | Vejle Boldklub,name 'Vejle BK U19' is one of the senior club's names with a youth ending
+15687,OH Leuven U19,2727,OH Leuven | Oud-Heverlee Leuven,name 'OH Leuven U19' is one of the senior club's names with a youth ending
+15709,Randers FC U19 | Randers U19,5724,Randers FC,name 'Randers FC U19' is one of the senior club's names with a youth ending
+15713,FK Viborg U19 | Viborg FF U19,1063,Viborg FF,name 'Viborg FF U19' is one of the senior club's names with a youth ending
+15943,Arsenal FC II,11,Arsenal | Arsenal FC,name 'Arsenal FC II' is one of the senior club's names with a youth ending
+16104,Copenhagen U19,190,Copenhagen | FC Copenhagen,name 'Copenhagen U19' is one of the senior club's names with a youth ending
+16157,Sporting U19,336,Sporting | Sporting CP,name 'Sporting U19' is one of the senior club's names with a youth ending
+16560,Nacional U19,982,CD Nacional | Nacional,name 'Nacional U19' is one of the senior club's names with a youth ending
+16672,Angers SCO B,1420,Angers SCO,name 'Angers SCO B' is one of the senior club's names with a youth ending
+16996,Verona U19 | Verona U20,276,Hellas Verona,name 'Verona U20' is one of the senior club's names with a youth ending
+17020,Nacional B,982,CD Nacional | Nacional,name 'Nacional B' is one of the senior club's names with a youth ending
+17257,Venezia U19,607,Unione Venezia | Venezia | Venezia FC,name 'Venezia U19' is one of the senior club's names with a youth ending
+17474,Hoffenheim Yth.,533,Hoffenheim | TSG 1899 Hoffenheim | TSG Hoffenheim,name 'Hoffenheim Yth.' is one of the senior club's names with a youth ending
+17588,Mainz 05 Yth.,39,1.FSV Mainz 05 | Mainz,name 'Mainz 05 Yth.' is one of the senior club's names with a youth ending
+17596,Utrecht U21,200,FC Utrecht | Utrecht,name 'Utrecht U21' is one of the senior club's names with a youth ending
+17686,CD Leganés B,1244,CD Leganés,name 'CD Leganés B' is one of the senior club's names with a youth ending
+18026,FC Twente U21,317,FC Twente | FC Twente Enschede | Twente FC,name 'FC Twente U21' is one of the senior club's names with a youth ending
+18042,Freiburg Yth.,60,Freiburg | SC Freiburg,name 'Freiburg Yth.' is one of the senior club's names with a youth ending
+18343,FC Twente U17,317,FC Twente | FC Twente Enschede | Twente FC,name 'FC Twente U17' is one of the senior club's names with a youth ending
+18936,B. München Yth.,27,Bayern Munich,name 'B. München Yth.' is one of the senior club's names with a youth ending
+19115,Aalborg BK Yout | Aalborg BK Yth.,1053,Aalborg BK,name 'Aalborg BK Yth.' is one of the senior club's names with a youth ending
+19210,Stuttgart Yth.,79,Stuttgart | VfB Stuttgart,name 'Stuttgart Yth.' is one of the senior club's names with a youth ending
+19332,Levadiakos U19 | Levadiakos U20,2672,APO Levadiakos | APO Levadiakos Football Club | Levadiakos,name 'Levadiakos U20' is one of the senior club's names with a youth ending
+19406,Aarhus GF Youth,678,Aarhus GF,name 'Aarhus GF Youth' is one of the senior club's names with a youth ending
+19854,Inter U19,46,Inter | Inter Milan,name 'Inter U19' is one of the senior club's names with a youth ending
+19982,Bröndby IF U17,206,Bröndby IF,name 'Bröndby IF U17' is one of the senior club's names with a youth ending
+20107,Atlético U19,13,Atlético | Atlético Madrid | Atlético de Madrid,name 'Atlético U19' is one of the senior club's names with a youth ending
+20121,Farense U19,4294,Farense | SC Farense,name 'Farense U19' is one of the senior club's names with a youth ending
+20201,Rayo U19,367,Rayo Vallecano,name 'Rayo U19' is one of the senior club's names with a youth ending
+20205,Casa Pia U19,3268,Casa Pia | Casa Pia AC,name 'Casa Pia U19' is one of the senior club's names with a youth ending
+20277,Girona U19,12321,Girona | Girona FC,name 'Girona U19' is one of the senior club's names with a youth ending
+20298,Almere City U21 | Almere City U23,723,Almere City | Almere City FC | FC Omniworld,name 'Almere City U23' is one of the senior club's names with a youth ending
+20300,PEC Zwolle U21,1269,FC Zwolle | PEC Zwolle,name 'PEC Zwolle U21' is one of the senior club's names with a youth ending
+20354,Liverpool U19,31,Liverpool | Liverpool FC,name 'Liverpool U19' is one of the senior club's names with a youth ending
+20475,Viborg FF Youth,1063,Viborg FF,name 'Viborg FF Youth' is one of the senior club's names with a youth ending
+20728,Famalicão U19 | Famalicão Y19,3329,FC Famalicão | Famalicão,name 'Famalicão U19' is one of the senior club's names with a youth ending
+21051,Mainz 05 U17,39,1.FSV Mainz 05 | Mainz,name 'Mainz 05 U17' is one of the senior club's names with a youth ending
+21054,Leverkusen U17,15,B. Leverkusen | Bayer 04 Leverkusen | Leverkusen,name 'Leverkusen U17' is one of the senior club's names with a youth ending
+21055,B. Dortmund U17,16,Bor. Dortmund | Borussia Dortmund | Dortmund,name 'B. Dortmund U17' is one of the senior club's names with a youth ending
+21056,M'gladbach U17,18,Bor. M'gladbach | Borussia Mönchengladbach | Mönchengladbach,name 'M'gladbach U17' is one of the senior club's names with a youth ending
+21057,Frankfurt U17,24,E. Frankfurt | Eintracht Frankfurt | Frankfurt,name 'Frankfurt U17' is one of the senior club's names with a youth ending
+21058,FC Bayern U17,27,Bayern Munich,name 'FC Bayern U17' is one of the senior club's names with a youth ending
+21062,St. Pauli U17,35,FC St. Pauli | St. Pauli,name 'St. Pauli U17' is one of the senior club's names with a youth ending
+21067,Holst. Kiel U17,269,Holstein Kiel,name 'Holst. Kiel U17' is one of the senior club's names with a youth ending
+21075,SC Freiburg U17,60,Freiburg | SC Freiburg,name 'SC Freiburg U17' is one of the senior club's names with a youth ending
+21079,W. Bremen U17,86,SV Werder Bremen | Werder Bremen,name 'W. Bremen U17' is one of the senior club's names with a youth ending
+21082,Hoffenheim U17,533,Hoffenheim | TSG 1899 Hoffenheim | TSG Hoffenheim,name 'Hoffenheim U17' is one of the senior club's names with a youth ending
+21084,Stuttgart U17,79,Stuttgart | VfB Stuttgart,name 'Stuttgart U17' is one of the senior club's names with a youth ending
+21085,VfL Bochum U17,80,VfL Bochum,name 'VfL Bochum U17' is one of the senior club's names with a youth ending
+21087,Wolfsburg U17,82,VfL Wolfsburg | Wolfsburg,name 'Wolfsburg U17' is one of the senior club's names with a youth ending
+21099,U. Berlin U17,89,1.FC Union Berlin | Union Berlin,name 'U. Berlin U17' is one of the senior club's names with a youth ending
+21218,Dynamo Kyiv II,338,Dynamo Kyiv,name 'Dynamo Kyiv II' is one of the senior club's names with a youth ending
+21301,Como Youth,1047,Como | Como 1907,name 'Como Youth' is one of the senior club's names with a youth ending
+22265,Arouca U19,8024,Arouca | FC Arouca,name 'Arouca U19' is one of the senior club's names with a youth ending
+22881,Krasnodar II,16704,FK Krasnodar | Krasnodar,name 'Krasnodar II' is one of the senior club's names with a youth ending
+23591,Kryvbas U17,3592,Kryvbas | Kryvbas Kryvyi Rig,name 'Kryvbas U17' is one of the senior club's names with a youth ending
+23618,Obolon Kyiv II,39097,Obolon | Obolon Kyiv | Obolon-Brovar,name 'Obolon Kyiv II' is one of the senior club's names with a youth ending
+24146,W. Bremen U18,86,SV Werder Bremen | Werder Bremen,name 'W. Bremen U18' is one of the senior club's names with a youth ending
+24226,Wolves Res. | Wolves U21 | Wolves U23,543,Wolverhampton Wanderers | Wolves,name 'Wolves U23' is one of the senior club's names with a youth ending
+24293,RB Leipzig II,23826,Leipzig | RB Leipzig,name 'RB Leipzig II' is one of the senior club's names with a youth ending
+24366,Feyenoord U21,234,Feyenoord | Feyenoord Rotterdam,name 'Feyenoord U21' is one of the senior club's names with a youth ending
+24368,H'veen/Emmen II | Heerenveen U21,306,Heerenveen | SC Heerenveen,name 'Heerenveen U21' is one of the senior club's names with a youth ending
+24422,Everton U21,29,Everton | Everton FC,name 'Everton U21' is one of the senior club's names with a youth ending
+24432,Inter Youth,46,Inter | Inter Milan,name 'Inter Youth' is one of the senior club's names with a youth ending
+24463,Nacional U20,982,CD Nacional | Nacional,name 'Nacional U20' is one of the senior club's names with a youth ending
+25003,Club Brugge Yth,2282,Club Brugge | Club Brugge KV,name 'Club Brugge Yth' is one of the senior club's names with a youth ending
+25261,Sporting Yth.,336,Sporting | Sporting CP,name 'Sporting Yth.' is one of the senior club's names with a youth ending
+25545,AS Rom Youth,12,AS Roma | Associazione Sportiva Roma | Roma,name 'AS Rom Youth' is one of the senior club's names with a youth ending
+25828,AC Milan Youth,5,AC Milan,name 'AC Milan Youth' is one of the senior club's names with a youth ending
+26117,Ipswich Town U23 | Ipswich U21,677,Ipswich | Ipswich Town,name 'Ipswich U21' is one of the senior club's names with a youth ending
+26124,Panetolikos U19 | Panetolikos U20,6418,Panetolikos | Panetolikos Agrinio,name 'Panetolikos U20' is one of the senior club's names with a youth ending
+26208,Newcastle U21,762,Newcastle | Newcastle United,name 'Newcastle U21' is one of the senior club's names with a youth ending
+26492,Nacional U19,982,CD Nacional | Nacional,name 'Nacional U19' is one of the senior club's names with a youth ending
+26621,RB Leipzig U19,23826,Leipzig | RB Leipzig,name 'RB Leipzig U19' is one of the senior club's names with a youth ending
+26626,Obolon Kyiv U17,39097,Obolon | Obolon Kyiv | Obolon-Brovar,name 'Obolon Kyiv U17' is one of the senior club's names with a youth ending
+28103,Augsburg Yth.,167,Augsburg | FC Augsburg,name 'Augsburg Yth.' is one of the senior club's names with a youth ending
+28861,Osasuna U19,331,CA Osasuna,name 'Osasuna U19' is one of the senior club's names with a youth ending
+28866,Getafe U19,3709,Getafe | Getafe CF,name 'Getafe U19' is one of the senior club's names with a youth ending
+28867,Sevilla FC U19,368,Sevilla FC,name 'Sevilla FC U19' is one of the senior club's names with a youth ending
+28868,Villarreal U19,1050,Villarreal | Villarreal CF,name 'Villarreal U19' is one of the senior club's names with a youth ending
+28870,Real Madrid U19,418,Real Madrid,name 'Real Madrid U19' is one of the senior club's names with a youth ending
+28874,Udinese Youth,410,Udinese | Udinese Calcio,name 'Udinese Youth' is one of the senior club's names with a youth ending
+29107,St. Pauli Yth.,35,FC St. Pauli | St. Pauli,name 'St. Pauli Yth.' is one of the senior club's names with a youth ending
+29176,FC Augsburg U17,167,Augsburg | FC Augsburg,name 'FC Augsburg U17' is one of the senior club's names with a youth ending
+29344,Atalanta Youth,800,Atalanta | Atalanta BC,name 'Atalanta Youth' is one of the senior club's names with a youth ending
+29348,Bologna Youth,1025,Bologna | Bologna Football Club 1909,name 'Bologna Youth' is one of the senior club's names with a youth ending
+29349,Genoa CFC Youth,252,Genoa | Genoa CFC,name 'Genoa CFC Youth' is one of the senior club's names with a youth ending
+29351,Torino FC Youth,416,Torino | Torino FC,name 'Torino FC Youth' is one of the senior club's names with a youth ending
+30806,Aberdeen FC U17,370,Aberdeen FC,name 'Aberdeen FC U17' is one of the senior club's names with a youth ending
+30989,Akad. Krasnodar | Krasnodar U17,16704,FK Krasnodar | Krasnodar,name 'Krasnodar U17' is one of the senior club's names with a youth ending
+30990,Orenburg II,14589,FC Orenburg | Gazovik Orenburg | Orenburg,name 'Orenburg II' is one of the senior club's names with a youth ending
+31025,Celtic U17,371,Celtic | Celtic FC,name 'Celtic U17' is one of the senior club's names with a youth ending
+31029,Rangers FC U17,124,Rangers | Rangers FC,name 'Rangers FC U17' is one of the senior club's names with a youth ending
+31031,Hibernian FC U17,903,Hibernian FC,name 'Hibernian FC U17' is one of the senior club's names with a youth ending
+31033,Kilmarnock FC U17,2553,Kilmarnock FC,name 'Kilmarnock FC U17' is one of the senior club's names with a youth ending
+31035,Motherwell FC U17,987,Motherwell FC,name 'Motherwell FC U17' is one of the senior club's names with a youth ending
+31036,St. Mirren FC U17,465,St. Mirren | St. Mirren FC,name 'St. Mirren FC U17' is one of the senior club's names with a youth ending
+31037,St. Johnstone FC U17,2578,St. Johnstone | St. Johnstone FC,name 'St. Johnstone FC U17' is one of the senior club's names with a youth ending
+31506,Atl. Madrid U19,13,Atlético | Atlético Madrid | Atlético de Madrid,name 'Atl. Madrid U19' is one of the senior club's names with a youth ending
+31637,Alanyaspor U21,11282,Alanyaspor,name 'Alanyaspor U21' is one of the senior club's names with a youth ending
+31650,Göztepe U21,1467,Göztepe,name 'Göztepe U21' is one of the senior club's names with a youth ending
+32580,Fulham Youth,931,Fulham | Fulham FC,name 'Fulham Youth' is one of the senior club's names with a youth ending
+32791,Ajax Youth,610,Ajax | Ajax Amsterdam,name 'Ajax Youth' is one of the senior club's names with a youth ending
+32793,AZ Alkmaar Yout | AZ Alkmaar Yth.,1090,AZ Alkmaar,name 'AZ Alkmaar Yth.' is one of the senior club's names with a youth ending
+32796,FC Twente Youth,317,FC Twente | FC Twente Enschede | Twente FC,name 'FC Twente Youth' is one of the senior club's names with a youth ending
+32797,Utrecht Youth,200,FC Utrecht | Utrecht,name 'Utrecht Youth' is one of the senior club's names with a youth ending
+32798,Feyenoord Youth,234,Feyenoord | Feyenoord Rotterdam,name 'Feyenoord Youth' is one of the senior club's names with a youth ending
+32799,NAC Breda Youth,132,NAC Breda,name 'NAC Breda Youth' is one of the senior club's names with a youth ending
+32801,PSV Youth | PSV Yth.,383,PSV | PSV Eindhoven,name 'PSV Yth.' is one of the senior club's names with a youth ending
+32803,Heerenveen Yth,306,Heerenveen | SC Heerenveen,name 'Heerenveen Yth' is one of the senior club's names with a youth ending
+32807,Willem II Youth | Willem II/RKC Y.,403,Willem II | Willem II Tilburg,name 'Willem II Youth' is one of the senior club's names with a youth ending
+32942,RB Leipzig U17,23826,Leipzig | RB Leipzig,name 'RB Leipzig U17' is one of the senior club's names with a youth ending
+33646,PAS Lamia U19,3999,PAS Lamia | PAS Lamia 1964,name 'PAS Lamia U19' is one of the senior club's names with a youth ending
+33906,Strasbourg U17,667,R. Strasbourg | RC Strasbourg Alsace,name 'Strasbourg U17' is one of the senior club's names with a youth ending
+34281,KAA Gent Youth,157,KAA Gent,name 'KAA Gent Youth' is one of the senior club's names with a youth ending
+34282,KRC Genk Youth,1184,Genk | KRC Genk,name 'KRC Genk Youth' is one of the senior club's names with a youth ending
+34284,KV Mechelen Yth,354,KV Mechelen,name 'KV Mechelen Yth' is one of the senior club's names with a youth ending
+34776,Galatasaray U18,141,Galatasaray,name 'Galatasaray U18' is one of the senior club's names with a youth ending
+36121,Heidenheim U17,2036,1. Fußballclub Heidenheim 1846 | Heidenheim,name 'Heidenheim U17' is one of the senior club's names with a youth ending
+36546,Southampt. U23 | Southampton B | Southampton Res. | Southampton U21 | Southampton U23,180,Southampton | Southampton FC,name 'Southampton U23' is one of the senior club's names with a youth ending
+36841,U. Berlin Yth.,89,1.FC Union Berlin | Union Berlin,name 'U. Berlin Yth.' is one of the senior club's names with a youth ending
+36949,Dynamo Kyiv U19,338,Dynamo Kyiv,name 'Dynamo Kyiv U19' is one of the senior club's names with a youth ending
+37894,Strasbourg Yth.,667,R. Strasbourg | RC Strasbourg Alsace,name 'Strasbourg Yth.' is one of the senior club's names with a youth ending
+38006,Girona FC B,12321,Girona | Girona FC,name 'Girona FC B' is one of the senior club's names with a youth ending
+38588,Nottingham U21 | Nottingham U23,703,Nott'm Forest | Nottingham Forest | Nottm Forest,name 'Nottingham U23' is one of the senior club's names with a youth ending
+38907,Inter U19 | Keshla U19,46,Inter | Inter Milan,name 'Inter U19' is one of the senior club's names with a youth ending
+38967,Bournemouth U21 | Bournemouth U23,989,AFC Bournemouth | Bournemouth,name 'Bournemouth U23' is one of the senior club's names with a youth ending
+39212,PSV U17,383,PSV | PSV Eindhoven,name 'PSV U17' is one of the senior club's names with a youth ending
+39336,Brighton U21 | Brighton U23,1237,Brighton | Brighton & Hove Albion,name 'Brighton U23' is one of the senior club's names with a youth ending
+39341,Leicester U21 | Leicester U23,1003,Leicester | Leicester City,name 'Leicester U23' is one of the senior club's names with a youth ending
+39813,Barça U18,131,Barcelona | FC Barcelona,name 'Barça U18' is one of the senior club's names with a youth ending
+39822,Real Madrid U18,418,Real Madrid,name 'Real Madrid U18' is one of the senior club's names with a youth ending
+39962,RB Leipzig Yth.,23826,Leipzig | RB Leipzig,name 'RB Leipzig Yth.' is one of the senior club's names with a youth ending
+39986,Trabzonspor U18,449,Trabzonspor,name 'Trabzonspor U18' is one of the senior club's names with a youth ending
+39992,Trabzonspor U16,449,Trabzonspor,name 'Trabzonspor U16' is one of the senior club's names with a youth ending
+39993,Trabzonspor U17,449,Trabzonspor,name 'Trabzonspor U17' is one of the senior club's names with a youth ending
+40419,Celta Vigo Yout | Celta Vigo Yth.,940,Celta de Vigo,name 'Celta Vigo Yth.' is one of the senior club's names with a youth ending
+40421,Rayo Vallecano | Rayo Youth,367,Rayo Vallecano,name 'Rayo Youth' is one of the senior club's names with a youth ending
+40422,Betis U19,150,Real Betis | Real Betis Balompié,name 'Betis U19' is one of the senior club's names with a youth ending
+40465,AJ Auxerre Yth.,290,AJ Auxerre,name 'AJ Auxerre Yth.' is one of the senior club's names with a youth ending
+40466,AJ Auxerre U17,290,AJ Auxerre,name 'AJ Auxerre U17' is one of the senior club's names with a youth ending
+40494,Las Palmas Yth.,472,UD Las Palmas,name 'Las Palmas Yth.' is one of the senior club's names with a youth ending
+40495,Las Palmas U19,472,UD Las Palmas,name 'Las Palmas U19' is one of the senior club's names with a youth ending
+41101,Juve Next Gen | Juventus U23,506,Juventus | Juventus FC,name 'Juventus U23' is one of the senior club's names with a youth ending
+41107,Milan Futuro | Milan U23,5,AC Milan,name 'Milan U23' is one of the senior club's names with a youth ending
+41110,Atalanta U23,800,Atalanta | Atalanta BC,name 'Atalanta U23' is one of the senior club's names with a youth ending
+41194,Krasnodar 2,16704,FK Krasnodar | Krasnodar,name 'Krasnodar 2' is one of the senior club's names with a youth ending
+41591,Galatasaray U19,141,Galatasaray,name 'Galatasaray U19' is one of the senior club's names with a youth ending
+41740,Heidenheim Yth.,2036,1. Fußballclub Heidenheim 1846 | Heidenheim,name 'Heidenheim Yth.' is one of the senior club's names with a youth ending
+41791,Besiktas U16,114,Besiktas | Beşiktaş Jimnastik Kulübü,name 'Besiktas U16' is one of the senior club's names with a youth ending
+41792,Besiktas U17,114,Besiktas | Beşiktaş Jimnastik Kulübü,name 'Besiktas U17' is one of the senior club's names with a youth ending
+41794,Fenerbahce U18,36,Fenerbahce | Fenerbahçe,name 'Fenerbahce U18' is one of the senior club's names with a youth ending
+41798,Trabzonspor U19,449,Trabzonspor,name 'Trabzonspor U19' is one of the senior club's names with a youth ending
+41852,Besiktas U19,114,Besiktas | Beşiktaş Jimnastik Kulübü,name 'Besiktas U19' is one of the senior club's names with a youth ending
+41854,Fenerbahce U19,36,Fenerbahce | Fenerbahçe,name 'Fenerbahce U19' is one of the senior club's names with a youth ending
+42232,Arsenal Academy,11,Arsenal | Arsenal FC,name 'Arsenal Academy' is one of the senior club's names with a youth ending
+42698,Trabzonspor Yth,449,Trabzonspor,name 'Trabzonspor Yth' is one of the senior club's names with a youth ending
+43419,Besiktas Yth,114,Besiktas | Beşiktaş Jimnastik Kulübü,name 'Besiktas Yth' is one of the senior club's names with a youth ending
+43423,Fenerbahce Yth.,36,Fenerbahce | Fenerbahçe,name 'Fenerbahce Yth.' is one of the senior club's names with a youth ending
+43426,Fenerbahce U16,36,Fenerbahce | Fenerbahçe,name 'Fenerbahce U16' is one of the senior club's names with a youth ending
+43427,Fenerbahce U17,36,Fenerbahce | Fenerbahçe,name 'Fenerbahce U17' is one of the senior club's names with a youth ending
+43428,Galatasaray Yth,141,Galatasaray,name 'Galatasaray Yth' is one of the senior club's names with a youth ending
+43431,Galatasaray U16,141,Galatasaray,name 'Galatasaray U16' is one of the senior club's names with a youth ending
+43432,Galatasaray U17,141,Galatasaray,name 'Galatasaray U17' is one of the senior club's names with a youth ending
+43434,Basaksehir Yth | Büyüksehir Jgd | Istanbul BB Jgd,6890,Basaksehir | Basaksehir FK | Büyüksehir Bld | Istanbul BBSK,name 'Basaksehir Yth' is one of the senior club's names with a youth ending
+43437,Antalyaspor Yth,589,Antalyaspor,name 'Antalyaspor Yth' is one of the senior club's names with a youth ending
+43442,Konyaspor Yth,2293,Konyaspor,name 'Konyaspor Yth' is one of the senior club's names with a youth ending
+43562,Jong KAA Gent | KAA Gent U21,157,KAA Gent,name 'KAA Gent U21' is one of the senior club's names with a youth ending
+43570,Paris SG U23,583,PSG | Paris SG | Paris Saint-Germain,name 'Paris SG U23' is one of the senior club's names with a youth ending
+43621,Samsunspor Yth,152,Samsunspor,name 'Samsunspor Yth' is one of the senior club's names with a youth ending
+44160,Göztepe Yth,1467,Göztepe,name 'Göztepe Yth' is one of the senior club's names with a youth ending
+44202,Alavés U19,1108,Alavés | Deportivo Alavés,name 'Alavés U19' is one of the senior club's names with a youth ending
+44351,Kayserispor Yth,3205,Kayserispor,name 'Kayserispor Yth' is one of the senior club's names with a youth ending
+44424,Jong KVM | KV Mechelen U21,354,KV Mechelen,name 'KV Mechelen U21' is one of the senior club's names with a youth ending
+44767,Sparta R. U17,468,Sparta R. | Sparta Rotterdam,name 'Sparta R. U17' is one of the senior club's names with a youth ending
+44822,Berio | Real Sociedad C,681,Real Sociedad,name 'Real Sociedad C' is one of the senior club's names with a youth ending
+44828,Kasimpasa Yth,10484,Kasimpasa,name 'Kasimpasa Yth' is one of the senior club's names with a youth ending
+44829,Sivasspor Yth,2381,Sivasspor,name 'Sivasspor Yth' is one of the senior club's names with a youth ending
+44831,C. Rizespor Yth,126,C. Rizespor | Caykur Rizespor,name 'C. Rizespor Yth' is one of the senior club's names with a youth ending
+44848,Alanyaspor Yth,11282,Alanyaspor,name 'Alanyaspor Yth' is one of the senior club's names with a youth ending
+45126,Hatayspor Yth,7775,Hatayspor,name 'Hatayspor Yth' is one of the senior club's names with a youth ending
+45398,Ross County U17,2759,Ross County | Ross County FC,name 'Ross County U17' is one of the senior club's names with a youth ending
+45617,Monaco Youth,162,AS Monaco | Monaco,name 'Monaco Youth' is one of the senior club's names with a youth ending
+45618,Benfica U17,294,Benfica | SL Benfica,name 'Benfica U17' is one of the senior club's names with a youth ending
+46021,Atromitos U17,3060,APS Atromitos Athinon | Atromitos,name 'Atromitos U17' is one of the senior club's names with a youth ending
+46736,Jong Genk | KRC Genk U21,1184,Genk | KRC Genk,name 'KRC Genk U21' is one of the senior club's names with a youth ending
+46959,Brentford U21,1148,Brentford | Brentford FC,name 'Brentford U21' is one of the senior club's names with a youth ending
+47962,FC Porto U17,720,FC Porto | Porto,name 'FC Porto U17' is one of the senior club's names with a youth ending
+48365,Sporting U17,336,Sporting | Sporting CP,name 'Sporting U17' is one of the senior club's names with a youth ending
+48647,Eyüpspor Yth,7160,Eyüpspor,name 'Eyüpspor Yth' is one of the senior club's names with a youth ending
+48758,Braga U17,1075,Braga | SC Braga,name 'Braga U17' is one of the senior club's names with a youth ending
+48967,Inter U17,46,Inter | Inter Milan,name 'Inter U17' is one of the senior club's names with a youth ending
+49311,Farense B,4294,Farense | SC Farense,name 'Farense B' is one of the senior club's names with a youth ending
+49393,KRC Genk U17,1184,Genk | KRC Genk,name 'KRC Genk U17' is one of the senior club's names with a youth ending
+49394,KAA Gent U17,157,KAA Gent,name 'KAA Gent U17' is one of the senior club's names with a youth ending
+49399,KV Mechelen U17,354,KV Mechelen,name 'KV Mechelen U17' is one of the senior club's names with a youth ending
+49567,Juventus U17,506,Juventus | Juventus FC,name 'Juventus U17' is one of the senior club's names with a youth ending
+49568,Atalanta U17,800,Atalanta | Atalanta BC,name 'Atalanta U17' is one of the senior club's names with a youth ending
+49576,Roma U17,12,AS Roma | Associazione Sportiva Roma | Roma,name 'Roma U17' is one of the senior club's names with a youth ending
+49577,Cagliari U17,1390,Cagliari | Cagliari Calcio,name 'Cagliari U17' is one of the senior club's names with a youth ending
+49740,Lazio U17,398,Lazio | Società Sportiva Lazio S.p.A.,name 'Lazio U17' is one of the senior club's names with a youth ending
+49741,Fiorentina U17,430,ACF Fiorentina | Fiorentina,name 'Fiorentina U17' is one of the senior club's names with a youth ending
+49743,Napoli U17,6195,Napoli | SSC Napoli,name 'Napoli U17' is one of the senior club's names with a youth ending
+49744,Genoa U17,252,Genoa | Genoa CFC,name 'Genoa U17' is one of the senior club's names with a youth ending
+49746,Torino U17,416,Torino | Torino FC,name 'Torino U17' is one of the senior club's names with a youth ending
+49752,Milan U17,5,AC Milan,name 'Milan U17' is one of the senior club's names with a youth ending
+49759,Bologna U17,1025,Bologna | Bologna Football Club 1909,name 'Bologna U17' is one of the senior club's names with a youth ending
+49777,Como U17,1047,Como | Como 1907,name 'Como U17' is one of the senior club's names with a youth ending
+49868,Empoli U17,749,Empoli | FC Empoli,name 'Empoli U17' is one of the senior club's names with a youth ending
+49869,Udinese U17,410,Udinese | Udinese Calcio,name 'Udinese U17' is one of the senior club's names with a youth ending
+49938,Marseille Yth,244,Marseille | Olympique Marseille,name 'Marseille Yth' is one of the senior club's names with a youth ending
+50220,Feyenoord U18,234,Feyenoord | Feyenoord Rotterdam,name 'Feyenoord U18' is one of the senior club's names with a youth ending
+50672,Man Utd Youth,985,Man Utd | Manchester United,name 'Man Utd Youth' is one of the senior club's names with a youth ending
+50677,Chelsea Youth,631,Chelsea | Chelsea FC,name 'Chelsea Youth' is one of the senior club's names with a youth ending
+50678,Man City Youth,281,Man City | Manchester City,name 'Man City Youth' is one of the senior club's names with a youth ending
+50683,Arsenal Youth,11,Arsenal | Arsenal FC,name 'Arsenal Youth' is one of the senior club's names with a youth ending
+50769,Everton Youth,29,Everton | Everton FC,name 'Everton Youth' is one of the senior club's names with a youth ending
+50906,Liverpool Youth,31,Liverpool | Liverpool FC,name 'Liverpool Youth' is one of the senior club's names with a youth ending
+51041,Nacional S17 | Nacional U17,982,CD Nacional | Nacional,name 'Nacional U17' is one of the senior club's names with a youth ending
+51366,Estoril U17,1465,Estoril | Estoril Praia | GD Estoril Praia,name 'Estoril U17' is one of the senior club's names with a youth ending
+51433,Tottenham Yth.,148,Tottenham | Tottenham Hotspur,name 'Tottenham Yth.' is one of the senior club's names with a youth ending
+51637,Rio Ave Juvenis | Rio Ave U17,2425,Rio Ave | Rio Ave FC,name 'Rio Ave U17' is one of the senior club's names with a youth ending
+51638,Boavista U17,2503,Boavista | Boavista FC,name 'Boavista U17' is one of the senior club's names with a youth ending
+51645,Ajax U17,610,Ajax | Ajax Amsterdam,name 'Ajax U17' is one of the senior club's names with a youth ending
+51654,Feyenoord U17,234,Feyenoord | Feyenoord Rotterdam,name 'Feyenoord U17' is one of the senior club's names with a youth ending
+51705,Utrecht U17,200,FC Utrecht | Utrecht,name 'Utrecht U17' is one of the senior club's names with a youth ending
+52068,Ajax U18,610,Ajax | Ajax Amsterdam,name 'Ajax U18' is one of the senior club's names with a youth ending
+52563,OH Leuven U21 | OH Leuven U23,2727,OH Leuven | Oud-Heverlee Leuven,name 'OH Leuven U23' is one of the senior club's names with a youth ending
+52881,Randers FC Yth.,5724,Randers FC,name 'Randers FC Yth.' is one of the senior club's names with a youth ending
+52975,West Ham Yth.,379,West Ham | West Ham United,name 'West Ham Yth.' is one of the senior club's names with a youth ending
+53100,C. Palace Yth.,873,Crystal Palace,name 'C. Palace Yth.' is one of the senior club's names with a youth ending
+53108,Nottingham Yth.,703,Nott'm Forest | Nottingham Forest | Nottm Forest,name 'Nottingham Yth.' is one of the senior club's names with a youth ending
+53183,A. Villa Yth.,405,Aston Villa,name 'A. Villa Yth.' is one of the senior club's names with a youth ending
+53297,Almere City U17,723,Almere City | Almere City FC | FC Omniworld,name 'Almere City U17' is one of the senior club's names with a youth ending
+53302,Obolon U19,39097,Obolon | Obolon Kyiv | Obolon-Brovar,name 'Obolon U19' is one of the senior club's names with a youth ending
+53474,Willem II U17 | Willem II/RKC-17,403,Willem II | Willem II Tilburg,name 'Willem II U17' is one of the senior club's names with a youth ending
+53954,Benfica U15,294,Benfica | SL Benfica,name 'Benfica U15' is one of the senior club's names with a youth ending
+53955,Benfica Yth,294,Benfica | SL Benfica,name 'Benfica Yth' is one of the senior club's names with a youth ending
+53956,Sporting Sub-15,336,Sporting | Sporting CP,name 'Sporting Sub-15' is one of the senior club's names with a youth ending
+53957,Sporting Yth.,336,Sporting | Sporting CP,name 'Sporting Yth.' is one of the senior club's names with a youth ending
+53958,Braga U15,1075,Braga | SC Braga,name 'Braga U15' is one of the senior club's names with a youth ending
+53959,SC Braga Youth,1075,Braga | SC Braga,name 'SC Braga Youth' is one of the senior club's names with a youth ending
+54049,OH Leuven Yth.,2727,OH Leuven | Oud-Heverlee Leuven,name 'OH Leuven Yth.' is one of the senior club's names with a youth ending
+54097,Wolves Yth.,543,Wolverhampton Wanderers | Wolves,name 'Wolves Yth.' is one of the senior club's names with a youth ending
+54168,Brighton Yth.,1237,Brighton | Brighton & Hove Albion,name 'Brighton Yth.' is one of the senior club's names with a youth ending
+54295,Paris SG U17,583,PSG | Paris SG | Paris Saint-Germain,name 'Paris SG U17' is one of the senior club's names with a youth ending
+54395,Parma U17,130,Parma | Parma Calcio 1913,name 'Parma U17' is one of the senior club's names with a youth ending
+54531,Boavista U15,2503,Boavista | Boavista FC,name 'Boavista U15' is one of the senior club's names with a youth ending
+54704,Brentford B,1148,Brentford | Brentford FC,name 'Brentford B' is one of the senior club's names with a youth ending
+54705,Brentford Yth.,1148,Brentford | Brentford FC,name 'Brentford Yth.' is one of the senior club's names with a youth ending
+55415,Leicester Yth.,1003,Leicester | Leicester City,name 'Leicester Yth.' is one of the senior club's names with a youth ending
+55899,Newcastle Yth.,762,Newcastle | Newcastle United,name 'Newcastle Yth.' is one of the senior club's names with a youth ending
+56053,PEC Zwolle U17,1269,FC Zwolle | PEC Zwolle,name 'PEC Zwolle U17' is one of the senior club's names with a youth ending
+56765,FC Porto U15,720,FC Porto | Porto,name 'FC Porto U15' is one of the senior club's names with a youth ending
+56766,FC Porto Youth,720,FC Porto | Porto,name 'FC Porto Youth' is one of the senior club's names with a youth ending
+56768,NAC Breda U17,132,NAC Breda,name 'NAC Breda U17' is one of the senior club's names with a youth ending
+57922,Rio Ave Sub-15,2425,Rio Ave | Rio Ave FC,name 'Rio Ave Sub-15' is one of the senior club's names with a youth ending
+57923,Rio Ave Y,2425,Rio Ave | Rio Ave FC,name 'Rio Ave Y' is one of the senior club's names with a youth ending
+57924,Estoril U15,1465,Estoril | Estoril Praia | GD Estoril Praia,name 'Estoril U15' is one of the senior club's names with a youth ending
+57925,Estoril Y,1465,Estoril | Estoril Praia | GD Estoril Praia,name 'Estoril Y' is one of the senior club's names with a youth ending
+57926,Nacional U15,982,CD Nacional | Nacional,name 'Nacional U15' is one of the senior club's names with a youth ending
+58956,Espanyol U18,714,Espanyol | RCD Espanyol Barcelona,name 'Espanyol U18' is one of the senior club's names with a youth ending
+59856,LOSC Lille Yth.,1082,LOSC Lille | Lille,name 'LOSC Lille Yth.' is one of the senior club's names with a youth ending
+60860,St-Étienne U17,618,AS Saint-Étienne | Saint-Étienne,name 'St-Étienne U17' is one of the senior club's names with a youth ending
+61121,Aalborg BK II,1053,Aalborg BK,name 'Aalborg BK II' is one of the senior club's names with a youth ending
+61163,Rio Ave B,2425,Rio Ave | Rio Ave FC,name 'Rio Ave B' is one of the senior club's names with a youth ending
+61758,Boavista B,2503,Boavista | Boavista FC,name 'Boavista B' is one of the senior club's names with a youth ending
+62205,Vejle BK II,443,Vejle BK | Vejle Boldklub,name 'Vejle BK II' is one of the senior club's names with a youth ending
+62552,Veres Rivne II,26459,NK Veres Rivne | Veres Rivne,name 'Veres Rivne II' is one of the senior club's names with a youth ending
+62555,Olympiacos U17,683,Olympiacos | Olympiakos Syndesmos Filathlon Peiraios,name 'Olympiacos U17' is one of the senior club's names with a youth ending
+62774,Viborg FF II,1063,Viborg FF,name 'Viborg FF II' is one of the senior club's names with a youth ending
+63438,Nacional Yth.,982,CD Nacional | Nacional,name 'Nacional Yth.' is one of the senior club's names with a youth ending
+63628,Las Palmas U18,472,UD Las Palmas,name 'Las Palmas U18' is one of the senior club's names with a youth ending
+63954,Barcelona C,131,Barcelona | FC Barcelona,name 'Barcelona C' is one of the senior club's names with a youth ending
+64589,KV Kortrijk Jgd,601,KV Kortrijk,name 'KV Kortrijk Jgd' is one of the senior club's names with a youth ending
+64761,OH Leuven U17,2727,OH Leuven | Oud-Heverlee Leuven,name 'OH Leuven U17' is one of the senior club's names with a youth ending
+65272,PAOK U17,1091,PAOK | PAOK Salonika | Panthessalonikios Athlitikos Omilos Konstantinoupoliton,name 'PAOK U17' is one of the senior club's names with a youth ending
+65684,Nizhniy Novgorod | Olimpiets 2 | Pari NN II,49702,FK Nizhny Novgorod | Nizhny Novgorod | Olimpiets | Pari NN | Volga-Olimpiets,name 'Pari NN II' is one of the senior club's names with a youth ending
+66530,Club Brugge U18 | FC Brügge U18,2282,Club Brugge | Club Brugge KV,name 'Club Brugge U18' is one of the senior club's names with a youth ending
+66531,KRC Genk U18,1184,Genk | KRC Genk,name 'KRC Genk U18' is one of the senior club's names with a youth ending
+66532,KAA Gent U18,157,KAA Gent,name 'KAA Gent U18' is one of the senior club's names with a youth ending
+66534,KV Mechelen U18,354,KV Mechelen,name 'KV Mechelen U18' is one of the senior club's names with a youth ending
+66546,OH Leuven U18,2727,OH Leuven | Oud-Heverlee Leuven,name 'OH Leuven U18' is one of the senior club's names with a youth ending
+66552,Union SG U18,3948,Union SG | Union Saint-Gilloise,name 'Union SG U18' is one of the senior club's names with a youth ending
+66553,Union SG Yth.,3948,Union SG | Union Saint-Gilloise,name 'Union SG Yth.' is one of the senior club's names with a youth ending
+67280,Celtic U18,371,Celtic | Celtic FC,name 'Celtic U18' is one of the senior club's names with a youth ending
+67281,Rangers FC U18,124,Rangers | Rangers FC,name 'Rangers FC U18' is one of the senior club's names with a youth ending
+67287,St. Mirren U18,465,St. Mirren | St. Mirren FC,name 'St. Mirren U18' is one of the senior club's names with a youth ending
+67418,Volos NFC U19 | Volos NPS U19,60949,Volos NFC | Volos NPS | Volou Neos Podosferikos Syllogos,name 'Volos NPS U19' is one of the senior club's names with a youth ending
+67605,Le Havre U17,738,Le Havre AC,name 'Le Havre U17' is one of the senior club's names with a youth ending
+67887,Khimki 2,3719,FC Khimki (-2025) | Khimki,name 'Khimki 2' is one of the senior club's names with a youth ending
+67909,Sporting CP U23,336,Sporting | Sporting CP,name 'Sporting CP U23' is one of the senior club's names with a youth ending
+68077,Braga U23,1075,Braga | SC Braga,name 'Braga U23' is one of the senior club's names with a youth ending
+68110,Rio Ave U23,2425,Rio Ave | Rio Ave FC,name 'Rio Ave U23' is one of the senior club's names with a youth ending
+68403,Estoril U23,1465,Estoril | Estoril Praia | GD Estoril Praia,name 'Estoril U23' is one of the senior club's names with a youth ending
+68780,Benfica U23,294,Benfica | SL Benfica,name 'Benfica U23' is one of the senior club's names with a youth ending
+69001,Lecce U17,1005,Lecce | US Lecce,name 'Lecce U17' is one of the senior club's names with a youth ending
+69088,Bröndby IF II,206,Bröndby IF,name 'Bröndby IF II' is one of the senior club's names with a youth ending
+69157,FC Nantes U17,995,FC Nantes,name 'FC Nantes U17' is one of the senior club's names with a youth ending
+69386,AEK Athens U17,2441,AEK Athens | Athlitiki Enosi Konstantinoupoleos,name 'AEK Athens U17' is one of the senior club's names with a youth ending
+69570,Ol. Lyon Yth.,1041,Lyon | Olympique Lyon,name 'Ol. Lyon Yth.' is one of the senior club's names with a youth ending
+70019,Panetolikos U17,6418,Panetolikos | Panetolikos Agrinio,name 'Panetolikos U17' is one of the senior club's names with a youth ending
+70218,Girona FC Youth,12321,Girona | Girona FC,name 'Girona FC Youth' is one of the senior club's names with a youth ending
+70295,Barça Youth,131,Barcelona | FC Barcelona,name 'Barça Youth' is one of the senior club's names with a youth ending
+70320,Atléti Youth | Atlético Yth.,13,Atlético | Atlético Madrid | Atlético de Madrid,name 'Atlético Yth.' is one of the senior club's names with a youth ending
+70321,R.Madrid Yth.,418,Real Madrid,name 'R.Madrid Yth.' is one of the senior club's names with a youth ending
+70397,Valencia U18,1049,Valencia | Valencia CF,name 'Valencia U18' is one of the senior club's names with a youth ending
+72792,Barca Academy,131,Barcelona | FC Barcelona,name 'Barca Academy' is one of the senior club's names with a youth ending
+73024,Augsburg Yth.,167,Augsburg | FC Augsburg,name 'Augsburg Yth.' is one of the senior club's names with a youth ending
+73899,Göztepe U19,1467,Göztepe,name 'Göztepe U19' is one of the senior club's names with a youth ending
+73900,Basaksehir U19,6890,Basaksehir | Basaksehir FK | Büyüksehir Bld | Istanbul BBSK,name 'Basaksehir U19' is one of the senior club's names with a youth ending
+73902,Alanyaspor U19,11282,Alanyaspor,name 'Alanyaspor U19' is one of the senior club's names with a youth ending
+73903,Antalyaspor U19,589,Antalyaspor,name 'Antalyaspor U19' is one of the senior club's names with a youth ending
+73904,C. Rizespor U19,126,C. Rizespor | Caykur Rizespor,name 'C. Rizespor U19' is one of the senior club's names with a youth ending
+73905,Kasimpasa U19,10484,Kasimpasa,name 'Kasimpasa U19' is one of the senior club's names with a youth ending
+73906,Konyaspor U19,2293,Konyaspor,name 'Konyaspor U19' is one of the senior club's names with a youth ending
+73907,Kayserispor U19,3205,Kayserispor,name 'Kayserispor U19' is one of the senior club's names with a youth ending
+73908,Sivasspor U19,2381,Sivasspor,name 'Sivasspor U19' is one of the senior club's names with a youth ending
+73922,Santa Clara U15,2423,CD Santa Clara | Santa Clara,name 'Santa Clara U15' is one of the senior club's names with a youth ending
+74212,Farense Youth,4294,Farense | SC Farense,name 'Farense Youth' is one of the senior club's names with a youth ending
+74385,Casa Pia U17,3268,Casa Pia | Casa Pia AC,name 'Casa Pia U17' is one of the senior club's names with a youth ending
+74386,Casa Pia U15,3268,Casa Pia | Casa Pia AC,name 'Casa Pia U15' is one of the senior club's names with a youth ending
+74387,Casa Pia Jgd.,3268,Casa Pia | Casa Pia AC,name 'Casa Pia Jgd.' is one of the senior club's names with a youth ending
+75337,Famalicão U23,3329,FC Famalicão | Famalicão,name 'Famalicão U23' is one of the senior club's names with a youth ending
+75657,Hatayspor U19,7775,Hatayspor,name 'Hatayspor U19' is one of the senior club's names with a youth ending
+75868,Inter U18,46,Inter | Inter Milan,name 'Inter U18' is one of the senior club's names with a youth ending
+75900,Torino U18,416,Torino | Torino FC,name 'Torino U18' is one of the senior club's names with a youth ending
+75901,Fiorentina U18,430,ACF Fiorentina | Fiorentina,name 'Fiorentina U18' is one of the senior club's names with a youth ending
+76091,Atalanta U18,800,Atalanta | Atalanta BC,name 'Atalanta U18' is one of the senior club's names with a youth ending
+76092,Genoa U18,252,Genoa | Genoa CFC,name 'Genoa U18' is one of the senior club's names with a youth ending
+76093,Milan U18,5,AC Milan,name 'Milan U18' is one of the senior club's names with a youth ending
+76094,Roma U18,12,AS Roma | Associazione Sportiva Roma | Roma,name 'Roma U18' is one of the senior club's names with a youth ending
+76291,Alavés C,1108,Alavés | Deportivo Alavés,name 'Alavés C' is one of the senior club's names with a youth ending
+76822,Gil Vicente U17,2424,Gil Vicente | Gil Vicente FC,name 'Gil Vicente U17' is one of the senior club's names with a youth ending
+76823,Gil Vicente U15,2424,Gil Vicente | Gil Vicente FC,name 'Gil Vicente U15' is one of the senior club's names with a youth ending
+77123,Rangers Res.,124,Rangers | Rangers FC,name 'Rangers Res.' is one of the senior club's names with a youth ending
+78569,OFI Crete U17,653,OFI Crete | OFI Crete FC | Omilos Filathlon Irakliou FC,name 'OFI Crete U17' is one of the senior club's names with a youth ending
+79981,Nacional U23,982,CD Nacional | Nacional,name 'Nacional U23' is one of the senior club's names with a youth ending
+80283,Sparta R. U18,468,Sparta R. | Sparta Rotterdam,name 'Sparta R. U18' is one of the senior club's names with a youth ending
+80308,Estoril B,1465,Estoril | Estoril Praia | GD Estoril Praia,name 'Estoril B' is one of the senior club's names with a youth ending
+80810,Lyngby BK II,369,Lyngby BK | Lyngby Boldklub,name 'Lyngby BK II' is one of the senior club's names with a youth ending
+81204,Polissya U19,53646,FK Polissya Zhytomyr | Polissya,name 'Polissya U19' is one of the senior club's names with a youth ending
+81334,PEC Zwolle U18,1269,FC Zwolle | PEC Zwolle,name 'PEC Zwolle U18' is one of the senior club's names with a youth ending
+81336,NAC Breda U18,132,NAC Breda,name 'NAC Breda U18' is one of the senior club's names with a youth ending
+81337,PSV U18,383,PSV | PSV Eindhoven,name 'PSV U18' is one of the senior club's names with a youth ending
+81339,Utrecht U18,200,FC Utrecht | Utrecht,name 'Utrecht U18' is one of the senior club's names with a youth ending
+81502,Sevilla FC U18,368,Sevilla FC,name 'Sevilla FC U18' is one of the senior club's names with a youth ending
+81503,Sevilla U17,368,Sevilla FC,name 'Sevilla U17' is one of the senior club's names with a youth ending
+81990,Heerenveen U18,306,Heerenveen | SC Heerenveen,name 'Heerenveen U18' is one of the senior club's names with a youth ending
+82685,Lazio U18,398,Lazio | Società Sportiva Lazio S.p.A.,name 'Lazio U18' is one of the senior club's names with a youth ending
+82891,PSG Youth,583,PSG | Paris SG | Paris Saint-Germain,name 'PSG Youth' is one of the senior club's names with a youth ending
+82945,Willem II U18,403,Willem II | Willem II Tilburg,name 'Willem II U18' is one of the senior club's names with a youth ending
+82969,FC Rostov 2 | FK Rostov 2,1083,FK Rostov | Rostov,name 'FK Rostov 2' is one of the senior club's names with a youth ending
+83582,Bournemouth Jgd,989,AFC Bournemouth | Bournemouth,name 'Bournemouth Jgd' is one of the senior club's names with a youth ending
+83792,Samsunspor U19,152,Samsunspor,name 'Samsunspor U19' is one of the senior club's names with a youth ending
+83931,Rukh Lviv II,48726,Rukh Lviv | Rukh Vynnyky,name 'Rukh Lviv II' is one of the senior club's names with a youth ending
+83932,Rukh Lviv U19,48726,Rukh Lviv | Rukh Vynnyky,name 'Rukh Lviv U19' is one of the senior club's names with a youth ending
+84400,Monza U19 | Monza U20,2919,AC Monza | Monza,name 'Monza U20' is one of the senior club's names with a youth ending
+84451,Parma U18,130,Parma | Parma Calcio 1913,name 'Parma U18' is one of the senior club's names with a youth ending
+84578,Monza U17,2919,AC Monza | Monza,name 'Monza U17' is one of the senior club's names with a youth ending
+84679,Monza U18,2919,AC Monza | Monza,name 'Monza U18' is one of the senior club's names with a youth ending
+84693,FC Rostov U16 | FK Rostov U16,1083,FK Rostov | Rostov,name 'FK Rostov U16' is one of the senior club's names with a youth ending
+84703,Krasnodar U16,16704,FK Krasnodar | Krasnodar,name 'Krasnodar U16' is one of the senior club's names with a youth ending
+84728,Boavista U23,2503,Boavista | Boavista FC,name 'Boavista U23' is one of the senior club's names with a youth ending
+85572,FC Nantes Yth. | Nantes Youth,995,FC Nantes,name 'FC Nantes Yth.' is one of the senior club's names with a youth ending
+86646,Rangers Youth,124,Rangers | Rangers FC,name 'Rangers Youth' is one of the senior club's names with a youth ending
+87553,Celtic Youth,371,Celtic | Celtic FC,name 'Celtic Youth' is one of the senior club's names with a youth ending
+87997,CD Leganés C,1244,CD Leganés,name 'CD Leganés C' is one of the senior club's names with a youth ending
+88029,Ingulets U19,49364,AF Pyatykhatska | Ingulets | Ingulets Petrove,name 'Ingulets U19' is one of the senior club's names with a youth ending
+88222,RC Lens U17,826,Lens | RC Lens,name 'RC Lens U17' is one of the senior club's names with a youth ending
+89707,Inter U20,46,Inter | Inter Milan,name 'Inter U20' is one of the senior club's names with a youth ending
+89919,Eyüpspor U19,7160,Eyüpspor,name 'Eyüpspor U19' is one of the senior club's names with a youth ending
+90716,Rangers U21,124,Rangers | Rangers FC,name 'Rangers U21' is one of the senior club's names with a youth ending
+90727,PAS Lamia U17,3999,PAS Lamia | PAS Lamia 1964,name 'PAS Lamia U17' is one of the senior club's names with a youth ending
+90739,Volos NFC U17,60949,Volos NFC | Volos NPS | Volou Neos Podosferikos Syllogos,name 'Volos NFC U17' is one of the senior club's names with a youth ending
+91428,Verona U18,276,Hellas Verona,name 'Verona U18' is one of the senior club's names with a youth ending
+91714,Bologna U18,1025,Bologna | Bologna Football Club 1909,name 'Bologna U18' is one of the senior club's names with a youth ending
+91715,Cagliari U18,1390,Cagliari | Cagliari Calcio,name 'Cagliari U18' is one of the senior club's names with a youth ending
+91716,Empoli U18,749,Empoli | FC Empoli,name 'Empoli U18' is one of the senior club's names with a youth ending
+91868,Olympiacos B,683,Olympiacos | Olympiakos Syndesmos Filathlon Peiraios,name 'Olympiacos B' is one of the senior club's names with a youth ending
+91870,AEK Athens B,2441,AEK Athens | Athlitiki Enosi Konstantinoupoleos,name 'AEK Athens B' is one of the senior club's names with a youth ending
+91871,Panathinaikos B,265,Panathinaikos | Panathinaikos Athlitikos Omilos,name 'Panathinaikos B' is one of the senior club's names with a youth ending
+91911,SC Farense U23,4294,Farense | SC Farense,name 'SC Farense U23' is one of the senior club's names with a youth ending
+92744,Stade Reims U17,1421,Stade Reims,name 'Stade Reims U17' is one of the senior club's names with a youth ending
+92878,RSC Inter FC | Real Madrid C,418,Real Madrid,name 'Real Madrid C' is one of the senior club's names with a youth ending
+93057,Kryvbas U19,3592,Kryvbas | Kryvbas Kryvyi Rig,name 'Kryvbas U19' is one of the senior club's names with a youth ending
+98162,Rayo C,367,Rayo Vallecano,name 'Rayo C' is one of the senior club's names with a youth ending
+99764,Gil Vicente U23,2424,Gil Vicente | Gil Vicente FC,name 'Gil Vicente U23' is one of the senior club's names with a youth ending
+100154,Lens Yth.,826,Lens | RC Lens,name 'Lens Yth.' is one of the senior club's names with a youth ending
+100155,Reims Yth.,1421,Stade Reims,name 'Reims Yth.' is one of the senior club's names with a youth ending
+100596,Rangers Youth,124,Rangers | Rangers FC,name 'Rangers Youth' is one of the senior club's names with a youth ending
+101175,Liverpool FC B,31,Liverpool | Liverpool FC,name 'Liverpool FC B' is one of the senior club's names with a youth ending
+101419,CF Estrela U23 | Estrela U23,2431,CF Estrela | CF Estrela Amadora | Estrela Amadora,name 'CF Estrela U23' is one of the senior club's names with a youth ending
+101753,Levadiakos U17,2672,APO Levadiakos | APO Levadiakos Football Club | Levadiakos,name 'Levadiakos U17' is one of the senior club's names with a youth ending
+102209,Sevilla FC U16,368,Sevilla FC,name 'Sevilla FC U16' is one of the senior club's names with a youth ending
+105954,Angers SCO U17,1420,Angers SCO,name 'Angers SCO U17' is one of the senior club's names with a youth ending
+106295,Olymp. Lyon U17,1041,Lyon | Olympique Lyon,name 'Olymp. Lyon U17' is one of the senior club's names with a youth ending
+107690,AS Monaco U17,162,AS Monaco | Monaco,name 'AS Monaco U17' is one of the senior club's names with a youth ending
+107691,LOSC Lille U17,1082,LOSC Lille | Lille,name 'LOSC Lille U17' is one of the senior club's names with a youth ending
+107692,Marseille U17,244,Marseille | Olympique Marseille,name 'Marseille U17' is one of the senior club's names with a youth ending
+107721,Rennes U17,273,Stade Rennais | Stade Rennais FC,name 'Rennes U17' is one of the senior club's names with a youth ending
+107728,OGC Nice U17,417,Nice | OGC Nice,name 'OGC Nice U17' is one of the senior club's names with a youth ending
+107729,Montpellier U17,969,Montpellier | Montpellier HSC,name 'Montpellier U17' is one of the senior club's names with a youth ending
+107748,Toulouse FC U17,415,FC Toulouse | Toulouse,name 'Toulouse FC U17' is one of the senior club's names with a youth ending
+108280,Le Havre Youth,738,Le Havre AC,name 'Le Havre Youth' is one of the senior club's names with a youth ending
+110983,Santa Clara U23,2423,CD Santa Clara | Santa Clara,name 'Santa Clara U23' is one of the senior club's names with a youth ending
+114879,Veres Rivne U17,26459,NK Veres Rivne | Veres Rivne,name 'Veres Rivne U17' is one of the senior club's names with a youth ending
+114880,Polissya U17,53646,FK Polissya Zhytomyr | Polissya,name 'Polissya U17' is one of the senior club's names with a youth ending
+114881,Obolon Kyiv U17,39097,Obolon | Obolon Kyiv | Obolon-Brovar,name 'Obolon Kyiv U17' is one of the senior club's names with a youth ending
+116735,Pari NN 2,49702,FK Nizhny Novgorod | Nizhny Novgorod | Olimpiets | Pari NN | Volga-Olimpiets,name 'Pari NN 2' is one of the senior club's names with a youth ending
+118346,Krasnodar Youth,16704,FK Krasnodar | Krasnodar,name 'Krasnodar Youth' is one of the senior club's names with a youth ending
+119780,Polissya 2 | Polissya-2,53646,FK Polissya Zhytomyr | Polissya,name 'Polissya 2' is one of the senior club's names with a youth ending
+120649,Asteras Aktor B,6676,A.G.S Asteras Tripolis | Asteras Aktor | Asteras Tripoli,name 'Asteras Aktor B' is one of the senior club's names with a youth ending
+121301,Livyi Bereg U19,86209,Livyi Bereg | Livyi Bereg Kyiv,name 'Livyi Bereg U19' is one of the senior club's names with a youth ending
+121302,Livyi Bereg U17,86209,Livyi Bereg | Livyi Bereg Kyiv,name 'Livyi Bereg U17' is one of the senior club's names with a youth ending
+122445,Santa Clara B,2423,CD Santa Clara | Santa Clara,name 'Santa Clara B' is one of the senior club's names with a youth ending
+123357,Girona FC U18,12321,Girona | Girona FC,name 'Girona FC U18' is one of the senior club's names with a youth ending
+133949,Strasbourg U18,667,R. Strasbourg | RC Strasbourg Alsace,name 'Strasbourg U18' is one of the senior club's names with a youth ending
+135679,PSV Jgd.,383,PSV | PSV Eindhoven,name 'PSV Jgd.' is one of the senior club's names with a youth ending
+139229,Inter Jgd.,46,Inter | Inter Milan,name 'Inter Jgd.' is one of the senior club's names with a youth ending

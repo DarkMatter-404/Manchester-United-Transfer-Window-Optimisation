@@ -1,0 +1,31 @@
+player_id,player,club_id,club,league,league_minutes,club_league_matches,club_minutes_share,starts,goals,assists,team_conceded_in_starts,is_main_club
+16306,Casemiro,985,Manchester United,GB1,2589,38,0.757,33,9,2,42,yes
+177907,Harry Maguire,985,Manchester United,GB1,1655,38,0.4839,19,1,2,23,yes
+183288,Luke Shaw,985,Manchester United,GB1,3233,38,0.9453,38,1,1,50,yes
+332697,Weston McKennie,506,Juventus FC,IT1,2841,38,0.8307,32,5,6,30,yes
+333647,Jonathan Burkardt,24,Eintracht Frankfurt,L1,1340,34,0.4379,15,13,1,26,yes
+357164,Rafael Leão,5,AC Milan,IT1,1861,38,0.5442,23,9,3,22,yes
+357498,Dušan Vlahović,506,Juventus FC,IT1,970,38,0.2836,11,7,1,13,yes
+358504,Ritsu Doan,24,Eintracht Frankfurt,L1,2379,34,0.7775,28,5,5,58,yes
+413039,Bryan Mbeumo,985,Manchester United,GB1,2625,38,0.7675,31,11,3,42,yes
+423440,Martín Zubimendi,11,Arsenal FC,GB1,3002,38,0.8778,34,5,1,27,yes
+459763,Marco Carnesecchi,800,Atalanta BC,IT1,3330,38,0.9737,37,0,0,35,yes
+463600,Lucas Chevalier,583,Paris Saint-Germain,FR1,1530,34,0.5,17,0,0,13,yes
+463605,Bafodé Diakité,989,AFC Bournemouth,GB1,1275,38,0.3728,15,0,0,28,yes
+500689,Evann Guessand,405,Aston Villa,GB1,588,38,0.1719,6,0,0,11,yes
+500689,Evann Guessand,873,Crystal Palace,GB1,328,38,0.0959,3,1,1,4,no
+503883,Senne Lammens,985,Manchester United,GB1,2880,38,0.8421,32,0,0,39,yes
+503883,Senne Lammens,1096,Royal Antwerp FC,BE1,360,30,0.1333,4,0,0,4,no
+517894,Matheus Cunha,985,Manchester United,GB1,2503,38,0.7319,29,10,4,41,yes
+524000,Dani Vivian,621,Athletic Bilbao,ES1,2563,38,0.7494,28,1,0,47,yes
+533738,Jonathan David,506,Juventus FC,IT1,1784,38,0.5216,20,6,4,15,yes
+548111,Álex Baena,13,Atlético de Madrid,ES1,1572,38,0.4596,21,2,3,27,yes
+561613,Joan García,131,FC Barcelona,ES1,2700,38,0.7895,30,0,0,21,yes
+564545,Edmond Tapsoba,15,Bayer 04 Leverkusen,L1,2576,34,0.8418,29,5,3,38,yes
+578391,Rayan Aït-Nouri,281,Manchester City,GB1,976,38,0.2854,12,0,2,11,yes
+607854,Éderson,800,Atalanta BC,IT1,2235,38,0.6535,26,2,1,21,yes
+614258,Levi Colwill,631,Chelsea FC,GB1,225,38,0.0658,2,0,0,3,yes
+627442,Benjamin Sesko,985,Manchester United,GB1,1637,38,0.4787,17,11,1,25,yes
+659813,Piero Hincapié,11,Arsenal FC,GB1,1792,38,0.524,20,1,2,20,yes
+659813,Piero Hincapié,15,Bayer 04 Leverkusen,L1,90,34,0.0294,1,0,0,2,no
+775605,Pablo Barrios,13,Atlético de Madrid,ES1,1666,38,0.4871,20,1,1,17,yes

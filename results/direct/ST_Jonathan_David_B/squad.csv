@@ -1,0 +1,31 @@
+player_id,name,club_at_cutoff,age,action,role,starter,quality_in_role,wage_gbp_m,fee_or_receipt_gbp_m
+240306,Bruno Fernandes,Manchester United,30,kept,CM,1,86.01,15.6,
+234509,André Onana,Manchester United,29,kept,GK,0,74.73,6.24,
+340456,Noussair Mazraoui,Manchester United,27,kept,CB,1,68.35,7.02,
+357147,Diogo Dalot,Manchester United,26,kept,WB,1,70.32,4.42,
+326031,Matthijs de Ligt,Manchester United,25,kept,CB,1,65.94,10.14,
+177907,Harry Maguire,Manchester United,32,sold,,0,,9.88,9.84
+536835,Amad Diallo,Manchester United,22,kept,AM,1,72.53,6.24,
+476701,Manuel Ugarte,Manchester United,24,kept,CM,0,67.62,6.24,
+16306,Casemiro,Manchester United,33,sold,,0,,18.2,7.57
+480762,Lisandro Martínez,Manchester United,27,kept,CB,0,55.41,6.24,
+435648,Joshua Zirkzee,Manchester United,24,kept,AM,0,58.85,5.46,
+346483,Mason Mount,Manchester United,26,kept,AM,0,44.98,7.8,
+336077,Altay Bayındır,Manchester United,27,kept,GK,0,34.58,1.82,
+183288,Luke Shaw,Manchester United,29,sold,,0,,7.8,9.08
+610442,Rasmus Højlund,Manchester United,22,kept,ST,0,43.25,4.42,
+811779,Alejandro Garnacho,Manchester United,20,kept,AM,0,61.33,2.6,
+820374,Kobbie Mainoo,Manchester United,20,kept,CM,0,59.61,1.3,
+923831,Leny Yoro,Manchester United,19,kept,CB,0,62.12,5.98,
+926952,Patrick Dorgu,Manchester United,20,kept,WB,0,58.37,2.08,
+654253,Toby Collyer,Manchester United,21,kept,CM,0,19.3,0.26,
+1011738,Harry Amass,Manchester United,18,kept,WB,0,23.08,0.26,
+1078163,Ayden Heaven,Manchester United,18,kept,CB,0,22.74,1.3,
+1042886,Chido Obi,Manchester United,17,kept,ST,0,28.65,0.78,
+911424,Tyler Fredricson,Manchester United,20,kept,CB,0,18.11,1.3,
+333647,Jonathan Burkardt,1.FSV Mainz 05,24,bought,ST,1,75.84,5.72,32.39
+358504,Ritsu Doan,SC Freiburg,26,bought,WB,1,81.2,5.72,20.36
+413039,Bryan Mbeumo,Brentford FC,25,bought,AM,1,88.32,10.4,50.89
+463600,Lucas Chevalier,LOSC Lille,23,bought,GK,1,88.26,5.72,27.76
+607854,Éderson,Atalanta BC,25,bought,CM,1,86.51,10.4,63.09
+659813,Piero Hincapié,Bayer 04 Leverkusen,23,bought,CB,1,87.64,10.4,63.09

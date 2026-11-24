@@ -1,0 +1,31 @@
+player_id,name,club_at_cutoff,age,action,role,starter,quality_in_role,wage_gbp_m,fee_or_receipt_gbp_m
+240306,Bruno Fernandes,Manchester United,30,kept,CM,1,86.01,7.8,
+234509,André Onana,Manchester United,29,kept,GK,0,74.73,5.72,
+340456,Noussair Mazraoui,Manchester United,27,kept,CB,1,68.35,5.72,
+357147,Diogo Dalot,Manchester United,26,kept,WB,1,70.32,5.72,
+326031,Matthijs de Ligt,Manchester United,25,kept,CB,0,65.94,7.8,
+177907,Harry Maguire,Manchester United,32,kept,CB,0,46.09,3.9,
+536835,Amad Diallo,Manchester United,22,kept,AM,1,72.53,7.8,
+476701,Manuel Ugarte,Manchester United,24,kept,CM,1,67.62,7.8,
+16306,Casemiro,Manchester United,33,kept,CB,0,41.87,2.34,
+480762,Lisandro Martínez,Manchester United,27,sold,,0,,7.8,30.28
+435648,Joshua Zirkzee,Manchester United,24,kept,AM,0,58.85,5.72,
+346483,Mason Mount,Manchester United,26,kept,AM,0,44.98,5.72,
+336077,Altay Bayındır,Manchester United,27,kept,GK,0,34.58,2.34,
+183288,Luke Shaw,Manchester United,29,kept,WB,0,34.9,3.9,
+610442,Rasmus Højlund,Manchester United,22,kept,ST,0,43.25,5.72,
+811779,Alejandro Garnacho,Manchester United,20,kept,AM,0,61.33,7.8,
+820374,Kobbie Mainoo,Manchester United,20,kept,CM,0,59.61,7.8,
+923831,Leny Yoro,Manchester United,19,sold,,0,,10.4,41.64
+926952,Patrick Dorgu,Manchester United,20,kept,WB,0,58.37,5.72,
+654253,Toby Collyer,Manchester United,21,kept,CM,0,19.3,2.34,
+1011738,Harry Amass,Manchester United,18,kept,WB,0,23.08,2.34,
+1078163,Ayden Heaven,Manchester United,18,kept,CB,0,22.74,2.34,
+1042886,Chido Obi,Manchester United,17,kept,ST,0,28.65,2.34,
+911424,Tyler Fredricson,Manchester United,20,sold,,0,,2.34,2.27
+358504,Ritsu Doan,SC Freiburg,26,bought,WB,1,81.2,5.72,20.36
+413039,Bryan Mbeumo,Brentford FC,25,bought,AM,1,88.32,10.4,50.89
+463600,Lucas Chevalier,LOSC Lille,23,bought,GK,1,88.26,5.72,27.76
+463605,Bafodé Diakité,LOSC Lille,24,bought,CB,1,80.14,5.72,23.13
+533738,Jonathan David,LOSC Lille,25,bought,ST,1,86.06,7.8,0.0
+648020,Alexsandro,LOSC Lille,25,bought,CB,1,76.19,3.9,13.88

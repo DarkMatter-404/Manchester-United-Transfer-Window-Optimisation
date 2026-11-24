@@ -1,0 +1,52 @@
+% =====================================================================
+\section{Implementation and runnable example}\label{app:code}
+% =====================================================================
+
+This appendix contains the complete optimisation code (Listing~\ref{lst:model}), a small example that runs from the material printed here (Section~\ref{app:example}), and a description of the supporting scripts, which are kept with the project but not printed.
+
+\subsection{Supporting processing and external data}
+
+The runs used Python 3.12.11, \texttt{gurobipy} 14.0.0 with an academic licence \citep{gurobi2026}, \texttt{duckdb} 2.0.0 and \texttt{pdfplumber} 0.11.10 (Table~\ref{tab:steps}). The full analysis also needs the raw tables of \citet{dcaribou2026} as downloaded on 16 November 2026, the third-party payroll page, not reproduced (its figures are in Table~\ref{tab:existing}), and the lists of Table~\ref{tab:handlists}.
+
+\begin{apptable}
+\captionof{table}{Processing from the raw records to the reported results. Only Listing~\ref{lst:model} is printed.}\label{tab:steps}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.33\linewidth} >{\raggedright\arraybackslash}p{0.43\linewidth} >{\raggedright\arraybackslash}p{0.18\linewidth}@{}}
+\toprule
+Script & Processing & Result \\
+\midrule
+\texttt{prepare\_inputs.py}, \texttt{club\_spells.py} & Rows to 31 May 2025; seasons, role starts, club organisations (42 reviewed youth-team names), spell starts & Decision-time tables \\
+\texttt{extract\_united\_wages.py} & United's wages from the payroll page & Table~\ref{tab:existing} \\
+\texttt{build\_player\_pool.py} & Filters, two-year rule, role eligibility & 806 candidates \\
+\texttt{score\_players.py} & Quality proxy (Section~\ref{app:score}) & 1,106 scores \\
+\texttt{model\_inputs.py} & Fees, receipts, wages, club rules, fee ceiling & Model data \\
+\texttt{run\_scenarios.py}, \texttt{check\_solution.py} & 56 runs with Listing~\ref{lst:model}; limits recomputed & Appendix~\ref{app:results} \\
+\texttt{evaluate\_results.py} & Frozen lists against 2025/26 records & Appendix~\ref{app:validation} \\
+\texttt{extra\_runs.py} & Additional runs, protected wage limit (method checked on the example), linear relaxation, playing-time audit & Table~\ref{tab:extraruns} \\
+\bottomrule
+\end{tabular}
+\end{apptable}
+
+\subsection{Correspondence between symbols and code}
+
+In Listing~\ref{lst:model}, lines 69--134 check the inputs, 144--185 set the parameters, 187--201 create the model and variables, 203--208 set the objective, 210--252 add the constraints, 254--260 solve, and 262--286 read the status, gap and solution only when one exists. Sets and parameters keep their names; \texttt{mu}, \texttt{F0}, \texttt{TB}, \texttt{TS}, \texttt{senior\_cap}, \texttt{non\_hg\_cap} and \texttt{no\_buy} are $\mu$, $F_0$, $T_B$, $T_S$, $R_{\mathrm{sen}}$, $R_{\mathrm{nhg}}$ and $U$; the variables \texttt{sell}, \texttt{buy}, \texttt{squad}, \texttt{cover} and \texttt{start} are $s$, $b$, $x$, $z$, $y$; and the named constraints are \eqref{eq:linkE}--\eqref{eq:unavailable}. The terms \texttt{a}, \texttt{d} and \texttt{lam} are neutral in every run, and \texttt{omega} is 1 except in the weak-role run, so the base run solves \eqref{eq:objective}.
+
+\subsection{Runnable example}\label{app:example}
+
+The example has eight invented players in three roles (Listings~\ref{lst:toyplayers} and~\ref{lst:toyroles}): \texttt{status} is E (existing) or C (candidate), money is in \pounds m and wages per year, and the last four columns of \texttt{players.csv} are $h_p$, $t_p$, $a_p$ and $d_p$. Listing~\ref{lst:toydriver} sets one starter and squad place per role, no depth reward and wages of at most \pounds 10m, and solves at net allowances of \pounds 40m and \pounds 30m. With the four files in one folder, \texttt{python run\_toy\_example.py} prints Listing~\ref{lst:toyoutput}; it needs Python 3 and \texttt{gurobipy}, whose bundled size-limited licence is enough.
+
+\begin{singlespace}
+\lstinputlisting[language={},breakatwhitespace=false,caption={Example input \texttt{players.csv} (complete).},label=lst:toyplayers]{code/toy/players.csv}
+\lstinputlisting[language={},caption={Example input \texttt{roles.csv} (complete).},label=lst:toyroles]{code/toy/roles.csv}
+\lstinputlisting[caption={Driver of the example, \texttt{run\_toy\_example.py} (complete; written for this appendix, separate from the analysis code).},label=lst:toydriver]{code/run_toy_example.py}
+\lstinputlisting[language={},numbers=none,caption={Output of the example (licence messages omitted).},label=lst:toyoutput]{code/toy/output.txt}
+\end{singlespace}
+
+At \pounds 40m, net spending $(15 + 60) - (20 + 15) = 40$ meets \eqref{eq:budget} and wages $2 + 3 + 5 = 10$ meet \eqref{eq:wages}, both exactly; the line-up D1, M1, F1 (247) would need 95 and 14. At \pounds 30m the plan scores 230 with net spending $95 - 65 = 30$.
+
+\subsection{Complete optimisation code}
+
+\begin{singlespace}
+\lstinputlisting[caption={The optimisation model, \texttt{transfer\_model.py} (complete file, used for every reported run and for the example).},label=lst:model]{code/transfer_model.py}
+\end{singlespace}
+
+\FloatBarrier

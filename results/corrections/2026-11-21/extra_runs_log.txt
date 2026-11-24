@@ -1,0 +1,157 @@
+All 18 lineups (score, net spend in GBP million, wages in GBP million per year)
+  lineup         score  net  wages  allowed at 40  allowed at 30
+  D1-M1-F1         247   95     14             no             no
+  D2-M1-F1         241   65     12             no             no
+  D1-B-F1          240   70     12             no             no
+  A-M1-F1          237   70     12             no             no
+  D1-M1-F2         236   60     12             no             no
+  D2-B-F1          234   40     10            yes             no
+  D2-M1-F2         230   30     10            yes            yes
+  A-B-F1           230   45     10             no             no
+  D1-B-F2          229   35     10            yes             no
+  A-M1-F2          226   35     10            yes             no
+  D2-B-F2          223    5      8            yes            yes
+  D1-M1-C          222   50     11             no             no
+  A-B-F2           219   10      8            yes            yes
+  D2-M1-C          216   20      9            yes            yes
+  D1-B-C           215   25      9            yes            yes
+  A-M1-C           212   25      9            yes            yes
+  D2-B-C           209   -5      7            yes            yes
+  A-B-C            205    0      7            yes            yes
+
+Status: OPTIMAL | gap: 0.0 | runtime (s): 0.021
+Objective (weighted score points): 234.0
+Sold:   A, C
+Bought: D2, F1
+  DEF | starting: D2 | depth: -
+  MID | starting: B | depth: -
+  FWD | starting: F1 | depth: -
+Purchase fees: 75.0 | sale receipts: 35.0 | fixed net fees: 0 | net spend: 40.0 of 40 (GBP million)
+Wages: 10.0 of 10 (GBP million per year)
+Arrivals: 2 of 6 | sales: 2 of 6 | senior list: 3 of 25 | non-homegrown: 3 of 17
+PASS allowance_40 | objective 234.0, starters B-D2-F1, net 40.0, wages 10.0
+
+PASS allowance_30 | objective 230.0, starters D2-M1-F2, net 30.0, wages 10.0
+PASS keep_original_three | objective 205.0, starters A-B-C, net 0, wages 7.0
+PASS sale_of_A_fails | objective 226.0, starters A-M1-F2, net 35.0, wages 10.0
+PASS fixed_arrival | objective 226.0, starters D2-M1-K1, net 25.0, wages 9.0
+PASS fixed_arrival_counts_as_arrival | objective 225.0, starters B-D1-K1, net 30.0, wages 9.0
+PASS versatile_one_role | objective 239.0, starters D2-F1-V, net 40.0, wages 10.0
+PASS versatile_not_counted_twice | status INFEASIBLE, conflicting rules: link_candidate[D1], link_candidate[D2], link_candidate[M1], one_cover_role[D1], one_cover_role[D2], one_cover_role[M1], one_cover_role[V], cover_min[DEF], cover_min[MID], no_buy[D1], no_buy[D2], no_buy[M1]
+PASS non_homegrown_limit | objective 226.0, starters A-M1-F2, net 35.0, wages 10.0
+PASS senior_list_limit | objective 230.0, starters D2-M1-F2, net 30.0, wages 10.0
+Status: OPTIMAL | gap: 0.0 | runtime (s): 0.002
+Objective (weighted score points): 236.0
+Sold:   nobody
+Bought: D2, F2
+  DEF | starting: D2 | depth: A
+  MID | starting: B | depth: -
+  FWD | starting: F2 | depth: C
+Purchase fees: 40.0 | sale receipts: 0 | fixed net fees: 0 | net spend: 40.0 of 40 (GBP million)
+Wages: 12.0 of 14 (GBP million per year)
+Arrivals: 2 of 6 | sales: 0 of 6 | senior list: 4 of 25 | non-homegrown: 2 of 17
+PASS depth_reward | objective 236.0, starters B-D2-F2, net 40.0, wages 12.0
+
+PASS depth_versatile_fixed | objective 246.0, starters D2-F1-V, net 60.0, wages 12.0
+PASS wage_allowance_too_low | status INFEASIBLE, conflicting rules: one_cover_role[A], one_cover_role[B], one_cover_role[C], one_cover_role[D1], one_cover_role[D2], one_cover_role[M1], one_cover_role[F1], one_cover_role[F2], cover_min[DEF], cover_min[MID], cover_min[FWD], wages
+PASS required_purchase_and_sale_infeasible | status INFEASIBLE, conflicting rules: link_existing[B], link_candidate[D1], one_cover_role[B], one_cover_role[C], one_cover_role[M1], one_cover_role[F1], one_cover_role[F2], cover_min[MID], cover_min[FWD], wages, must_buy[D1], must_sell[B]
+PASS required_purchase_and_sale | objective 236.0, starters D1-M1-F2, net 60.0, wages 12.0
+PASS versatile_free_choice_of_role | objective 239.0, starters D2-F1-V, net 40.0, wages 10.0
+PASS bought_only_to_start_in_role | objective 238.0, starters B-F1-V, net 55.0, wages 11.0
+PASS checker_rejects_bad_plans | two roles for one player and overspending are both reported
+
+All toy checks passed.
+Robust method against a full search of the example: 12 cases, 0 failed
+robust/gamma_0 | objective 1100.96 | checks yes
+robust/gamma_1 | objective 1097.34 | checks yes
+robust/gamma_2 | objective 1095.76 | checks yes
+robust/gamma_3 | objective 1093.46 | checks yes
+robust/gamma_4 | objective 1093.46 | checks yes
+robust/gamma_5 | objective 1093.46 | checks yes
+robust/gamma_6 | objective 1093.46 | checks yes
+Playing-time audit: {"reference_players": 830, "player_seasons": 1497, "player_seasons_at_two_or_more_clubs": 164, "players_affected": 153, "affected_existing_players": ["Patrick Dorgu"], "affected_base_purchases": [], "affected_base_sales": []}
+Extra runs: 14 | with a failed check: 0 | robust runs with a failed check: 0
+Relaxation: {
+ "base": {
+  "integer_objective_from_model_code": 1100.959,
+  "integer_objective_from_saved_model": 1100.959,
+  "integer_nodes_explored": 1,
+  "relaxation_objective": 1101.0395,
+  "relaxation_minus_integer": 0.0805,
+  "fractional_variables": 3,
+  "fractional_by_kind": {
+   "sell": 1,
+   "buy": 0,
+   "squad": 1,
+   "cover": 1,
+   "start": 0
+  },
+  "rows_of_relaxation": {
+   "net_spend": {
+    "slack": 51.2391,
+    "dual_price": 0.0
+   },
+   "wages": {
+    "slack": 0.0,
+    "dual_price": 1.3423
+   },
+   "arrivals": {
+    "slack": 0.0,
+    "dual_price": 23.587
+   },
+   "sales": {
+    "slack": 3.0077,
+    "dual_price": 0.0
+   },
+   "senior_list": {
+    "slack": 6.9923,
+    "dual_price": 0.0
+   },
+   "non_homegrown": {
+    "slack": 1.0,
+    "dual_price": 0.0
+   }
+  }
+ },
+ "transactions_fixed": {
+  "integer_objective_from_model_code": 1100.959,
+  "integer_objective_from_saved_model": 1100.959,
+  "integer_nodes_explored": 1,
+  "relaxation_objective": 1100.959,
+  "relaxation_minus_integer": 0.0,
+  "fractional_variables": 0,
+  "fractional_by_kind": {
+   "sell": 0,
+   "buy": 0,
+   "squad": 0,
+   "cover": 0,
+   "start": 0
+  },
+  "rows_of_relaxation": {
+   "net_spend": {
+    "slack": 51.309,
+    "dual_price": 0.0
+   },
+   "wages": {
+    "slack": 0.06,
+    "dual_price": 0.0
+   },
+   "arrivals": {
+    "slack": 0.0,
+    "dual_price": 0.0
+   },
+   "sales": {
+    "slack": 3.0,
+    "dual_price": 0.0
+   },
+   "senior_list": {
+    "slack": 7.0,
+    "dual_price": 0.0
+   },
+   "non_homegrown": {
+    "slack": 1.0,
+    "dual_price": 0.0
+   }
+  }
+ }
+}

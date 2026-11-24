@@ -1,0 +1,31 @@
+===== no_transfers =====
+Status: OPTIMAL | gap: 0.0 | runtime (s): 0.032
+Objective (weighted score points): 876.466
+Sold:   nobody
+Bought: nobody
+  GK | starting: André Onana | depth: Altay Bayındır
+  CB | starting: Noussair Mazraoui, Matthijs de Ligt, Leny Yoro | depth: Harry Maguire, Lisandro Martínez, Ayden Heaven, Tyler Fredricson
+  WB | starting: Diogo Dalot, Patrick Dorgu | depth: Luke Shaw, Harry Amass
+  CM | starting: Bruno Fernandes, Manuel Ugarte | depth: Casemiro, Kobbie Mainoo, Toby Collyer
+  AM | starting: Amad Diallo, Alejandro Garnacho | depth: Joshua Zirkzee, Mason Mount
+  ST | starting: Rasmus Højlund | depth: Chido Obi
+Purchase fees: 0 | sale receipts: 0 | fixed net fees: 0 | net spend: 0 of 250 (GBP million)
+Wages: 133.38 of 148 (GBP million per year)
+Arrivals: 0 of 6 | sales: 0 of 6 | senior list: 15 of 25 | non-homegrown: 11 of 17
+
+===== base =====
+Status: OPTIMAL | gap: 0.0 | runtime (s): 0.019
+Objective (weighted score points): 1100.959
+Sold:   Harry Maguire, Casemiro, Luke Shaw
+Bought: Ritsu Doan, Bryan Mbeumo, Lucas Chevalier, Jonathan David, Éderson, Piero Hincapié
+  GK | starting: Lucas Chevalier | depth: André Onana, Altay Bayındır
+  CB | starting: Noussair Mazraoui, Matthijs de Ligt, Piero Hincapié | depth: Lisandro Martínez, Leny Yoro, Ayden Heaven, Tyler Fredricson
+  WB | starting: Diogo Dalot, Ritsu Doan | depth: Patrick Dorgu, Harry Amass
+  CM | starting: Bruno Fernandes, Éderson | depth: Manuel Ugarte, Kobbie Mainoo, Toby Collyer
+  AM | starting: Amad Diallo, Bryan Mbeumo | depth: Joshua Zirkzee, Mason Mount, Alejandro Garnacho
+  ST | starting: Jonathan David | depth: Rasmus Højlund, Chido Obi
+Purchase fees: 225.19 | sale receipts: 26.5 | fixed net fees: 0 | net spend: 198.69 of 250 (GBP million)
+Wages: 147.94 of 148 (GBP million per year)
+Arrivals: 6 of 6 | sales: 3 of 6 | senior list: 18 of 25 | non-homegrown: 16 of 17
+
+Runs: 56 | with a failed check: 0 | without a plan: 0

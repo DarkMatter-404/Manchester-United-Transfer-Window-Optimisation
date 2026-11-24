@@ -1,0 +1,124 @@
+% =====================================================================
+\section{Mathematical formulation}\label{sec:model}
+% =====================================================================
+
+\subsection{Sets, parameters and variables}
+
+Tables~\ref{tab:sets} to~\ref{tab:variables} define the sets, the parameters, which are fixed numbers when the model is solved, and the five families of binary variables; Appendix~\ref{app:code} maps each symbol to its name in the code. An \emph{eligible pair} $(p,g) \in H$ means that player $p$ may be allocated to role $g$ and may start there. The base run has $|E| + |C| + |P| + 2|H| = 24 + 296 + 320 + 862 = 1{,}502$ variables.
+
+\begin{table}[!htbp]
+\centering
+\caption{Sets and indices, with their sizes in the base run.}\label{tab:sets}
+\begin{tabular}{@{}l >{\raggedright\arraybackslash}p{0.55\linewidth} r@{}}
+\toprule
+Symbol & Definition & Base size \\
+\midrule
+$E$ & Existing players, who may be kept or sold & 24 \\
+$C$ & Candidates available in the run, who may be bought & 296 \\
+$K$ & Arrivals committed before the cutoff & 0 \\
+$P = E \cup C \cup K$ & All players in the model; the three sets do not overlap & 320 \\
+$G$ & Roles $\{\mathrm{GK}, \mathrm{CB}, \mathrm{WB}, \mathrm{CM}, \mathrm{AM}, \mathrm{ST}\}$ & 6 \\
+$H \subseteq P \times G$ & Eligible player-role pairs & 431 \\
+$G_p$, $P_g$ & Roles of player $p$; players eligible for role $g$ & n/a \\
+$U \subseteq C$ & Candidates who cannot be bought in the run & 1 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!htbp]
+\centering
+\caption{Parameters, units and base values.}\label{tab:parameters}
+\begin{tabular}{@{}l >{\raggedright\arraybackslash}p{0.52\linewidth} >{\raggedright\arraybackslash}p{0.27\linewidth}@{}}
+\toprule
+Symbol & Meaning & Unit and base value \\
+\midrule
+$q_{pg}$ & Quality proxy of player $p$ in role $g$, from \eqref{eq:score} & Points, 0 to 100 \\
+$f_p$, $r_p$ & Purchase fee of $p \in C$; sale receipt of $p \in E$ & \pounds m; $f_p \le 75$ \\
+$w_p$ & Annual wage of $p \in P$ & \pounds m per year \\
+$t_p$, $h_p$ & 1 if $p$ needs a senior-list place; 1 if $p$ is home-grown & 0 or 1 \\
+$k_g$ & Starters required in role $g$ & (1, 3, 2, 2, 2, 1) \\
+$l_g$, $u_g$ & Minimum and maximum players allocated to role $g$ & (2, 5, 4, 4, 4, 2); (3, 7, 5, 5, 6, 3) \\
+$\mu$ & Weight of a non-starter relative to a starter & 0.3 \\
+$B$, $F_0$ & Net transfer allowance; net fees of committed arrivals & \pounds 250m; \pounds 0m \\
+$W$ & Annual wage allowance & \pounds 148m per year \\
+$T_B$, $T_S$ & Most arrivals; most discretionary sales & 6; 6 \\
+$R_{\mathrm{sen}}$, $R_{\mathrm{nhg}}$ & Senior-list places; non-home-grown places among them & 25; 17 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!htbp]
+\centering
+\caption{Binary decision variables.}\label{tab:variables}
+\begin{tabular}{@{}l l >{\raggedright\arraybackslash}p{0.34\linewidth} >{\raggedright\arraybackslash}p{0.27\linewidth}@{}}
+\toprule
+Variable & Defined for & Value 1 means & Value 0 means \\
+\midrule
+$s_p$ & $p \in E$ & Existing player $p$ is sold & $p$ is kept \\
+$b_p$ & $p \in C$ & Candidate $p$ is bought & $p$ is not bought \\
+$x_p$ & $p \in P$ & $p$ is in the final squad & $p$ is not in the squad \\
+$z_{pg}$ & $(p,g) \in H$ & $p$ is allocated to role $g$ for cover & $p$ is not counted in $g$ \\
+$y_{pg}$ & $(p,g) \in H$ & $p$ starts in role $g$ & $p$ does not start in $g$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Objective}
+
+The model maximises the quality of the starting eleven plus a smaller reward for the rest of the squad:
+\begin{equation}\label{eq:objective}
+\max \quad Z = \sum_{(p,g) \in H} q_{pg}\, y_{pg} \; + \; \mu \sum_{(p,g) \in H} q_{pg} \left( z_{pg} - y_{pg} \right).
+\end{equation}
+In the second term, $z_{pg} - y_{pg}$ equals 1 exactly when $p$ is allocated to $g$ but does not start, so each squad member counts once: a player with $q_{pg} = 80$ contributes 80 as a starter, $0.3 \times 80 = 24$ as a reserve and nothing outside the squad. The weight $\mu = 0.3$ is a team judgement that reserves matter less than starters but more than a token amount. The objective is linear and its unit is proxy points. The code also allows a role weight on the starter term, an availability factor and a development bonus; all are neutral except in the run with alternative role weights (Appendix~\ref{app:code}).
+
+\subsection{Constraints}
+
+\paragraph{Squad membership follows the transactions.}
+\begin{align}
+x_p &= 1 - s_p && \forall p \in E, \label{eq:linkE}\\
+x_p &= b_p && \forall p \in C. \label{eq:linkC}
+\end{align}
+An existing player stays unless sold, so the model cannot collect a sale receipt and keep the player. A candidate's quality enters only together with the purchase, and therefore with its fee, wage and arrival place.
+
+\paragraph{Each squad member covers one role, and a starter starts in that role.}
+\begin{align}
+\sum_{g \in G_p} z_{pg} &= x_p && \forall p \in P, \label{eq:onerole}\\
+y_{pg} &\le z_{pg} && \forall (p,g) \in H. \label{eq:start}
+\end{align}
+A versatile player gives the model a choice of role but is never counted twice, and a sold or unbought player cannot start.
+
+\paragraph{The formation is filled and each role has cover.}
+\begin{align}
+\sum_{p \in P_g} y_{pg} &= k_g && \forall g \in G, \label{eq:formation}\\
+l_g \le \sum_{p \in P_g} z_{pg} &\le u_g && \forall g \in G. \label{eq:cover}
+\end{align}
+With $k = (1, 3, 2, 2, 2, 1)$ for (GK, CB, WB, CM, AM, ST), exactly eleven players start in the 3-4-2-1 shape. The cover counts include starters, so $l_{\mathrm{CB}} = 5$ requires two reserve centre-backs; summed over roles, the bounds keep the squad between 21 and 29 players.
+
+\paragraph{Net transfer spending and annual wages stay within the allowances.}
+\begin{align}
+F_0 + \sum_{p \in C} f_p\, b_p - \sum_{p \in E} r_p\, s_p &\le B, \label{eq:budget}\\
+\sum_{p \in P} w_p\, x_p &\le W. \label{eq:wages}
+\end{align}
+Receipts are subtracted, so a zero net allowance still allows purchases funded by sales. Every squad member's wage counts, and a sale removes that wage, which is how sales create room for purchases.
+
+\paragraph{The numbers of transfers and registrations are limited.}
+\begin{align}
+|K| + \sum_{p \in C} b_p &\le T_B, \label{eq:arrivals}\\
+\sum_{p \in E} s_p &\le T_S, \label{eq:sales}\\
+\sum_{p \in P} t_p\, x_p &\le R_{\mathrm{sen}}, \label{eq:senior}\\
+\sum_{p \in P} t_p (1 - h_p)\, x_p &\le R_{\mathrm{nhg}}. \label{eq:nonhg}
+\end{align}
+Six purchases do not require six sales. The Premier League registers at most 25 senior players, of whom at most 17 may be not home-grown \citep{pl2025rules}; players born on or after 1 January 2004 need no senior place ($t_p = 0$). A home-grown player, of any nationality, was registered with English or Welsh clubs for three seasons or 36 months before the age of 21 \citep{pl2025rules}. Candidates count as not home-grown unless checked, which can only make \eqref{eq:nonhg} harder to meet.
+
+\paragraph{Unavailable and fixed transactions; binary decisions.}
+\begin{align}
+b_p &= 0 && \forall p \in U, \label{eq:unavailable}\\
+s_p,\; b_p,\; x_p,\; z_{pg},\; y_{pg} &\in \{0, 1\}. \label{eq:binary}
+\end{align}
+In the base run $U$ holds the one candidate whose move elsewhere was announced before the cutoff. Other runs add rows of the same kind: $b_p = 0$ or $s_p = 0$ to rule out a transaction, $b_p = 1$ or $s_p = 1$ to hold part of a plan fixed, and $b_p \le y_{pg}$ to require a replacement to start in role $g$.
+
+\subsection{Model type and structure}\label{sec:structure}
+
+The league, age, minutes and valuation filters, role eligibility, the two-year rule, the clubs that do not sell and the \pounds 75m ceiling are applied when $C$ and $H$ are built, so a candidate who fails any of them has no variables. All coefficients are fixed and every variable is binary, so the model is a binary integer linear program; it needs no product of variables and no large artificial constant \citep{bradley1977,hillier2001}.
+
+Its structure explains why it is easy to solve. Once the sales and purchases are fixed at whole numbers, rows \eqref{eq:onerole} to \eqref{eq:cover} describe a network flow. Writing $r_{pg} = z_{pg} - y_{pg}$ for a reserve allocation, each squad member sends one unit either to the starting places or to the reserve places of one eligible role, the starting places of role $g$ receive exactly $k_g$ units and the role as a whole between $l_g$ and $u_g$. The constraint matrix of a network flow problem is totally unimodular, so this allocation subproblem has an optimal solution in whole numbers \citep{bertsimas1997}. The structure does not make the complete model integral: in its linear relaxation, a fractional sale or purchase, driven by the knapsack-type rows \eqref{eq:budget} and \eqref{eq:wages} and the counting rows \eqref{eq:arrivals} to \eqref{eq:nonhg}, makes squad membership and role allocations fractional as well. A basic solution of the relaxation with whole-number transfers is, however, whole-number throughout. Section~\ref{sec:method} reports how small the effect is in the base case.

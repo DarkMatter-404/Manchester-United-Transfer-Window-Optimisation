@@ -1,0 +1,15 @@
+PASS same output in two builds | data/processed/club_seasons.csv d1fcf19a8a9fd1ed
+PASS same output in two builds | data/processed/player_seasons.csv f6dca8cbd6ee01ae
+PASS same output in two builds | data/processed/player_role_starts.csv 622119d12be715f3
+PASS same output in two builds | data/processed/players_at_cutoff.csv f11f3a8e67bfed64
+PASS same output in two builds | data/processed/club_family.csv f81d48edb948b0d4
+PASS same output in two builds | data/processed/pool_players.csv 65613dfa8dd044fb
+PASS same output in two builds | data/processed/pool_roles.csv dd386b3978daba06
+PASS same output in two builds | data/processed/excluded_candidates.csv fd0c1e5e2780d183
+PASS same output in two builds | data/processed/scores.csv 9335050980223fdc
+PASS same output in two builds | data/manual/united_wages.csv 36f37138def942dd
+PASS same output in two builds | docs/exclusions.csv cfb9af5f12937072
+PASS identical to the version recorded at the freeze | data/processed/scores.csv
+PASS identical to the version recorded at the freeze | data/processed/pool_roles.csv
+
+Input builds are repeatable and the scoring reference is unchanged.

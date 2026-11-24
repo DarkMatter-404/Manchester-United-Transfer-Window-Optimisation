@@ -1,0 +1,11 @@
+group,measure,memberships,distinct_players,valid_observations,mean,median_added_after_evaluation
+base signing,share of main club's league minutes,6,6,6,0.624,0.589
+base signing,"change in market value, %",6,6,6,-7.717,-13.35
+direct alternative,share of main club's league minutes,18,18,16,0.556,0.516
+direct alternative,"change in market value, %",18,18,18,0.794,-4.55
+actual United signing,share of main club's league minutes,5,5,4,0.705,0.75
+actual United signing,"change in market value, %",5,5,5,88.7,25.0
+sold in the base plan,share of main club's league minutes,3,3,3,0.729,0.757
+sold in the base plan,"change in market value, %",3,3,3,-37.267,-38.5
+all groups,share of main club's league minutes,32,30,29,0.609,0.653
+all groups,"change in market value, %",32,30,32,9.366,-4.55
